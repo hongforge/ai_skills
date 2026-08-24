@@ -79,6 +79,29 @@ describe('ir-schema.md', () => {
   });
 });
 
+describe('方言表', () => {
+  const dialectFiles = fs.existsSync(REFERENCES_DIR)
+    ? fs.readdirSync(REFERENCES_DIR).filter((f) => f.startsWith('dialect-') && f.endsWith('.md'))
+    : [];
+
+  // 守卫：目录为空时 it.each 不生成任何用例，没有这条会静默通过
+  it('至少存在一份', () => {
+    expect(dialectFiles.length).toBeGreaterThan(0);
+  });
+
+  it.each(dialectFiles)('%s 覆盖全部 9 个 IR 字段组', (file) => {
+    const body = fs.readFileSync(path.join(REFERENCES_DIR, file), 'utf8');
+    for (const group of CONTENT_GROUPS) {
+      expect(body, `${file} 未覆盖字段组 ${group}`).toContain(group);
+    }
+  });
+
+  it.each(dialectFiles)('%s 说明 salience 截断策略', (file) => {
+    const body = fs.readFileSync(path.join(REFERENCES_DIR, file), 'utf8');
+    expect(body, `${file} 未说明 salience 截断策略`).toContain('salience');
+  });
+});
+
 describe('policy.md', () => {
   it('存在且覆盖两条内容红线', () => {
     const body = fs.readFileSync(path.join(REFERENCES_DIR, 'policy.md'), 'utf8');
