@@ -1,0 +1,30 @@
+{
+  "name": "ai-skills",
+  "version": "0.1.0",
+  "description": "Industrial-grade skills for AI coding agents. Ships img2prompt: reverse-engineer any image into professional prompts for GPT, Nano Banana, Midjourney, and Stable Diffusion.",
+  "type": "module",
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "skills",
+    "claude-code",
+    "img2prompt",
+    "prompt-engineering",
+    "midjourney",
+    "stable-diffusion"
+  ],
+  "license": "MIT",
+  "author": "hongforge",
+  "devDependencies": {
+    "@types/node": "^22.16.5",
+    "tsx": "^4.20.3",
+    "typescript": "^5.9.2",
+    "vitest": "^3.2.4",
+    "yaml": "^2.5.0"
+  }
+}
