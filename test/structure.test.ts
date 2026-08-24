@@ -100,6 +100,17 @@ describe('方言表', () => {
     const body = fs.readFileSync(path.join(REFERENCES_DIR, file), 'utf8');
     expect(body, `${file} 未说明 salience 截断策略`).toContain('salience');
   });
+
+  // SKILL.md 的 Stage 2 路由表不得指向不存在的方言表
+  it('SKILL.md 路由表引用的方言表都存在', () => {
+    const referenced = new Set(
+      [...skillMd().matchAll(/references\/(dialect-[a-z0-9-]+\.md)/g)].map((m) => m[1]),
+    );
+    expect(referenced.size, 'SKILL.md 未引用任何方言表').toBeGreaterThan(0);
+    for (const ref of referenced) {
+      expect(dialectFiles, `SKILL.md 引用了不存在的 references/${ref}`).toContain(ref);
+    }
+  });
 });
 
 describe('policy.md', () => {
