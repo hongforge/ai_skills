@@ -2,7 +2,7 @@ import { describe, it, expect } from 'vitest';
 import fs from 'node:fs';
 import path from 'node:path';
 import { CONTENT_GROUPS } from '../src/validate-ir.js';
-import { SKILL_DIR, REFERENCES_DIR } from './helpers/paths.js';
+import { SKILL_DIR, REFERENCES_DIR, REPO_ROOT } from './helpers/paths.js';
 
 const skillMd = () => fs.readFileSync(path.join(SKILL_DIR, 'SKILL.md'), 'utf8');
 
@@ -118,5 +118,20 @@ describe('policy.md', () => {
     const body = fs.readFileSync(path.join(REFERENCES_DIR, 'policy.md'), 'utf8');
     expect(body).toContain('在世艺术家');
     expect(body).toContain('面部');
+  });
+});
+
+describe('README', () => {
+  it.each(['README.md', 'README.zh.md'])('%s 存在且互相链接', (file) => {
+    const body = fs.readFileSync(path.join(REPO_ROOT, file), 'utf8');
+    expect(body).toContain('README.md');
+    expect(body).toContain('README.zh.md');
+  });
+
+  it.each(['README.md', 'README.zh.md'])('%s 列出四个目标模型', (file) => {
+    const body = fs.readFileSync(path.join(REPO_ROOT, file), 'utf8');
+    for (const name of ['GPT', 'Nano Banana', 'Midjourney', 'Stable Diffusion']) {
+      expect(body, `${file} 未提及 ${name}`).toContain(name);
+    }
   });
 });
