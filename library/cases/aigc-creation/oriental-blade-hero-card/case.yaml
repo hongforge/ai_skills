@@ -1,0 +1,22 @@
+id: aigc-oriental-blade-hero-card
+title: AIGC 东方女剑客角色卡
+summary: 为原创东方幻想女剑客建立脸部、服装、武器与阵营色均可连续复用的角色主卡。
+taxonomy:
+  deliverable: [aigc-creation, portrait-character, illustration-art]
+  medium: [illustration]
+  workflow: [text-to-image, series-consistency]
+  capability: [subject-consistency, material-lighting, layout-hierarchy, instruction-following]
+  model: [gpt-image, nano-banana, midjourney]
+tags: [AIGC 游戏, 东方幻想, 女剑客, 角色设定, 角色卡]
+license: { prompt: CC0-1.0, reference: none }
+source: { kind: original, url: null, rights_note: Original repository content. }
+prompt:
+  language: en
+  variables: [character_archetype, appearance_anchors, signature_weapon, faction_palette, render_style]
+  cover_values:
+    character_archetype: { zh: 东方幻想年轻女剑客，冷静、自信、行动型主角, en: A young oriental-fantasy swordswoman; calm, confident, and action-oriented. }
+    appearance_anchors: { zh: 年轻东方女性、黑色高马尾、银质发饰、清晰五官、黑白分层战袍与绯红系带, en: Young East Asian woman, high black ponytail, silver hair ornament, clear facial features, layered black-and-ivory battle robes, and crimson cords. }
+    signature_weapon: { zh: 青玉与精钢打造的细长发光长剑，镂空金属剑格，青蓝电光沿剑刃流动, en: A slender luminous longsword made of jade and steel, with an openwork metal guard and cyan energy running along the blade. }
+    faction_palette: { zh: 墨黑与象牙白为主色，绯红作服装点缀，冷月蓝用于剑光与环境辉光, en: Ink black and ivory as primary colors, crimson costume accents, and cold moon-blue for the blade and environmental glow. }
+    render_style: { zh: 竖版 2:3 电影级东方幻想游戏概念艺术，写实动漫人物渲染，精细织物与金属质感, en: Vertical 2:3 cinematic oriental-fantasy game concept art with realistic-anime character rendering and detailed fabric and metal. }
+evaluation: { status: draft, tested_models: [], last_verified: null, limitations: [Use the prompt as a starting point and review character continuity before production use.] }

@@ -1,0 +1,251 @@
+templates:
+  - id: ui-product-page
+    title: 产品落地页结构
+    summary: 从首屏到转化区，生成可读且层级清晰的产品官网页面。
+    taxonomy: { deliverable: [ui-interface], workflow: [text-to-image], capability: [layout-hierarchy, text-rendering, instruction-following], model: [gpt-image, nano-banana, universal] }
+    variables: [product_name, audience, value_proposition, visual_direction, primary_cta]
+    prompt: "Design a desktop landing page for {{product_name}} aimed at {{audience}}. Build a clear hierarchy: value-led hero, product proof, three benefit modules, trust signals, and a focused {{primary_cta}}. Use {{visual_direction}}. Keep every text block concise, legible, and aligned to a consistent 12-column grid."
+    checklist: [首屏只保留一个主要行动按钮, 标题与数字有清晰的阅读顺序, 页面模块可以独立裁切展示]
+    pitfalls: [不要用无法阅读的长段落占位文字, 不要让装饰元素压过行动按钮]
+  - id: ui-analytics-dashboard
+    title: 数据看板界面
+    summary: 适合运营、增长和业务监控场景的可解释仪表盘模板。
+    taxonomy: { deliverable: [ui-interface], workflow: [text-to-image], capability: [data-visualization, layout-hierarchy, text-rendering], model: [gpt-image, nano-banana, universal] }
+    variables: [product, primary_metric, date_range, visual_style, accent_color]
+    prompt: "Create a polished analytics dashboard for {{product}}. Prioritize {{primary_metric}} for {{date_range}}, then show supporting trend, segment, and conversion modules. Use {{visual_style}} with {{accent_color}} highlights. Charts must have visible labels, restrained color use, generous spacing, and an obvious reading order."
+    checklist: [主指标优先级最高, 图表都有标题和单位, 颜色只承担一种明确语义]
+    pitfalls: [不要为了炫酷堆叠小图表, 不要把关键数据只靠颜色区分]
+  - id: infographic-explainer
+    title: 说明型信息图
+    summary: 将复杂主题拆解为可扫描的步骤、模块与关系图。
+    taxonomy: { deliverable: [infographic], workflow: [text-to-image], capability: [data-visualization, layout-hierarchy, text-rendering], model: [gpt-image, nano-banana, universal] }
+    variables: [topic, audience, key_steps, data_points, visual_metaphor]
+    prompt: "Create a vertical educational infographic about {{topic}} for {{audience}}. Explain {{key_steps}} through a {{visual_metaphor}}. Include only the essential {{data_points}}, short labels, directional connectors, and strong section hierarchy. Use a restrained editorial palette and leave ample whitespace."
+    checklist: [信息先后顺序明确, 图例和箭头含义一致, 单屏可以读完核心结论]
+    pitfalls: [不要塞入无法验证的数据, 不要让插画替代信息结构]
+  - id: poster-campaign
+    title: 活动主视觉海报
+    summary: 为活动、展览与发布会建立强视觉锚点和排版秩序。
+    taxonomy: { deliverable: [poster-editorial], workflow: [text-to-image], capability: [layout-hierarchy, text-rendering, material-lighting], model: [gpt-image, midjourney, nano-banana] }
+    variables: [event_name, date_location, theme, visual_metaphor, palette]
+    prompt: "Art-direct a vertical campaign poster for {{event_name}}. The theme is {{theme}}, expressed through {{visual_metaphor}}. Use {{palette}}, one dominant focal element, an intentional empty area for type, and a disciplined grid for {{date_location}}. The composition should feel editorial, memorable, and print-ready."
+    checklist: [标题有预留区域, 日期地点处在稳定信息区, 主体轮廓在缩略图中仍可辨识]
+    pitfalls: [不要在主体与标题之间制造竞争, 不要使用过多字体风格]
+  - id: editorial-cover
+    title: 杂志封面系统
+    summary: 用统一版式、主题图像和文字层级生成可延展的封面方向。
+    taxonomy: { deliverable: [poster-editorial], workflow: [text-to-image], capability: [layout-hierarchy, text-rendering, subject-consistency], model: [gpt-image, nano-banana, universal] }
+    variables: [publication, issue_theme, cover_subject, mood, cover_lines]
+    prompt: "Create a premium magazine cover for {{publication}} about {{issue_theme}}. Feature {{cover_subject}} with a {{mood}} visual treatment. Establish a recognizable masthead zone, a dominant cover line, and 3 concise supporting {{cover_lines}}. Keep the system balanced, tactile, and suitable for a recurring publication series."
+    checklist: [刊头空间固定, 主封面语句最醒目, 人像或主体不遮挡关键信息]
+    pitfalls: [不要使用小到不可读的卖点, 不要让每期封面结构完全失控]
+  - id: commerce-product-hero
+    title: 商品英雄图
+    summary: 强化材质、卖点和留白的高转化商品主图结构。
+    taxonomy: { deliverable: [product-commerce], workflow: [text-to-image, image-to-image], capability: [product-fidelity, material-lighting, layout-hierarchy], model: [gpt-image, nano-banana, stable-diffusion] }
+    variables: [product, hero_feature, material, audience, setting]
+    prompt: "Create a premium commercial hero image for {{product}}. Showcase {{hero_feature}} and preserve the exact {{material}} details. Place it in {{setting}} for {{audience}}, with controlled studio lighting, a clean silhouette, believable scale, and protected negative space for campaign copy."
+    checklist: [产品形态和标识准确, 材质反射符合光源, 留白可放标题与价格]
+    pitfalls: [不要让道具抢走产品焦点, 不要改变产品关键结构]
+  - id: commerce-detail-page
+    title: 电商详情页模块
+    summary: 用卖点、对比和使用情境搭建完整商品详情页。
+    taxonomy: { deliverable: [product-commerce], workflow: [text-to-image], capability: [product-fidelity, layout-hierarchy, text-rendering], model: [gpt-image, nano-banana, universal] }
+    variables: [product, customer_problem, top_features, proof_point, visual_style]
+    prompt: "Design a long-form e-commerce product detail page for {{product}}. Start from {{customer_problem}}, then use modules for {{top_features}}, an evidence block for {{proof_point}}, and an in-context usage scene. Use {{visual_style}}. Make product images, comparison rows, headings, and CTA areas easy to scan on mobile."
+    checklist: [每一屏只有一个说服任务, 参数表信息可快速比对, 卖点图与文字一一对应]
+    pitfalls: [不要重复表达同一个卖点, 不要用夸张视觉替代真实产品信息]
+  - id: brand-identity-kit
+    title: 品牌识别套件
+    summary: 将品牌定位转成标志、色彩、字体和应用触点的统一系统。
+    taxonomy: { deliverable: [brand-identity], workflow: [text-to-image], capability: [layout-hierarchy, subject-consistency, instruction-following], model: [gpt-image, nano-banana, universal] }
+    variables: [brand_name, industry, positioning, personality, visual_metaphor]
+    prompt: "Create a coherent identity presentation for {{brand_name}}, a {{industry}} brand positioned around {{positioning}}. Translate {{personality}} through {{visual_metaphor}}. Show a primary mark, color and type direction, icon language, packaging or digital applications, and rules that keep the system consistent."
+    checklist: [标志能在小尺寸识别, 色彩有主次层级, 应用场景共享同一视觉语法]
+    pitfalls: [不要把品牌名做成复杂插画, 不要让每个触点使用不同风格]
+  - id: architecture-interior
+    title: 室内空间提案
+    summary: 通过动线、材质和自然光呈现可感知的室内方案。
+    taxonomy: { deliverable: [architecture-space], workflow: [text-to-image, image-to-image], capability: [spatial-reasoning, material-lighting, instruction-following], model: [gpt-image, midjourney, stable-diffusion] }
+    variables: [space_type, users, design_concept, materials, light_condition]
+    prompt: "Visualize a {{space_type}} for {{users}} guided by {{design_concept}}. Use {{materials}} and {{light_condition}}. Show a believable circulation path, human-scale furniture, correct perspective, layered lighting, and details that reveal how the space is used."
+    checklist: [透视与家具尺度可信, 出入口和动线明确, 材质边界可辨认]
+    pitfalls: [不要让空间缺少功能线索, 不要制造不可能的镜面或悬浮结构]
+  - id: portrait-editorial
+    title: 编辑人像摄影
+    summary: 用镜头、布光和人物状态建立可控的肖像方向。
+    taxonomy: { deliverable: [portrait-character], workflow: [text-to-image, image-to-image], capability: [subject-consistency, material-lighting, instruction-following], model: [gpt-image, nano-banana, stable-diffusion] }
+    variables: [subject, story, wardrobe, lens, lighting]
+    prompt: "Create an editorial portrait of {{subject}} that communicates {{story}}. Direct the {{wardrobe}}, use a {{lens}} perspective and {{lighting}}. Preserve natural anatomy, skin texture, intentional pose, and a background that supports rather than competes with the person."
+    checklist: [人物身份与表情统一, 手部和服装细节自然, 光线有明确方向]
+    pitfalls: [不要过度磨皮, 不要使用冲突的镜头和景深描述]
+  - id: character-turnaround
+    title: 角色设定三视图
+    summary: 为游戏、动画和品牌角色建立可复用的一致性设定。
+    taxonomy: { deliverable: [portrait-character], workflow: [text-to-image, series-consistency], capability: [subject-consistency, text-rendering, layout-hierarchy], model: [gpt-image, nano-banana, stable-diffusion] }
+    variables: [character_name, role, silhouette, costume, personality]
+    prompt: "Design a production-ready character sheet for {{character_name}}, a {{role}}. Define a memorable {{silhouette}}, {{costume}}, and {{personality}}. Show front, side, and back views, a facial-expression strip, material callouts, and a concise prop set on a clean annotation grid."
+    checklist: [三视图比例一致, 关键配饰每个角度可追踪, 注释服务制作而非装饰]
+    pitfalls: [不要让三视图服饰互相矛盾, 不要把角色性格只写成抽象形容词]
+  - id: scene-storyboard
+    title: 分镜叙事板
+    summary: 以镜头顺序、情绪节奏和关键动作组织一段视觉故事。
+    taxonomy: { deliverable: [scene-storytelling], workflow: [text-to-image, series-consistency], capability: [subject-consistency, layout-hierarchy, instruction-following], model: [gpt-image, nano-banana, midjourney] }
+    variables: [story, protagonist, setting, emotion_arc, visual_style]
+    prompt: "Create a six-panel storyboard for {{story}}. Follow {{protagonist}} through {{setting}} with an emotional arc of {{emotion_arc}}. Use {{visual_style}}. Vary shot size deliberately, preserve character continuity, label each beat briefly, and make cause-and-effect readable without dialogue."
+    checklist: [每格都有明确动作或转折, 景别变化服务节奏, 人物服装和道具连续]
+    pitfalls: [不要把六格都画成同一景别, 不要跳过故事因果关系]
+  - id: illustration-styleframe
+    title: 插画风格帧
+    summary: 快速锁定插画媒介、构图和情绪，为后续系列统一风格。
+    taxonomy: { deliverable: [illustration-art], workflow: [text-to-image, series-consistency], capability: [material-lighting, layout-hierarchy, subject-consistency], model: [gpt-image, midjourney, stable-diffusion] }
+    variables: [subject, mood, medium, palette, composition]
+    prompt: "Create an illustration styleframe of {{subject}} with a {{mood}} tone. Use {{medium}}, {{palette}}, and a {{composition}} composition. Make the mark-making, material texture, depth cues, and focal hierarchy specific enough to guide an entire campaign series."
+    checklist: [媒介特征可被复用, 色彩关系明确, 焦点在缩略图中仍成立]
+    pitfalls: [不要混用互相冲突的艺术媒介, 不要只写笼统的风格名称]
+  - id: document-report-cover
+    title: 报告与白皮书封面
+    summary: 面向研究、咨询和企业沟通的正式出版物封面模板。
+    taxonomy: { deliverable: [document-publishing], workflow: [text-to-image], capability: [text-rendering, layout-hierarchy, data-visualization], model: [gpt-image, nano-banana, universal] }
+    variables: [report_title, organization, topic, year, graphic_motif]
+    prompt: "Design a credible report cover for {{organization}} titled {{report_title}} about {{topic}}. Include {{year}} and express the theme with {{graphic_motif}}. Use a formal grid, clear title hierarchy, ample margins, and a system that can extend to section dividers and charts."
+    checklist: [标题优先于装饰, 组织信息位置稳定, 封面可延展为完整报告系统]
+    pitfalls: [不要让抽象图形掩盖报告主题, 不要使用难读的细字]
+  - id: learning-diagram
+    title: 教学知识图解
+    summary: 将定义、关系与步骤组合成可用于教学的清晰视觉图解。
+    taxonomy: { deliverable: [educational-visual], workflow: [text-to-image], capability: [data-visualization, text-rendering, layout-hierarchy], model: [gpt-image, nano-banana, universal] }
+    variables: [concept, learner_level, key_relationships, examples, visual_system]
+    prompt: "Create a teaching diagram that explains {{concept}} for {{learner_level}}. Show {{key_relationships}} with labeled connectors and use {{examples}} as concrete anchors. Apply {{visual_system}} consistently. The image should be understandable in one minute and useful for discussion after that."
+    checklist: [先解释核心概念再补例子, 连线方向一致, 术语数量受控]
+    pitfalls: [不要把知识图做成装饰性海报, 不要省略关系的方向或条件]
+  - id: social-carousel
+    title: 社媒轮播内容
+    summary: 为社交平台设计强首屏、连续叙事和结尾行动引导。
+    taxonomy: { deliverable: [poster-editorial], workflow: [text-to-image, series-consistency], capability: [layout-hierarchy, text-rendering, subject-consistency], model: [gpt-image, nano-banana, universal] }
+    variables: [topic, audience, hook, key_points, call_to_action]
+    prompt: "Design an 8-slide social carousel about {{topic}} for {{audience}}. Open with {{hook}}, then turn {{key_points}} into one clear idea per slide and close with {{call_to_action}}. Use a repeatable layout system, large legible type, and visual continuity across the sequence."
+    checklist: [第一页在缩略图中可读, 每页只表达一个观点, 尾页有明确行动]
+    pitfalls: [不要把文章截图直接塞进轮播, 不要让每页换一种视觉语言]
+  - id: startup-pitch-deck
+    title: 创业路演图表
+    summary: 以问题、方案、市场与数据证据组织投资沟通的关键视觉页。
+    taxonomy: { deliverable: [document-publishing], workflow: [text-to-image], capability: [data-visualization, layout-hierarchy, text-rendering], model: [gpt-image, nano-banana, universal] }
+    variables: [company, problem, solution, market, traction]
+    prompt: "Create a concise pitch-deck visual system for {{company}}. Explain {{problem}}, {{solution}}, {{market}}, and {{traction}} with a confident but evidence-led narrative. Use simple charts, prioritized numbers, and a consistent layout that works across title, problem, product, market, and metrics slides."
+    checklist: [每页有单一结论, 数字均带含义和单位, 图表能脱离演讲被理解]
+    pitfalls: [不要夸大没有来源的市场数字, 不要把所有内容都放在同一页]
+  - id: packaging-concept
+    title: 包装概念提案
+    summary: 结合货架识别、材料细节和信息层级的包装探索模板。
+    taxonomy: { deliverable: [product-commerce, brand-identity], workflow: [text-to-image, image-to-image], capability: [product-fidelity, material-lighting, text-rendering], model: [gpt-image, nano-banana, stable-diffusion] }
+    variables: [product, target_customer, brand_personality, material, shelf_context]
+    prompt: "Design packaging for {{product}} aimed at {{target_customer}}. Express {{brand_personality}} through form, color, and typography, using {{material}}. Show the primary pack, a close-up material detail, and {{shelf_context}} so hierarchy, recognition, and practical proportions can be evaluated."
+    checklist: [品名与规格层级清晰, 结构与开合方式可信, 陈列时仍能识别品牌]
+    pitfalls: [不要把包装做成无法生产的雕塑, 不要忽略条码与信息区]
+  - id: image-editing-brief
+    title: 图像编辑执行单
+    summary: 面向局部重绘和合成的低歧义编辑说明模板。
+    taxonomy: { deliverable: [product-commerce], workflow: [inpainting, compositing], capability: [instruction-following, product-fidelity, subject-consistency], model: [gpt-image, nano-banana, stable-diffusion] }
+    variables: [source_image, edit_region, desired_change, preserve, output_constraints]
+    prompt: "Using {{source_image}}, edit only {{edit_region}}. Apply {{desired_change}} while preserving {{preserve}} exactly. Match the original perspective, camera angle, lighting direction, shadows, material texture, and grain. Output constraints: {{output_constraints}}. Do not introduce unrelated objects or alter untouched regions."
+    checklist: [编辑范围明确, 保留项逐项列出, 输出尺寸和格式已指定]
+    pitfalls: [不要同时提出互相冲突的改动, 不要遗漏需要锁定的主体特征]
+  - id: visual-style-benchmark
+    title: 视觉方向对比板
+    summary: 让团队在同一主题下快速比较不同的艺术指导方向。
+    taxonomy: { deliverable: [illustration-art], workflow: [text-to-image, series-consistency], capability: [layout-hierarchy, material-lighting, instruction-following], model: [gpt-image, midjourney, nano-banana] }
+    variables: [subject, directions, evaluation_criteria, format, brand_constraints]
+    prompt: "Create a visual benchmark board for {{subject}}. Compare {{directions}} in a {{format}} layout while respecting {{brand_constraints}}. Keep subject, crop, and information density consistent so the team can judge each direction against {{evaluation_criteria}} rather than incidental differences."
+    checklist: [所有方向共享同一评价基线, 每个方向有简短标签, 版面方便横向对比]
+    pitfalls: [不要让每个方案更换主体或构图, 不要只比较颜色而忽略材质和情绪]
+  - id: ui-mobile-task-flow
+    title: 移动端关键任务流
+    summary: 将一个高频移动端任务拆成有状态、有反馈且可用性明确的连续界面。
+    taxonomy: { deliverable: [ui-interface], workflow: [text-to-image, series-consistency], capability: [layout-hierarchy, text-rendering, instruction-following], model: [gpt-image, nano-banana, universal] }
+    variables: [product, user_role, primary_task, task_steps, visual_direction]
+    prompt: >-
+      Design a production-ready mobile task flow for {{product}} used by {{user_role}} to complete {{primary_task}}. Create a 4-screen sequence for {{task_steps}}: entry state, focused input or choice, confirmation or review, and successful completion. Keep the same navigation model, component system, content density, and visual language across all screens. Use {{visual_direction}} only after the interaction order is clear. Make the primary action obvious, include useful empty or error-state cues where relevant, and use short exact labels rather than invented marketing copy. Deliver one vertical, coherent flow board rather than unrelated app mockups.
+    checklist: [四个界面共享同一导航和组件规则, 每一步都有明确的用户目标和下一步, 成功状态能回答任务是否完成]
+    pitfalls: [不要把每屏设计成不同产品, 不要用装饰性卡片掩盖任务顺序]
+  - id: ui-operations-data-table
+    title: 运营数据表工作台
+    summary: 面向高密度业务操作场景，平衡表格扫描、批量动作和异常处理。
+    taxonomy: { deliverable: [ui-interface], workflow: [text-to-image], capability: [data-visualization, layout-hierarchy, text-rendering], model: [gpt-image, nano-banana, universal] }
+    variables: [product, user_role, primary_decision, key_columns, action]
+    prompt: >-
+      Design a desktop operations workspace for {{product}} where {{user_role}} makes {{primary_decision}} using a structured data table. Define {{key_columns}} as a readable column system with sorting, filtering, status semantics, row selection, and a safe bulk {{action}}. Add a compact summary strip above the table and a contextual detail panel only when it helps the decision. Use a 12-column desktop grid, deliberate density, visible units, and color only for stable status meaning. Keep labels short, avoid fabricated metrics, and make the primary decision possible without opening every row.
+    checklist: [表格列能直接支持主要决策, 状态颜色与文字双重表达, 批量操作具备选择和确认线索]
+    pitfalls: [不要把仪表盘小组件塞进每个表格空隙, 不要让颜色成为唯一状态说明]
+  - id: infographic-decision-map
+    title: 决策路径信息图
+    summary: 将复杂选择题转成条件、分支和结果明确的一页式决策图。
+    taxonomy: { deliverable: [infographic, educational-visual], workflow: [text-to-image], capability: [data-visualization, layout-hierarchy, text-rendering], model: [gpt-image, nano-banana, universal] }
+    variables: [topic, audience, starting_condition, decision_points, outcomes]
+    prompt: >-
+      Create a decision-map infographic about {{topic}} for {{audience}}. Start from {{starting_condition}}, then turn {{decision_points}} into a small number of explicit yes-or-no or threshold-based branches that lead to {{outcomes}}. Use one directional reading path, numbered steps, concise labels, and a consistent visual code for question, evidence, action, and outcome. Reserve visual metaphors for orientation only; they must not replace connectors or decision rules. Keep all factual statements supplied by the brief, omit unsupported statistics, and make the final recommendation easy to locate in under ten seconds.
+    checklist: [每个分支都有可执行判断条件, 箭头不会交叉或反向误导, 结果节点给出下一步而非空泛结论]
+    pitfalls: [不要把流程图画成装饰性路线图, 不要在单一节点塞入长段说明]
+  - id: poster-typography-hero
+    title: 字体主导活动海报
+    summary: 用可读标题作为主视觉骨架，让图像、材料和留白共同服务一个清晰主题。
+    taxonomy: { deliverable: [poster-editorial], workflow: [text-to-image], capability: [layout-hierarchy, text-rendering, material-lighting], model: [gpt-image, nano-banana, midjourney] }
+    variables: [headline, event_name, date_location, visual_metaphor, palette]
+    prompt: >-
+      Art-direct one finished vertical event poster for {{event_name}}. Set the exact headline {{headline}} as the largest and most readable visual structure, then express its meaning through {{visual_metaphor}}. Use {{palette}} as a controlled four-color system with one dominant background field, one type color, one image or material color, and one accent. Place {{date_location}} in a stable secondary information zone with generous clear space. The image, object, or figure must physically interact with the headline through overlap, cropping, shadow, or negative space rather than sitting beside it. Use refined editorial scale and print-aware margins; do not add unrequested copy.
+    checklist: [标题在缩略图中仍完整可读, 图像与标题发生明确空间关系, 日期地点在稳定的次级层级]
+    pitfalls: [不要生成多张海报或展示板, 不要用通用光泽字效和无关口号]
+  - id: commerce-comparison-explainer
+    title: 商品对比说明页
+    summary: 用同一尺度、同一证据标准呈现多款商品差异，帮助用户快速做购买选择。
+    taxonomy: { deliverable: [product-commerce], workflow: [text-to-image, image-to-image], capability: [product-fidelity, layout-hierarchy, text-rendering], model: [gpt-image, nano-banana, stable-diffusion] }
+    variables: [product_category, products, comparison_criteria, customer_goal, visual_style]
+    prompt: >-
+      Create a mobile-first comparison page for {{product_category}} that helps a customer achieve {{customer_goal}}. Present {{products}} at matched scale, camera angle, and lighting, then compare them only through {{comparison_criteria}}. Build a clear recommendation hierarchy: decision headline, compact comparison matrix, product evidence images, and one selected best-fit option with the condition that makes it appropriate. Use {{visual_style}} with copy-safe spacing and short verifiable labels. Preserve product geometry and supplied claims exactly; if a specification is unknown, leave it as a controlled placeholder instead of inventing it.
+    checklist: [所有产品以同一尺度和视角展示, 对比维度有统一单位或定性规则, 推荐结论说明适用条件]
+    pitfalls: [不要伪造参数或评分, 不要让价格角标和促销元素遮住产品结构]
+  - id: brand-guidelines-board
+    title: 品牌视觉规范板
+    summary: 将品牌策略转为可检查的标志、色彩、字体、图形和应用规范，而非灵感拼贴。
+    taxonomy: { deliverable: [brand-identity, document-publishing], workflow: [text-to-image, series-consistency], capability: [layout-hierarchy, text-rendering, subject-consistency], model: [gpt-image, nano-banana, universal] }
+    variables: [brand_name, positioning, audience, personality, application_context]
+    prompt: >-
+      Create a single brand-guidelines board for {{brand_name}}, positioned around {{positioning}} for {{audience}}. Translate {{personality}} into a restrained system: primary and secondary mark behavior, palette roles with contrast intent, typography hierarchy, icon or graphic-device rule, image direction, and two small application examples for {{application_context}}. Organize the board as a clean documentation page with labeled modules and enough whitespace to evaluate each rule. Show do-and-dont logic through simple paired examples, not a collage of unrelated identity directions. Never imitate an existing brand or introduce unverified brand claims.
+    checklist: [每个视觉元素都有明确角色, 应用示例能追溯到同一系统规则, 禁用示例能说明而非装饰]
+    pitfalls: [不要把多套不同风格标志塞进一页, 不要把品牌规范做成无法阅读的情绪板]
+  - id: architecture-material-journey
+    title: 空间材质与动线体验板
+    summary: 在同一空间方案中同时验证动线、关键节点、材料交界和昼夜光线。
+    taxonomy: { deliverable: [architecture-space], workflow: [text-to-image, series-consistency], capability: [spatial-reasoning, material-lighting, layout-hierarchy], model: [gpt-image, midjourney, stable-diffusion] }
+    variables: [space_type, users, design_concept, materials, time_condition]
+    prompt: >-
+      Create an architectural experience board for a {{space_type}} used by {{users}}, guided by {{design_concept}}. Show one primary eye-level view that makes the circulation path legible, two tightly cropped material junctions using {{materials}}, and a small lighting comparison for {{time_condition}}. Keep camera height, geometry, furniture scale, and material palette consistent across the board. Explain use through visible thresholds, seating, storage, or working zones rather than decorative props. Use concise annotations only where they clarify material, light, or circulation decisions; never hide impossible structure behind atmospheric styling.
+    checklist: [主视图能读出入口和使用动线, 材料节点具有真实厚度和连接逻辑, 不同光线条件仍保持空间一致]
+    pitfalls: [不要混用互相冲突的建筑语言, 不要用超广角畸变掩盖狭小空间]
+  - id: portrait-closeup-art-direction
+    title: 人物特写艺术指导单
+    summary: 为真实人物近景锁定身份锚点、镜头语言、肤质要求和不可接受的美容化处理。
+    taxonomy: { deliverable: [portrait-character], workflow: [text-to-image, image-to-image], capability: [subject-consistency, material-lighting, instruction-following], model: [gpt-image, nano-banana, stable-diffusion] }
+    variables: [subject_description, story, wardrobe, background_tone, lighting]
+    prompt: >-
+      Create one photorealistic head-and-shoulders close-up of {{subject_description}} that communicates {{story}}. Frame from upper chest to above the head; let the face occupy 60–75% of the image and keep both eyes precisely focused. Direct {{wardrobe}}, {{background_tone}}, and {{lighting}} so they support the identity rather than compete with it. Preserve authentic pores, fine hair, natural asymmetry, believable anatomy, and a restrained expression. Specify a realistic portrait lens and depth of field appropriate to the crop. Exclude full-body framing, face-obscuring hands, excessive retouching, beauty-filter skin, copied celebrity likenesses, text, logos, and watermarks.
+    checklist: [脸部和双眼是唯一焦点, 肤质与发丝保留真实细节, 服装背景和光线共同服务人物叙事]
+    pitfalls: [不要把人像做成塑料磨皮, 不要用夸张景深或霓虹色污染真实肤色]
+  - id: product-design-exploded-board
+    title: 产品研发拆解板
+    summary: 用结构、材料、使用情境和制造线索验证概念产品是否具备可信的研发逻辑。
+    taxonomy: { deliverable: [product-commerce, document-publishing], workflow: [text-to-image, series-consistency], capability: [product-fidelity, material-lighting, spatial-reasoning], model: [gpt-image, nano-banana, stable-diffusion] }
+    variables: [product, design_intent, key_components, materials, use_case]
+    prompt: >-
+      Create a product-development explainer board for {{product}}. Translate {{design_intent}} into one centered hero render, a restrained exploded view of {{key_components}}, close material samples for {{materials}}, and one ergonomic or contextual proof for {{use_case}}. Show assembly order, contact points, seams, fasteners, thickness, and scale only where they make manufacturability more credible. Use a clean technical-editorial grid with short labels and consistent viewing angles. The board must explain how the product works as well as how it looks; do not replace structure with decorative concept art or invent unsupported specifications.
+    checklist: [核心部件能与主产品一一对应, 拆解顺序符合装配逻辑, 材料和使用场景证明设计意图]
+    pitfalls: [不要把不可制造的细节当卖点, 不要用密集标注掩盖结构缺失]
+  - id: edit-preservation-contract
+    title: 参考图保真编辑协议
+    summary: 将局部编辑转成可审计的变更单，明确改什么、绝不改什么以及如何验收。
+    taxonomy: { deliverable: [product-commerce], workflow: [inpainting, compositing], capability: [instruction-following, product-fidelity, subject-consistency], model: [gpt-image, nano-banana, stable-diffusion] }
+    variables: [source_image, edit_region, desired_change, identity_anchors, preserve]
+    prompt: >-
+      Use {{source_image}} as the authoritative reference. Modify only {{edit_region}} to achieve {{desired_change}}. Before rendering, list {{identity_anchors}} and {{preserve}} as immutable constraints. Match the original camera position, perspective, crop, lens behavior, lighting direction, shadow softness, material texture, color response, and grain outside the edited area. Produce one edited image at the original aspect ratio, with seamless edges and no new objects unless explicitly named. Validate with a before-and-after comparison: the requested change must be visible, while every locked identity and untouched region remains recognizably unchanged.
+    checklist: [改动区域有清晰边界, 保留项包含身份和光影等不可变信息, 前后对比能验证只改了指定内容]
+    pitfalls: [不要在未指定区域重绘主体, 不要改变产品比例或人物身份来换取局部效果]

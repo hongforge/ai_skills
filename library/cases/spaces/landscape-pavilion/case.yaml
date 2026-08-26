@@ -1,0 +1,43 @@
+id: landscape-pavilion
+title: 景观亭建筑
+summary: 用轻盈结构与步行动线连接自然景观的公共亭子。
+taxonomy:
+  deliverable:
+    - architecture-space
+  medium:
+    - photography
+    - 3d-render
+  workflow:
+    - text-to-image
+  capability:
+    - spatial-reasoning
+    - material-lighting
+    - layout-hierarchy
+  model:
+    - universal
+    - midjourney
+    - stable-diffusion
+tags:
+  - 建筑空间
+  - 室内设计
+  - 环境氛围
+  - 景观亭建筑
+license:
+  prompt: CC0-1.0
+  reference: none
+source:
+  kind: original
+  url: null
+  rights_note: Original repository content.
+prompt:
+  language: en
+  variables:
+    - landscape_setting
+    - structural_material
+evaluation:
+  status: draft
+  tested_models: []
+  last_verified: null
+  limitations:
+    - Use the prompt as a starting point and review model output before
+      production use.

@@ -1,0 +1,43 @@
+id: skincare-brand-system
+title: 护肤品牌识别
+summary: 展示护肤品牌色彩、包装与视觉语言的识别系统。
+taxonomy:
+  deliverable:
+    - brand-identity
+  medium:
+    - vector-graphic
+    - mixed-media
+  workflow:
+    - text-to-image
+  capability:
+    - layout-hierarchy
+    - material-lighting
+    - instruction-following
+  model:
+    - universal
+    - gpt-image
+    - midjourney
+tags:
+  - 品牌设计
+  - 包装
+  - 视觉识别
+  - 护肤品牌识别
+license:
+  prompt: CC0-1.0
+  reference: none
+source:
+  kind: original
+  url: null
+  rights_note: Original repository content.
+prompt:
+  language: en
+  variables:
+    - brand_name
+    - brand_positioning
+evaluation:
+  status: draft
+  tested_models: []
+  last_verified: null
+  limitations:
+    - Use the prompt as a starting point and review model output before
+      production use.

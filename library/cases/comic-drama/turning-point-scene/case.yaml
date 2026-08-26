@@ -1,0 +1,23 @@
+id: comic-drama-turning-point-scene
+title: 漫剧剧情转折场景
+summary: 在一个明确动作和空间关系中呈现人物决定、身份反转或线索出现的关键转折。
+taxonomy:
+  deliverable: [comic-drama]
+  medium: [illustration]
+  workflow: [text-to-image, series-consistency]
+  capability: [subject-consistency, spatial-reasoning, material-lighting, instruction-following]
+  model: [gpt-image, nano-banana, midjourney]
+tags: [漫剧, 剧情转折, 关键场景, 竖屏短剧, 叙事镜头]
+license: { prompt: CC0-1.0, reference: none }
+source:
+  kind: original
+  url: null
+  rights_note: Original repository content.
+prompt:
+  language: en
+  variables: [protagonist, decisive_action, clue, location, visual_style]
+evaluation:
+  status: draft
+  tested_models: []
+  last_verified: null
+  limitations: [Use the prompt as a starting point and review model output before production use.]

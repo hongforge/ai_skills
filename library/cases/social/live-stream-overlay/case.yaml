@@ -1,0 +1,43 @@
+id: live-stream-overlay
+title: 直播互动叠层
+summary: 为直播画面提供弹幕、互动和嘉宾信息的叠层设计。
+taxonomy:
+  deliverable:
+    - poster-editorial
+    - brand-identity
+  medium:
+    - vector-graphic
+    - mixed-media
+  workflow:
+    - text-to-image
+  capability:
+    - layout-hierarchy
+    - text-rendering
+    - instruction-following
+  model:
+    - universal
+    - gpt-image
+tags:
+  - 社交媒体
+  - 营销内容
+  - 品牌传播
+  - 直播互动叠层
+license:
+  prompt: CC0-1.0
+  reference: none
+source:
+  kind: original
+  url: null
+  rights_note: Original repository content.
+prompt:
+  language: en
+  variables:
+    - stream_topic
+    - visual_mood
+evaluation:
+  status: draft
+  tested_models: []
+  last_verified: null
+  limitations:
+    - Use the prompt as a starting point and review model output before
+      production use.

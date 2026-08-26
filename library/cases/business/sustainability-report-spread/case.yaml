@@ -1,0 +1,42 @@
+id: sustainability-report-spread
+title: 可持续报告跨页
+summary: 以数据、图示与留白呈现企业可持续成果。
+taxonomy:
+  deliverable:
+    - document-publishing
+    - ui-interface
+  medium:
+    - vector-graphic
+  workflow:
+    - text-to-image
+  capability:
+    - data-visualization
+    - layout-hierarchy
+    - instruction-following
+  model:
+    - universal
+    - gpt-image
+tags:
+  - 企业
+  - 商业沟通
+  - 运营管理
+  - 可持续报告跨页
+license:
+  prompt: CC0-1.0
+  reference: none
+source:
+  kind: original
+  url: null
+  rights_note: Original repository content.
+prompt:
+  language: en
+  variables:
+    - impact_area
+    - reporting_year
+evaluation:
+  status: draft
+  tested_models: []
+  last_verified: null
+  limitations:
+    - Use the prompt as a starting point and review model output before
+      production use.

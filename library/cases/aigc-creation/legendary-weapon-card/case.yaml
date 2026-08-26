@@ -1,0 +1,22 @@
+id: aigc-legendary-weapon-card
+title: AIGC 传说武器卡
+summary: 为原创游戏武器生成材质逻辑清晰、能量机制可信且适合作为收藏卡展示的主视觉。
+taxonomy:
+  deliverable: [aigc-creation, illustration-art, product-commerce]
+  medium: [illustration]
+  workflow: [text-to-image, series-consistency]
+  capability: [product-fidelity, material-lighting, layout-hierarchy, instruction-following]
+  model: [gpt-image, nano-banana, midjourney]
+tags: [AIGC 游戏, 武器卡, 装备设计, 收藏卡, 道具设定]
+license: { prompt: CC0-1.0, reference: none }
+source: { kind: original, url: null, rights_note: Original repository content. }
+prompt:
+  language: en
+  variables: [weapon_type, material_language, energy_mechanism, faction_symbol, presentation_style]
+  cover_values:
+    weapon_type: { zh: 竖直悬浮的传说级新月刃长枪，兼具长柄枪与巨型镰刃轮廓, en: A vertically suspended legendary crescent-blade spear combining a polearm shaft with a giant scythe silhouette. }
+    material_language: { zh: 黑化天体钢、镜面银色刃口、半透明绯红晶体通道与细密裂纹, en: Blackened celestial steel, mirror-silver cutting edges, translucent crimson crystal channels, and fine fracture lines. }
+    energy_mechanism: { zh: 武器中段的旋转圆形核心向上下晶体通道输送红色能量，刃口仅保留受控辉光, en: A rotating circular core in the center feeds crimson energy into upper and lower crystal channels, with controlled glow along the edges. }
+    faction_symbol: { zh: 隐藏在护手与刃根结构中的星环和尖角徽记，不出现可读文字, en: Orbital-ring and pointed sigil motifs integrated into the guard and blade root, without readable lettering. }
+    presentation_style: { zh: 竖版 2:3 高端暗黑奇幻收藏卡，黑曜石祭坛、同心雕刻圆环、冷蓝顶光与绯红内发光, en: Vertical 2:3 premium dark-fantasy collectible card art with an obsidian altar, concentric engraved rings, cold blue top light, and crimson inner glow. }
+evaluation: { status: draft, tested_models: [], last_verified: null, limitations: [Review silhouette clarity, symmetry, functional construction, and readable card hierarchy before production use.] }

@@ -1,0 +1,58 @@
+name: Bug report
+description: Report incorrect data, broken validation, or a website problem.
+title: "bug: "
+body:
+  - type: markdown
+    attributes:
+      value: Please provide a minimal, reproducible report. Never include API keys, private images, or personal data.
+  - type: dropdown
+    id: area
+    attributes:
+      label: Affected area
+      options:
+        - Case data or prompt
+        - Industrial template
+        - Taxonomy or validation
+        - Website or preview
+        - Agent-ready JSON or Skill
+        - Documentation
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+      description: What happened, and what did you expect instead?
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Reproduction steps
+      placeholder: |
+        1. Run ...
+        2. Open ...
+        3. Observe ...
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Environment
+      description: Include OS, Node.js version, browser, and relevant model when applicable.
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Logs or screenshots
+      description: Remove secrets and personal data before attaching evidence.
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checks
+      options:
+        - label: I searched existing issues for the same problem.
+          required: true
+        - label: I removed secrets, private images, and personal data from this report.
+          required: true
+    validations:
+      required: true

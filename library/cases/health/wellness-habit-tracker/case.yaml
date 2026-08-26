@@ -1,0 +1,42 @@
+id: wellness-habit-tracker
+title: 健康习惯追踪器
+summary: 以可执行小目标和趋势反馈支持日常健康习惯。
+taxonomy:
+  deliverable:
+    - educational-visual
+    - ui-interface
+  medium:
+    - vector-graphic
+  workflow:
+    - text-to-image
+  capability:
+    - layout-hierarchy
+    - data-visualization
+    - instruction-following
+  model:
+    - universal
+    - gpt-image
+tags:
+  - 医疗健康
+  - 科普
+  - 服务设计
+  - 健康习惯追踪器
+license:
+  prompt: CC0-1.0
+  reference: none
+source:
+  kind: original
+  url: null
+  rights_note: Original repository content.
+prompt:
+  language: en
+  variables:
+    - habit_focus
+    - daily_target
+evaluation:
+  status: draft
+  tested_models: []
+  last_verified: null
+  limitations:
+    - Use the prompt as a starting point and review model output before
+      production use.

@@ -1,0 +1,41 @@
+id: annual-report-cover
+title: 年度报告封面
+summary: 面向企业发布场景的克制专业年度报告封面。
+taxonomy:
+  deliverable:
+    - document-publishing
+  medium:
+    - vector-graphic
+  workflow:
+    - text-to-image
+  capability:
+    - layout-hierarchy
+    - text-rendering
+    - data-visualization
+  model:
+    - universal
+    - gpt-image
+tags:
+  - 出版设计
+  - 文档
+  - 编辑排版
+  - 年度报告封面
+license:
+  prompt: CC0-1.0
+  reference: none
+source:
+  kind: original
+  url: null
+  rights_note: Original repository content.
+prompt:
+  language: en
+  variables:
+    - organization_type
+    - report_year
+evaluation:
+  status: draft
+  tested_models: []
+  last_verified: null
+  limitations:
+    - Use the prompt as a starting point and review model output before
+      production use.

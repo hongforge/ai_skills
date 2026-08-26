@@ -1,0 +1,41 @@
+id: ecommerce-product-detail-page
+title: 电商商品详情页
+summary: 突出商品信息、规格选择与购买决策的商品页。
+taxonomy:
+  deliverable:
+    - ui-interface
+  medium:
+    - vector-graphic
+  workflow:
+    - text-to-image
+  capability:
+    - layout-hierarchy
+    - text-rendering
+    - instruction-following
+  model:
+    - universal
+    - gpt-image
+tags:
+  - 界面设计
+  - 产品体验
+  - 版式层级
+  - 电商商品详情页
+license:
+  prompt: CC0-1.0
+  reference: none
+source:
+  kind: original
+  url: null
+  rights_note: Original repository content.
+prompt:
+  language: en
+  variables:
+    - product_type
+    - brand_name
+evaluation:
+  status: draft
+  tested_models: []
+  last_verified: null
+  limitations:
+    - Use the prompt as a starting point and review model output before
+      production use.

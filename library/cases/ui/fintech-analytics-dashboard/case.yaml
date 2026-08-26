@@ -1,0 +1,41 @@
+id: fintech-analytics-dashboard
+title: 金融分析仪表盘
+summary: 面向专业用户的深色金融数据监控界面。
+taxonomy:
+  deliverable:
+    - ui-interface
+  medium:
+    - vector-graphic
+  workflow:
+    - text-to-image
+  capability:
+    - layout-hierarchy
+    - text-rendering
+    - instruction-following
+  model:
+    - universal
+    - gpt-image
+tags:
+  - 界面设计
+  - 产品体验
+  - 版式层级
+  - 金融分析仪表盘
+license:
+  prompt: CC0-1.0
+  reference: none
+source:
+  kind: original
+  url: null
+  rights_note: Original repository content.
+prompt:
+  language: en
+  variables:
+    - product_name
+    - primary_metric
+evaluation:
+  status: draft
+  tested_models: []
+  last_verified: null
+  limitations:
+    - Use the prompt as a starting point and review model output before
+      production use.

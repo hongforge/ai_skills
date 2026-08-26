@@ -1,0 +1,43 @@
+id: logo-concept-board
+title: 标志概念板
+summary: 通过形状、应用场景和色彩展示品牌标志探索方向。
+taxonomy:
+  deliverable:
+    - brand-identity
+  medium:
+    - vector-graphic
+    - mixed-media
+  workflow:
+    - text-to-image
+  capability:
+    - layout-hierarchy
+    - material-lighting
+    - instruction-following
+  model:
+    - universal
+    - gpt-image
+    - midjourney
+tags:
+  - 品牌设计
+  - 包装
+  - 视觉识别
+  - 标志概念板
+license:
+  prompt: CC0-1.0
+  reference: none
+source:
+  kind: original
+  url: null
+  rights_note: Original repository content.
+prompt:
+  language: en
+  variables:
+    - brand_name
+    - brand_values
+evaluation:
+  status: draft
+  tested_models: []
+  last_verified: null
+  limitations:
+    - Use the prompt as a starting point and review model output before
+      production use.

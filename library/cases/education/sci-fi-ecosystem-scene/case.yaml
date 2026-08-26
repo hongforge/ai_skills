@@ -1,0 +1,25 @@
+id: sci-fi-ecosystem-scene
+title: 科幻生态场景
+summary: 为景深、尺度与环境叙事而设计的电影感世界观场景。
+taxonomy:
+  deliverable: [scene-storytelling, illustration-art]
+  medium: [illustration, mixed-media]
+  workflow: [text-to-image]
+  capability: [spatial-reasoning, material-lighting, instruction-following]
+  model: [universal, midjourney, stable-diffusion]
+tags: [科幻, 环境, 世界观, 电影感, 风景]
+license:
+  prompt: CC0-1.0
+  reference: none
+source:
+  kind: original
+  url: null
+  rights_note: Original prompt written for this repository without references to living artists.
+prompt:
+  language: en
+  variables: [biome, settlement, time_of_day]
+evaluation:
+  status: draft
+  tested_models: []
+  last_verified: null
+  limitations: [若同一主角需要跨场景反复出现，请配合单独的角色设定图。]

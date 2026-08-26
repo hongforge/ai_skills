@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#101313" />
+    <meta name="description" content="一个可检索、可复用的原创 AI 图像提示词库。" />
+    <title>开放图像提示词库</title>
+  </head>
+  <body>
+    <div class="page-glow"></div><div class="film-grain"></div>
+    <main class="shell">
+      <nav class="topbar" data-i18n-aria-label="primaryNavigation">
+        <a class="brand" href="#top" data-i18n-aria-label="homeAria"><span class="brand-mark">◒</span><span data-i18n="brand"></span></a>
+        <div class="nav-links"><a href="#library" data-i18n="navCases"></a><a href="#templates" data-i18n="navTemplates"></a><a href="#agents" data-i18n="navAgent"></a><button class="locale-switch" id="locale-switch" type="button" aria-label="Switch language"></button></div>
+      </nav>
+
+      <section class="hero" id="top">
+        <div class="hero-copy-block"><p class="eyebrow" data-i18n="heroEyebrow"></p><h1><span data-i18n="heroTitle"></span><br /><em data-i18n="heroAccent"></em></h1><p class="hero-copy" data-i18n="heroCopy"></p><div class="hero-actions"><a class="hero-action" href="#library"><span data-i18n="browseCases"></span><span>↓</span></a><span class="hero-note" data-i18n="heroNote"></span></div><div class="hero-stats" id="hero-stats" aria-label="Library statistics"></div></div>
+        <div class="hero-gallery" aria-hidden="true"><div class="hero-orbit orbit-one"></div><div class="hero-orbit orbit-two"></div><figure class="hero-shot shot-main"><img src="/case-images/tea-hero-still-life.png" alt="" /><figcaption data-i18n="heroShotProduct"></figcaption></figure><figure class="hero-shot shot-top"><img src="/case-images/sci-fi-ecosystem-scene.png" alt="" /><figcaption data-i18n="heroShotScene"></figcaption></figure><figure class="hero-shot shot-bottom"><img src="/case-images/ai-saas-landing-page.png" alt="" /><figcaption data-i18n="heroShotUi"></figcaption></figure><p class="hero-gallery-label">Prompt<br />Atlas</p></div>
+      </section>
+
+      <section class="catalog-map" aria-labelledby="catalog-map-title"><div class="catalog-map-copy"><p class="eyebrow" data-i18n="catalogEyebrow"></p><h2 id="catalog-map-title" data-i18n="catalogTitle"></h2><p data-i18n="catalogCopy"></p></div><div class="category-overview" id="category-overview" data-i18n-aria-label="categoryOverview"></div></section>
+
+      <section class="library-section" id="library"><header class="library-heading"><div><p class="eyebrow" data-i18n="casesEyebrow"></p><h2 data-i18n="casesTitle"></h2></div><p class="result-count" id="result-count" aria-live="polite"></p></header><div class="filter-panel"><div class="filter-panel-top"><span data-i18n="explore"></span><span data-i18n="filterHint"></span></div><label class="search-field"><span class="search-icon">⌕</span><input id="search" type="search" data-i18n-placeholder="searchPlaceholder" autocomplete="off" /></label><div class="filter-row" id="deliverable-filters" data-i18n-aria-label="deliverableFilter"></div><div class="select-row"><label><span data-i18n="workflow"></span><select id="workflow-filter"></select></label><label><span data-i18n="model"></span><select id="model-filter"></select></label><button class="reset-button" id="reset-filters" type="button" data-i18n="reset"></button></div></div><div class="case-grid" id="case-grid"></div><div class="empty-state" id="empty-state" hidden><span>⌁</span><h3 data-i18n="emptyTitle"></h3><p data-i18n="emptyCopy"></p></div></section>
+
+      <section class="template-section" id="templates"><header class="library-heading"><div><p class="eyebrow" data-i18n="templatesEyebrow"></p><h2 data-i18n="templatesTitle"></h2></div><p class="result-count" data-i18n="templatesMeta"></p></header><p class="template-intro" data-i18n="templatesCopy"></p><div class="template-grid" id="template-grid"></div></section>
+
+      <section class="agent-section" id="agents"><div class="agent-copy"><p class="eyebrow" data-i18n="agentEyebrow"></p><h2><span data-i18n="agentTitle"></span><br /><span data-i18n="agentAccent"></span></h2><p data-i18n="agentCopy"></p></div><div class="agent-flow" data-i18n-aria-label="agentFlow"><div class="agent-node"><span>01</span><strong data-i18n="agentCases"></strong><small data-i18n="agentCasesNote"></small></div><div class="agent-node"><span>02</span><strong data-i18n="agentTemplates"></strong><small data-i18n="agentTemplatesNote"></small></div><div class="agent-node agent-data"><span>03</span><strong>prompt-library.json</strong><small data-i18n="agentDataNote"></small></div><div class="agent-node"><span>04</span><strong>Agent Skill</strong><small data-i18n="agentSkillNote"></small></div><pre class="agent-code"><code>const match = catalog.cases.filter(
+  byDeliverable('product-commerce')
+    .and(byModel('gpt-image'))
+);</code></pre></div></section>
+
+      <section class="principles"><p class="eyebrow" data-i18n="principlesEyebrow"></p><div class="principle-grid"><article><span>01</span><h3 data-i18n="principleOneTitle"></h3><p data-i18n="principleOneCopy"></p></article><article><span>02</span><h3 data-i18n="principleTwoTitle"></h3><p data-i18n="principleTwoCopy"></p></article><article><span>03</span><h3 data-i18n="principleThreeTitle"></h3><p data-i18n="principleThreeCopy"></p></article></div></section>
+      <footer><span data-i18n="footerBrand"></span><span data-i18n="footerCopy"></span></footer>
+    </main>
+    <dialog class="case-dialog" id="case-dialog" aria-labelledby="dialog-title"><button class="close-button" id="close-dialog" type="button" data-i18n-aria-label="close">×</button><div id="dialog-content"></div></dialog>
+    <template id="case-card-template"><article class="case-card"><div class="card-topline"><span class="case-number"></span><span class="status"></span></div><div class="card-art"><img class="case-preview" alt="" hidden /><span class="art-orbit"></span><span class="art-shape"></span><span class="art-grid"></span></div><div class="card-body"><p class="card-category"></p><h3></h3><p class="summary"></p><div class="tags"></div></div><span class="card-link"><span data-card-i18n="viewPrompt"></span><span>↗</span></span></article></template>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>

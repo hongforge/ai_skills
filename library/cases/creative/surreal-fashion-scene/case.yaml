@@ -1,0 +1,44 @@
+id: surreal-fashion-scene
+title: 超现实时尚场景
+summary: 将时尚人物置入不合常理却统一的超现实空间。
+taxonomy:
+  deliverable:
+    - illustration-art
+    - poster-editorial
+  medium:
+    - mixed-media
+    - 3d-render
+  workflow:
+    - text-to-image
+  capability:
+    - material-lighting
+    - instruction-following
+    - spatial-reasoning
+  model:
+    - universal
+    - midjourney
+    - stable-diffusion
+tags:
+  - 创意实验
+  - 材质
+  - 抽象视觉
+  - 超现实时尚场景
+license:
+  prompt: CC0-1.0
+  reference: none
+source:
+  kind: original
+  url: null
+  rights_note: Original repository content.
+prompt:
+  language: en
+  variables:
+    - fashion_element
+    - surreal_setting
+evaluation:
+  status: draft
+  tested_models: []
+  last_verified: null
+  limitations:
+    - Use the prompt as a starting point and review model output before
+      production use.

@@ -1,0 +1,43 @@
+id: newsletter-hero-banner
+title: 邮件通讯头图
+summary: 以简洁主题视觉增强邮件通讯的打开率与识别度。
+taxonomy:
+  deliverable:
+    - poster-editorial
+    - brand-identity
+  medium:
+    - vector-graphic
+    - mixed-media
+  workflow:
+    - text-to-image
+  capability:
+    - layout-hierarchy
+    - text-rendering
+    - instruction-following
+  model:
+    - universal
+    - gpt-image
+tags:
+  - 社交媒体
+  - 营销内容
+  - 品牌传播
+  - 邮件通讯头图
+license:
+  prompt: CC0-1.0
+  reference: none
+source:
+  kind: original
+  url: null
+  rights_note: Original repository content.
+prompt:
+  language: en
+  variables:
+    - newsletter_theme
+    - visual_metaphor
+evaluation:
+  status: draft
+  tested_models: []
+  last_verified: null
+  limitations:
+    - Use the prompt as a starting point and review model output before
+      production use.

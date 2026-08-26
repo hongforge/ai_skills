@@ -1,0 +1,44 @@
+id: fashion-lookbook-cover
+title: 时尚型录封面
+summary: 以强造型和排版留白呈现季节性时尚主题。
+taxonomy:
+  deliverable:
+    - poster-editorial
+    - product-commerce
+  medium:
+    - photography
+    - mixed-media
+  workflow:
+    - text-to-image
+  capability:
+    - material-lighting
+    - layout-hierarchy
+    - instruction-following
+  model:
+    - universal
+    - gpt-image
+    - midjourney
+tags:
+  - 时尚
+  - 造型
+  - 零售视觉
+  - 时尚型录封面
+license:
+  prompt: CC0-1.0
+  reference: none
+source:
+  kind: original
+  url: null
+  rights_note: Original repository content.
+prompt:
+  language: en
+  variables:
+    - season_theme
+    - styling_direction
+evaluation:
+  status: draft
+  tested_models: []
+  last_verified: null
+  limitations:
+    - Use the prompt as a starting point and review model output before
+      production use.

@@ -1,0 +1,22 @@
+id: aigc-game-boss-arena
+title: AIGC 游戏 Boss 场景
+summary: 以明确空间尺度、战斗关系和环境机制生成高张力的原创 Boss 战关键场景。
+taxonomy:
+  deliverable: [aigc-creation, scene-storytelling]
+  medium: [illustration]
+  workflow: [text-to-image, series-consistency]
+  capability: [spatial-reasoning, subject-consistency, material-lighting, instruction-following]
+  model: [gpt-image, nano-banana, midjourney]
+tags: [AIGC 游戏, Boss 战, 场景概念, 战斗关键帧, 原创世界观]
+license: { prompt: CC0-1.0, reference: none }
+source: { kind: original, url: null, rights_note: Original repository content. }
+prompt:
+  language: en
+  variables: [boss_description, player_character, arena, attack_cue, lighting]
+  cover_values:
+    boss_description: { zh: 盘踞成巨大拱形的机械龙蛇，黑色分段鳞甲、冰晶头冠、青蓝胸部反应堆与橙色能量翼, en: A colossal mechanical dragon-serpent arcing overhead, with segmented black scales, an ice-crystal crown, cyan chest reactor, and orange energy wings. }
+    player_character: { zh: 站在画面底部中央的黑甲双剑战士，以极小人物尺度面对巨型首领, en: A black-armored dual-blade warrior standing at the lower center, deliberately tiny against the colossal boss. }
+    arena: { zh: 暴雨中的圆形水下神殿战场，黑色石柱、积水地面与远处瀑布围合空间, en: A circular flooded temple arena in heavy rain, enclosed by black stone pillars, reflective water, and distant waterfalls. }
+    attack_cue: { zh: 首领胸口青蓝核心蓄能、双翼燃起橙色光轨，水面形成向玩家扩散的冲击波, en: The cyan chest core charges while orange wing trails ignite and a shockwave spreads across the water toward the player. }
+    lighting: { zh: 青蓝反应堆冷光与熔橙攻击光对撞，雨雾和黑色湿石提供高反差反射, en: Cyan reactor light colliding with molten-orange attack light, reflected through rain mist and wet black stone. }
+evaluation: { status: draft, tested_models: [], last_verified: null, limitations: [Use the prompt as a starting point and review model output before production use.] }

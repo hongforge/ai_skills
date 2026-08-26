@@ -1,0 +1,23 @@
+id: reaction-closeup
+title: 情绪反应特写
+summary: 用可辨识的眼神、眉眼和嘴角变化呈现单一情绪，适合剧情卡片与社交互动素材。
+taxonomy:
+  deliverable: [avatar-expression]
+  medium: [illustration]
+  workflow: [text-to-image, series-consistency]
+  capability: [subject-consistency, material-lighting, instruction-following]
+  model: [gpt-image, nano-banana, midjourney]
+tags: [头像与表情, 情绪特写, 反应表情, 人物近景, 系列一致性]
+license: { prompt: CC0-1.0, reference: none }
+source:
+  kind: original
+  url: null
+  rights_note: Original repository content.
+prompt:
+  language: en
+  variables: [character_description, emotion, visual_style, background_tone]
+evaluation:
+  status: draft
+  tested_models: []
+  last_verified: null
+  limitations: [Use the prompt as a starting point and review model output before production use.]

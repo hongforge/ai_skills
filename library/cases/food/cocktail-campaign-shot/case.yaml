@@ -1,0 +1,43 @@
+id: cocktail-campaign-shot
+title: 鸡尾酒广告摄影
+summary: 以玻璃、高光与果香元素塑造精致鸡尾酒主视觉。
+taxonomy:
+  deliverable:
+    - product-commerce
+    - poster-editorial
+  medium:
+    - photography
+  workflow:
+    - text-to-image
+  capability:
+    - material-lighting
+    - layout-hierarchy
+    - product-fidelity
+  model:
+    - universal
+    - gpt-image
+    - nano-banana
+tags:
+  - 餐饮
+  - 食物摄影
+  - 品牌内容
+  - 鸡尾酒广告摄影
+license:
+  prompt: CC0-1.0
+  reference: none
+source:
+  kind: original
+  url: null
+  rights_note: Original repository content.
+prompt:
+  language: en
+  variables:
+    - cocktail_style
+    - hero_color
+evaluation:
+  status: draft
+  tested_models: []
+  last_verified: null
+  limitations:
+    - Use the prompt as a starting point and review model output before
+      production use.

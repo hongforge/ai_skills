@@ -1,0 +1,44 @@
+id: cinematic-storyboard-sequence
+title: 电影故事板序列
+summary: 通过连续镜头建立动作与情绪节奏的故事板。
+taxonomy:
+  deliverable:
+    - scene-storytelling
+  medium:
+    - illustration
+    - mixed-media
+  workflow:
+    - text-to-image
+    - series-consistency
+  capability:
+    - spatial-reasoning
+    - subject-consistency
+    - instruction-following
+  model:
+    - universal
+    - midjourney
+    - stable-diffusion
+tags:
+  - 叙事场景
+  - 世界观
+  - 故事板
+  - 电影故事板序列
+license:
+  prompt: CC0-1.0
+  reference: none
+source:
+  kind: original
+  url: null
+  rights_note: Original repository content.
+prompt:
+  language: en
+  variables:
+    - scene_premise
+    - emotional_turn
+evaluation:
+  status: draft
+  tested_models: []
+  last_verified: null
+  limitations:
+    - Use the prompt as a starting point and review model output before
+      production use.

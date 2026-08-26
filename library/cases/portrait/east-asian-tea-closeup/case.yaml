@@ -1,0 +1,43 @@
+id: east-asian-tea-closeup
+title: 茶室柔光东方女性特写
+summary: 在极简茶室柔光中拍摄沉静东方女性近景，呈现干净眼神与温和真实肤色。
+taxonomy:
+  deliverable:
+    - portrait-character
+  medium:
+    - photography
+  workflow:
+    - text-to-image
+  capability:
+    - material-lighting
+    - subject-consistency
+    - instruction-following
+  model:
+    - universal
+    - gpt-image
+    - nano-banana
+tags:
+  - 摄影
+  - 东方女性
+  - 人像特写
+  - 茶室柔光
+  - 真实感
+license:
+  prompt: CC0-1.0
+  reference: none
+source:
+  kind: original
+  url: null
+  rights_note: Original repository content.
+prompt:
+  language: en
+  variables:
+    - subject_description
+    - wardrobe
+    - setting_detail
+evaluation:
+  status: draft
+  tested_models: []
+  last_verified: null
+  limitations:
+    - Use the prompt as a starting point and review model output before production use.

@@ -6,7 +6,7 @@ import { validateIr, CONTENT_GROUPS } from '../src/validate-ir.js';
 import { EXAMPLES_DIR } from './helpers/paths.js';
 
 const STATUSES = ['pending', 'complete'];
-const SOURCES = ['ai-generated', 'cc0-photo'];
+const SOURCES = ['ai-generated'];
 
 const caseDirs = fs.existsSync(EXAMPLES_DIR)
   ? fs

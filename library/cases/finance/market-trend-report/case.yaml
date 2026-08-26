@@ -1,0 +1,43 @@
+id: market-trend-report
+title: 市场趋势报告
+summary: 以图表、指标与封面视觉呈现市场趋势洞察。
+taxonomy:
+  deliverable:
+    - ui-interface
+    - infographic
+  medium:
+    - vector-graphic
+    - photography
+  workflow:
+    - text-to-image
+  capability:
+    - data-visualization
+    - layout-hierarchy
+    - instruction-following
+  model:
+    - universal
+    - gpt-image
+tags:
+  - 金融
+  - 地产
+  - 数据展示
+  - 市场趋势报告
+license:
+  prompt: CC0-1.0
+  reference: none
+source:
+  kind: original
+  url: null
+  rights_note: Original repository content.
+prompt:
+  language: en
+  variables:
+    - market_sector
+    - trend_theme
+evaluation:
+  status: draft
+  tested_models: []
+  last_verified: null
+  limitations:
+    - Use the prompt as a starting point and review model output before
+      production use.

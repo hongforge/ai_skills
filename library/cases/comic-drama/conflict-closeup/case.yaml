@@ -1,0 +1,23 @@
+id: comic-drama-conflict-closeup
+title: 漫剧情绪冲突特写
+summary: 以近景眼神与克制光影承载对峙、误会或秘密揭露等高张力剧情节点。
+taxonomy:
+  deliverable: [comic-drama]
+  medium: [illustration]
+  workflow: [text-to-image, series-consistency]
+  capability: [subject-consistency, material-lighting, instruction-following]
+  model: [gpt-image, nano-banana, midjourney]
+tags: [漫剧, 情绪冲突, 人物特写, 竖屏短剧, 戏剧张力]
+license: { prompt: CC0-1.0, reference: none }
+source:
+  kind: original
+  url: null
+  rights_note: Original repository content.
+prompt:
+  language: en
+  variables: [protagonist, opposing_character, conflict, setting, lighting]
+evaluation:
+  status: draft
+  tested_models: []
+  last_verified: null
+  limitations: [Use the prompt as a starting point and review model output before production use.]

@@ -1,0 +1,22 @@
+id: aigc-game-key-art
+title: AIGC 游戏主视觉
+summary: 为原创游戏建立可用于商店页、发布页和广告投放的高完成度主视觉画面。
+taxonomy:
+  deliverable: [aigc-creation, illustration-art]
+  medium: [illustration]
+  workflow: [text-to-image, series-consistency]
+  capability: [layout-hierarchy, subject-consistency, material-lighting, instruction-following]
+  model: [gpt-image, nano-banana, midjourney]
+tags: [AIGC 游戏, 游戏主视觉, Key Art, 原创世界观, 商业插画]
+license: { prompt: CC0-1.0, reference: none }
+source: { kind: original, url: null, rights_note: Original repository content. }
+prompt:
+  language: en
+  variables: [game_genre, protagonist, world_hook, key_action, palette]
+  cover_values:
+    game_genre: { zh: 东方赛博幻想动作冒险游戏, en: An oriental cyber-fantasy action-adventure game. }
+    protagonist: { zh: 年轻东方女性赛博游侠，黑色高马尾、黑色战术装甲、绯红发光接缝与能量长剑, en: A young East Asian cyber-ranger with a high black ponytail, black tactical armor, crimson glowing seams, and an energy longsword. }
+    world_hook: { zh: 风暴海洋上方漂浮的巨型遗迹、垂直黑色方碑与正在开启的圆形空间裂隙, en: Giant ruins floating above a storm ocean, vertical black monoliths, and an opening circular spatial rift. }
+    key_action: { zh: 主角迎着镜头高速跃过破碎平台，左手维持平衡，右手能量剑划出绯红光轨, en: The protagonist leaps toward the camera across shattered platforms, balancing with one arm while the energy blade creates a crimson trail. }
+    palette: { zh: 风暴钴蓝与深炭黑为主，绯红装甲光和琥珀火星形成高能强调, en: Storm cobalt and deep charcoal, accented by crimson armor light and amber sparks. }
+evaluation: { status: draft, tested_models: [], last_verified: null, limitations: [Use the prompt as a starting point and review model output before production use.] }

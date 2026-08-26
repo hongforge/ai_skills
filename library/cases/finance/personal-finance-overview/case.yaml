@@ -1,0 +1,43 @@
+id: personal-finance-overview
+title: 个人财务总览
+summary: 将收入、支出和储蓄目标整合为清晰个人财务界面。
+taxonomy:
+  deliverable:
+    - ui-interface
+    - infographic
+  medium:
+    - vector-graphic
+    - photography
+  workflow:
+    - text-to-image
+  capability:
+    - data-visualization
+    - layout-hierarchy
+    - instruction-following
+  model:
+    - universal
+    - gpt-image
+tags:
+  - 金融
+  - 地产
+  - 数据展示
+  - 个人财务总览
+license:
+  prompt: CC0-1.0
+  reference: none
+source:
+  kind: original
+  url: null
+  rights_note: Original repository content.
+prompt:
+  language: en
+  variables:
+    - financial_goal
+    - time_horizon
+evaluation:
+  status: draft
+  tested_models: []
+  last_verified: null
+  limitations:
+    - Use the prompt as a starting point and review model output before
+      production use.

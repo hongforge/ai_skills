@@ -1,0 +1,22 @@
+id: aigc-anime-character-portrait
+title: AIGC 动漫角色肖像
+summary: 为原创动漫角色生成脸部识别稳定、气质明确、可作为系列视觉锚点的近景肖像。
+taxonomy:
+  deliverable: [aigc-creation, illustration-art]
+  medium: [illustration]
+  workflow: [text-to-image, series-consistency]
+  capability: [subject-consistency, material-lighting, instruction-following]
+  model: [gpt-image, nano-banana, midjourney]
+tags: [AIGC 动漫, 动漫角色, 角色肖像, 原创人物, 系列一致性]
+license: { prompt: CC0-1.0, reference: none }
+source: { kind: original, url: null, rights_note: Original repository content. }
+prompt:
+  language: en
+  variables: [character_description, emotion, wardrobe, background_tone, visual_style]
+  cover_values:
+    character_description: { zh: 年轻东方女性天空法师，深色长发高束、蓝紫色清晰眼睛、精致金属发饰, en: A young East Asian sky mage with long dark hair in a high updo, clear blue-violet eyes, and refined metal hair ornaments. }
+    emotion: { zh: 平静、自信、略带神秘感的直接凝视, en: A calm, confident direct gaze with a subtle sense of mystery. }
+    wardrobe: { zh: 半透明午夜蓝高领长外套，细金线刺绣、垂坠耳饰与轻薄飘带, en: A translucent midnight-blue high-collar coat with fine gold embroidery, drop earrings, and light flowing ribbons. }
+    background_tone: { zh: 雨夜高层城市，蓝紫霓虹虚化、湿润空气与漂浮金色符纸, en: A rainy elevated city at night with blue-violet neon bokeh, moist atmosphere, and floating gold paper charms. }
+    visual_style: { zh: 竖版 2:3 高完成度现代动漫肖像，精细线稿、柔和赛璐璐阴影与电影级氛围光, en: Vertical 2:3 premium contemporary anime portrait with refined linework, soft cel shading, and cinematic atmospheric light. }
+evaluation: { status: draft, tested_models: [], last_verified: null, limitations: [Use the prompt as a starting point and review model output before production use.] }

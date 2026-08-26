@@ -1,0 +1,44 @@
+id: fantasy-character-sheet
+title: 奇幻角色设定表
+summary: 展示服装、道具、表情与材质细节的完整角色设定。
+taxonomy:
+  deliverable:
+    - portrait-character
+  medium:
+    - illustration
+    - 3d-render
+  workflow:
+    - text-to-image
+    - series-consistency
+  capability:
+    - subject-consistency
+    - material-lighting
+    - instruction-following
+  model:
+    - universal
+    - midjourney
+    - stable-diffusion
+tags:
+  - 角色设计
+  - 人物设定
+  - IP 形象
+  - 奇幻角色设定表
+license:
+  prompt: CC0-1.0
+  reference: none
+source:
+  kind: original
+  url: null
+  rights_note: Original repository content.
+prompt:
+  language: en
+  variables:
+    - character_role
+    - world_rule
+evaluation:
+  status: draft
+  tested_models: []
+  last_verified: null
+  limitations:
+    - Use the prompt as a starting point and review model output before
+      production use.

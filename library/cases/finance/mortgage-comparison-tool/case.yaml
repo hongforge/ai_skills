@@ -1,0 +1,43 @@
+id: mortgage-comparison-tool
+title: 贷款方案对比工具
+summary: 帮助用户在不同房贷方案之间进行清晰比较。
+taxonomy:
+  deliverable:
+    - ui-interface
+    - infographic
+  medium:
+    - vector-graphic
+    - photography
+  workflow:
+    - text-to-image
+  capability:
+    - data-visualization
+    - layout-hierarchy
+    - instruction-following
+  model:
+    - universal
+    - gpt-image
+tags:
+  - 金融
+  - 地产
+  - 数据展示
+  - 贷款方案对比工具
+license:
+  prompt: CC0-1.0
+  reference: none
+source:
+  kind: original
+  url: null
+  rights_note: Original repository content.
+prompt:
+  language: en
+  variables:
+    - loan_type
+    - decision_focus
+evaluation:
+  status: draft
+  tested_models: []
+  last_verified: null
+  limitations:
+    - Use the prompt as a starting point and review model output before
+      production use.

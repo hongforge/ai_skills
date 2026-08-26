@@ -1,0 +1,43 @@
+id: social-quote-card
+title: 社交媒体语录卡片
+summary: 适合发布与转发的简洁观点语录视觉。
+taxonomy:
+  deliverable:
+    - poster-editorial
+  medium:
+    - vector-graphic
+    - mixed-media
+  workflow:
+    - text-to-image
+  capability:
+    - layout-hierarchy
+    - text-rendering
+    - instruction-following
+  model:
+    - universal
+    - gpt-image
+    - midjourney
+tags:
+  - 海报设计
+  - 排版
+  - 视觉传播
+  - 社交媒体语录卡片
+license:
+  prompt: CC0-1.0
+  reference: none
+source:
+  kind: original
+  url: null
+  rights_note: Original repository content.
+prompt:
+  language: en
+  variables:
+    - quote
+    - author_role
+evaluation:
+  status: draft
+  tested_models: []
+  last_verified: null
+  limitations:
+    - Use the prompt as a starting point and review model output before
+      production use.

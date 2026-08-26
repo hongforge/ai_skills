@@ -1,0 +1,23 @@
+id: comic-drama-episode-ending-cover
+title: 漫剧章节结尾封面
+summary: 用主角、关系线索与情绪余韵收束一集内容，并为下一集留下可感知的悬念。
+taxonomy:
+  deliverable: [comic-drama]
+  medium: [illustration]
+  workflow: [text-to-image, series-consistency]
+  capability: [subject-consistency, layout-hierarchy, material-lighting, instruction-following]
+  model: [gpt-image, nano-banana, midjourney]
+tags: [漫剧, 章节封面, 结尾悬念, 竖屏短剧, 系列一致性]
+license: { prompt: CC0-1.0, reference: none }
+source:
+  kind: original
+  url: null
+  rights_note: Original repository content.
+prompt:
+  language: en
+  variables: [protagonist, unresolved_question, relationship_clue, setting, palette]
+evaluation:
+  status: draft
+  tested_models: []
+  last_verified: null
+  limitations: [Use the prompt as a starting point and review model output before production use.]

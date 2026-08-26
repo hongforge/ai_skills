@@ -1,0 +1,43 @@
+id: east-asian-rain-street-closeup
+title: 雨后街头东方女性特写
+summary: 在雨后城市的柔和反射光中拍摄真实东方女性近景，保留自然神情与皮肤细节。
+taxonomy:
+  deliverable:
+    - portrait-character
+  medium:
+    - photography
+  workflow:
+    - text-to-image
+  capability:
+    - material-lighting
+    - subject-consistency
+    - instruction-following
+  model:
+    - universal
+    - gpt-image
+    - nano-banana
+tags:
+  - 摄影
+  - 东方女性
+  - 人像特写
+  - 雨后街头
+  - 真实感
+license:
+  prompt: CC0-1.0
+  reference: none
+source:
+  kind: original
+  url: null
+  rights_note: Original repository content.
+prompt:
+  language: en
+  variables:
+    - subject_description
+    - wardrobe
+    - city_context
+evaluation:
+  status: draft
+  tested_models: []
+  last_verified: null
+  limitations:
+    - Use the prompt as a starting point and review model output before production use.

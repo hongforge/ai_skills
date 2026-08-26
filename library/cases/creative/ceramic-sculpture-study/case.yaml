@@ -1,0 +1,44 @@
+id: ceramic-sculpture-study
+title: 陶瓷雕塑研究
+summary: 用形体、釉色和光线呈现原创陶瓷雕塑系列。
+taxonomy:
+  deliverable:
+    - illustration-art
+    - poster-editorial
+  medium:
+    - mixed-media
+    - 3d-render
+  workflow:
+    - text-to-image
+  capability:
+    - material-lighting
+    - instruction-following
+    - spatial-reasoning
+  model:
+    - universal
+    - midjourney
+    - stable-diffusion
+tags:
+  - 创意实验
+  - 材质
+  - 抽象视觉
+  - 陶瓷雕塑研究
+license:
+  prompt: CC0-1.0
+  reference: none
+source:
+  kind: original
+  url: null
+  rights_note: Original repository content.
+prompt:
+  language: en
+  variables:
+    - sculpture_language
+    - glaze_palette
+evaluation:
+  status: draft
+  tested_models: []
+  last_verified: null
+  limitations:
+    - Use the prompt as a starting point and review model output before
+      production use.

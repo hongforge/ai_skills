@@ -1,0 +1,23 @@
+id: comic-drama-episode-hook-keyframe
+title: 漫剧开场钩子关键帧
+summary: 用一张竖屏关键帧建立主角、危机和悬念，让观众在首秒读懂本集冲突。
+taxonomy:
+  deliverable: [comic-drama]
+  medium: [illustration]
+  workflow: [text-to-image, series-consistency]
+  capability: [subject-consistency, layout-hierarchy, material-lighting, instruction-following]
+  model: [gpt-image, nano-banana, midjourney]
+tags: [漫剧, 竖屏短剧, 开场钩子, 悬念, 角色连续性]
+license: { prompt: CC0-1.0, reference: none }
+source:
+  kind: original
+  url: null
+  rights_note: Original repository content.
+prompt:
+  language: en
+  variables: [protagonist, threat, setting, visual_style, palette]
+evaluation:
+  status: draft
+  tested_models: []
+  last_verified: null
+  limitations: [Use the prompt as a starting point and review model output before production use.]

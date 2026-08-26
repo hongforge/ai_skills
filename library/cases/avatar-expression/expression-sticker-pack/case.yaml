@@ -1,0 +1,23 @@
+id: expression-sticker-pack
+title: 统一表情包
+summary: 在同一角色和视觉规范下输出多种小尺寸情绪头像，方便聊天、直播和社群复用。
+taxonomy:
+  deliverable: [avatar-expression]
+  medium: [illustration]
+  workflow: [text-to-image, series-consistency]
+  capability: [subject-consistency, layout-hierarchy, instruction-following]
+  model: [gpt-image, nano-banana, midjourney]
+tags: [头像与表情, 表情包, 情绪系统, 角色一致性, 社群素材]
+license: { prompt: CC0-1.0, reference: none }
+source:
+  kind: original
+  url: null
+  rights_note: Original repository content.
+prompt:
+  language: en
+  variables: [character_description, wardrobe, expressions, visual_style, background_color]
+evaluation:
+  status: draft
+  tested_models: []
+  last_verified: null
+  limitations: [Use the prompt as a starting point and review model output before production use.]

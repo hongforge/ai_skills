@@ -1,0 +1,22 @@
+id: aigc-anime-world-scene
+title: AIGC 动漫世界观场景
+summary: 用环境、人物尺度和叙事线索呈现可延展的原创动漫世界观场景。
+taxonomy:
+  deliverable: [aigc-creation, scene-storytelling, illustration-art]
+  medium: [illustration]
+  workflow: [text-to-image, series-consistency]
+  capability: [spatial-reasoning, material-lighting, subject-consistency, instruction-following]
+  model: [gpt-image, nano-banana, midjourney]
+tags: [AIGC 动漫, 世界观场景, 场景概念, 原创宇宙, 叙事插画]
+license: { prompt: CC0-1.0, reference: none }
+source: { kind: original, url: null, rights_note: Original repository content. }
+prompt:
+  language: en
+  variables: [world_concept, location, protagonist, story_clue, visual_style]
+  cover_values:
+    world_concept: { zh: 人类与发光湿地生态共生的远未来山谷聚落, en: A far-future mountain-valley settlement where people coexist with a bioluminescent wetland ecosystem. }
+    location: { zh: 双月天空下的高山盆地，圆顶聚落分布在湖泊与蓝色发光湿地之间, en: A high mountain basin beneath twin moons, with domed settlements between lakes and blue bioluminescent wetlands. }
+    protagonist: { zh: 位于前景发光植物旁的微小独行探索者，用人物尺度强调世界广阔, en: A tiny solitary explorer near the glowing foreground plants, used as a scale cue for the vast world. }
+    story_clue: { zh: 湿地蓝色能量脉络通向远处聚落，暗示城市依赖生态能源维持运转, en: Blue energy veins in the wetland lead toward the settlement, implying that the city depends on ecological energy. }
+    visual_style: { zh: 竖版电影级科幻动漫世界观概念图，写实环境绘制、深景深层次与宁静暮色, en: Vertical cinematic sci-fi anime world concept art with realistic environmental rendering, layered depth, and tranquil dusk. }
+evaluation: { status: draft, tested_models: [], last_verified: null, limitations: [Use the prompt as a starting point and review model output before production use.] }
