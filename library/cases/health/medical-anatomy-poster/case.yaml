@@ -1,0 +1,42 @@
+id: medical-anatomy-poster
+title: 人体结构科普海报
+summary: 用清晰的层级与图示解释人体结构。
+taxonomy:
+  deliverable:
+    - educational-visual
+    - ui-interface
+  medium:
+    - vector-graphic
+  workflow:
+    - text-to-image
+  capability:
+    - layout-hierarchy
+    - data-visualization
+    - instruction-following
+  model:
+    - universal
+    - gpt-image
+tags:
+  - 医疗健康
+  - 科普
+  - 服务设计
+  - 人体结构科普海报
+license:
+  prompt: CC0-1.0
+  reference: none
+source:
+  kind: original
+  url: null
+  rights_note: Original repository content.
+prompt:
+  language: en
+  variables:
+    - body_system
+    - audience_age
+evaluation:
+  status: draft
+  tested_models: []
+  last_verified: null
+  limitations:
+    - Use the prompt as a starting point and review model output before
+      production use.

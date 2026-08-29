@@ -1,0 +1,67 @@
+name: New prompt case
+description: Propose an original, reusable prompt case for the catalog.
+title: "case: "
+body:
+  - type: markdown
+    attributes:
+      value: Please describe the intended result. Do not paste prompts or images copied from another project.
+  - type: input
+    id: outcome
+    attributes:
+      label: Intended outcome
+      description: What should a user be able to create or edit?
+    validations:
+      required: true
+  - type: dropdown
+    id: deliverable
+    attributes:
+      label: Deliverable category
+      options:
+        - ui-interface
+        - infographic
+        - poster-editorial
+        - brand-identity
+        - product-commerce
+        - architecture-space
+        - portrait-character
+        - scene-storytelling
+        - comic-drama
+        - avatar-expression
+        - aigc-creation
+        - illustration-art
+        - document-publishing
+        - educational-visual
+    validations:
+      required: true
+  - type: textarea
+    id: prompt
+    attributes:
+      label: Draft prompt
+      render: markdown
+    validations:
+      required: true
+  - type: textarea
+    id: required_fields
+    attributes:
+      label: Required fields and fixed anchors
+      description: List the subject, appearance, composition, palette, material, text, and other values that must remain controlled.
+    validations:
+      required: true
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: Acceptance criteria
+      description: Explain how reviewers can tell that the generated result is successful.
+    validations:
+      required: true
+  - type: checkboxes
+    id: originality
+    attributes:
+      label: Originality confirmation
+      options:
+        - label: This proposal and any attached assets were created specifically for this project.
+          required: true
+        - label: The proposal does not request imitation of a living artist or reconstruction of a private person's face.
+          required: true
+    validations:
+      required: true

@@ -1,0 +1,43 @@
+id: music-festival-poster
+title: 音乐节海报
+summary: 以强烈节奏和信息层级呈现演出阵容的活动海报。
+taxonomy:
+  deliverable:
+    - poster-editorial
+  medium:
+    - vector-graphic
+    - mixed-media
+  workflow:
+    - text-to-image
+  capability:
+    - layout-hierarchy
+    - text-rendering
+    - instruction-following
+  model:
+    - universal
+    - gpt-image
+    - midjourney
+tags:
+  - 海报设计
+  - 排版
+  - 视觉传播
+  - 音乐节海报
+license:
+  prompt: CC0-1.0
+  reference: none
+source:
+  kind: original
+  url: null
+  rights_note: Original repository content.
+prompt:
+  language: en
+  variables:
+    - festival_name
+    - date_location
+evaluation:
+  status: draft
+  tested_models: []
+  last_verified: null
+  limitations:
+    - Use the prompt as a starting point and review model output before
+      production use.

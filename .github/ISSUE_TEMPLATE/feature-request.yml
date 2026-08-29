@@ -1,0 +1,41 @@
+name: Feature request
+description: Propose a focused improvement to the library, website, or agent data.
+title: "feature: "
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem to solve
+      description: Describe the user need before describing the solution.
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed solution
+      description: Explain the workflow, data shape, or interface you recommend.
+    validations:
+      required: true
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: Acceptance criteria
+      description: List observable conditions that would make this request complete.
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered
+      description: Describe simpler options or current workarounds.
+  - type: checkboxes
+    id: scope
+    attributes:
+      label: Scope confirmation
+      options:
+        - label: This request fits a structured, original AI image prompt library.
+          required: true
+        - label: I searched existing issues and pull requests first.
+          required: true
+    validations:
+      required: true

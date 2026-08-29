@@ -1,0 +1,43 @@
+id: math-concept-explainer
+title: 数学概念图解
+summary: 将抽象数学关系转换为直观的视觉步骤。
+taxonomy:
+  deliverable:
+    - educational-visual
+    - document-publishing
+  medium:
+    - illustration
+    - vector-graphic
+  workflow:
+    - text-to-image
+  capability:
+    - layout-hierarchy
+    - instruction-following
+    - text-rendering
+  model:
+    - universal
+    - gpt-image
+tags:
+  - 教育
+  - 学习体验
+  - 知识表达
+  - 数学概念图解
+license:
+  prompt: CC0-1.0
+  reference: none
+source:
+  kind: original
+  url: null
+  rights_note: Original repository content.
+prompt:
+  language: en
+  variables:
+    - math_topic
+    - real_world_example
+evaluation:
+  status: draft
+  tested_models: []
+  last_verified: null
+  limitations:
+    - Use the prompt as a starting point and review model output before
+      production use.

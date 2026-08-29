@@ -1,0 +1,23 @@
+id: lifestyle-avatar
+title: 生活方式头像
+summary: 用自然环境和柔和光线生成亲和、真实且可用于社交主页的个人头像。
+taxonomy:
+  deliverable: [avatar-expression]
+  medium: [photography]
+  workflow: [text-to-image]
+  capability: [subject-consistency, material-lighting, instruction-following]
+  model: [universal, gpt-image, nano-banana]
+tags: [头像与表情, 生活方式头像, 自然光, 人物特写, 真实感]
+license: { prompt: CC0-1.0, reference: none }
+source:
+  kind: original
+  url: null
+  rights_note: Original repository content.
+prompt:
+  language: en
+  variables: [subject_description, setting, wardrobe, mood]
+evaluation:
+  status: draft
+  tested_models: []
+  last_verified: null
+  limitations: [Use the prompt as a starting point and review model output before production use.]

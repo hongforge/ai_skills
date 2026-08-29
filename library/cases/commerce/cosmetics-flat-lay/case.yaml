@@ -1,0 +1,43 @@
+id: cosmetics-flat-lay
+title: 美妆产品平铺
+summary: 通过秩序、材质和色彩组织展示美妆系列。
+taxonomy:
+  deliverable:
+    - product-commerce
+  medium:
+    - photography
+    - 3d-render
+  workflow:
+    - text-to-image
+  capability:
+    - product-fidelity
+    - material-lighting
+    - layout-hierarchy
+  model:
+    - universal
+    - gpt-image
+    - nano-banana
+tags:
+  - 商品电商
+  - 商业摄影
+  - 产品展示
+  - 美妆产品平铺
+license:
+  prompt: CC0-1.0
+  reference: none
+source:
+  kind: original
+  url: null
+  rights_note: Original repository content.
+prompt:
+  language: en
+  variables:
+    - product_family
+    - palette
+evaluation:
+  status: draft
+  tested_models: []
+  last_verified: null
+  limitations:
+    - Use the prompt as a starting point and review model output before
+      production use.

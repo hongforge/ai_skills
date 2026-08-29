@@ -1,0 +1,42 @@
+id: supply-chain-map
+title: 供应链流程图
+summary: 展示从原料到交付的多环节供应链关系。
+taxonomy:
+  deliverable:
+    - infographic
+    - educational-visual
+  medium:
+    - vector-graphic
+  workflow:
+    - text-to-image
+  capability:
+    - data-visualization
+    - spatial-reasoning
+    - layout-hierarchy
+  model:
+    - universal
+    - gpt-image
+tags:
+  - 视觉图解
+  - 地图
+  - 流程设计
+  - 供应链流程图
+license:
+  prompt: CC0-1.0
+  reference: none
+source:
+  kind: original
+  url: null
+  rights_note: Original repository content.
+prompt:
+  language: en
+  variables:
+    - industry
+    - delivery_goal
+evaluation:
+  status: draft
+  tested_models: []
+  last_verified: null
+  limitations:
+    - Use the prompt as a starting point and review model output before
+      production use.

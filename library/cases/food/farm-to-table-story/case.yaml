@@ -1,0 +1,43 @@
+id: farm-to-table-story
+title: 农场到餐桌叙事图
+summary: 通过食材、人物与产地串起从农场到餐桌的故事。
+taxonomy:
+  deliverable:
+    - product-commerce
+    - poster-editorial
+  medium:
+    - photography
+  workflow:
+    - text-to-image
+  capability:
+    - material-lighting
+    - layout-hierarchy
+    - product-fidelity
+  model:
+    - universal
+    - gpt-image
+    - nano-banana
+tags:
+  - 餐饮
+  - 食物摄影
+  - 品牌内容
+  - 农场到餐桌叙事图
+license:
+  prompt: CC0-1.0
+  reference: none
+source:
+  kind: original
+  url: null
+  rights_note: Original repository content.
+prompt:
+  language: en
+  variables:
+    - ingredient
+    - farm_setting
+evaluation:
+  status: draft
+  tested_models: []
+  last_verified: null
+  limitations:
+    - Use the prompt as a starting point and review model output before
+      production use.

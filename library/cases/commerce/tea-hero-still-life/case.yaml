@@ -1,0 +1,25 @@
+id: tea-hero-still-life
+title: 茶饮主视觉静物
+summary: 具有可控反射与文案留白区的高端茶饮商品主视觉。
+taxonomy:
+  deliverable: [product-commerce, poster-editorial]
+  medium: [photography]
+  workflow: [text-to-image]
+  capability: [product-fidelity, material-lighting, layout-hierarchy]
+  model: [universal, gpt-image, nano-banana]
+tags: [茶饮, 棚拍, 广告, 玻璃, 高端]
+license:
+  prompt: CC0-1.0
+  reference: none
+source:
+  kind: original
+  url: null
+  rights_note: Original repository content.
+prompt:
+  language: en
+  variables: [product_name, hero_color, headline]
+evaluation:
+  status: draft
+  tested_models: []
+  last_verified: null
+  limitations: [需要精确排版时，请在设计工具中替换占位文案。]

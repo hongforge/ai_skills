@@ -1,0 +1,45 @@
+id: cozy-game-cabin
+title: 治愈游戏小屋
+summary: 强调日常细节与舒适节奏的治愈系游戏场景。
+taxonomy:
+  deliverable:
+    - scene-storytelling
+    - portrait-character
+  medium:
+    - illustration
+    - 3d-render
+  workflow:
+    - text-to-image
+    - series-consistency
+  capability:
+    - spatial-reasoning
+    - subject-consistency
+    - material-lighting
+  model:
+    - universal
+    - midjourney
+    - stable-diffusion
+tags:
+  - 游戏设计
+  - 虚拟世界
+  - 概念艺术
+  - 治愈游戏小屋
+license:
+  prompt: CC0-1.0
+  reference: none
+source:
+  kind: original
+  url: null
+  rights_note: Original repository content.
+prompt:
+  language: en
+  variables:
+    - season
+    - cabin_activity
+evaluation:
+  status: draft
+  tested_models: []
+  last_verified: null
+  limitations:
+    - Use the prompt as a starting point and review model output before
+      production use.

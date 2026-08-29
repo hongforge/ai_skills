@@ -1,0 +1,23 @@
+id: comic-drama-protagonist-style-lock
+title: 漫剧主角定妆关键帧
+summary: 锁定主角的脸部识别、服装锚点和情绪气质，为后续多集连续画面建立基准。
+taxonomy:
+  deliverable: [comic-drama]
+  medium: [illustration]
+  workflow: [text-to-image, series-consistency]
+  capability: [subject-consistency, material-lighting, instruction-following]
+  model: [gpt-image, nano-banana, midjourney]
+tags: [漫剧, 主角定妆, 人物设定, 竖屏短剧, 角色连续性]
+license: { prompt: CC0-1.0, reference: none }
+source:
+  kind: original
+  url: null
+  rights_note: Original repository content.
+prompt:
+  language: en
+  variables: [character_description, wardrobe, signature_prop, background_tone, visual_style]
+evaluation:
+  status: draft
+  tested_models: []
+  last_verified: null
+  limitations: [Use the prompt as a starting point and review model output before production use.]

@@ -1,0 +1,42 @@
+id: system-architecture-explainer
+title: 系统架构图解
+summary: 帮助非技术读者理解服务关系与数据流的架构图。
+taxonomy:
+  deliverable:
+    - infographic
+    - educational-visual
+  medium:
+    - vector-graphic
+  workflow:
+    - text-to-image
+  capability:
+    - data-visualization
+    - layout-hierarchy
+    - text-rendering
+  model:
+    - universal
+    - gpt-image
+tags:
+  - 信息图
+  - 可视化
+  - 知识表达
+  - 系统架构图解
+license:
+  prompt: CC0-1.0
+  reference: none
+source:
+  kind: original
+  url: null
+  rights_note: Original repository content.
+prompt:
+  language: en
+  variables:
+    - system_name
+    - core_flow
+evaluation:
+  status: draft
+  tested_models: []
+  last_verified: null
+  limitations:
+    - Use the prompt as a starting point and review model output before
+      production use.

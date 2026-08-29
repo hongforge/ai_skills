@@ -1,0 +1,43 @@
+id: interactive-workshop-board
+title: 工作坊协作白板
+summary: 用于团队共创、观点收集与行动排序的协作板。
+taxonomy:
+  deliverable:
+    - educational-visual
+    - document-publishing
+  medium:
+    - illustration
+    - vector-graphic
+  workflow:
+    - text-to-image
+  capability:
+    - layout-hierarchy
+    - instruction-following
+    - text-rendering
+  model:
+    - universal
+    - gpt-image
+tags:
+  - 教育
+  - 学习体验
+  - 知识表达
+  - 工作坊协作白板
+license:
+  prompt: CC0-1.0
+  reference: none
+source:
+  kind: original
+  url: null
+  rights_note: Original repository content.
+prompt:
+  language: en
+  variables:
+    - workshop_topic
+    - team_size
+evaluation:
+  status: draft
+  tested_models: []
+  last_verified: null
+  limitations:
+    - Use the prompt as a starting point and review model output before
+      production use.

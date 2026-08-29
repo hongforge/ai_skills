@@ -1,0 +1,47 @@
+{
+  "name": "open-image-prompt-library",
+  "version": "0.1.0",
+  "description": "A structured library of reusable AI image prompts, generated previews, production templates, and agent-ready data.",
+  "homepage": "https://github.com/hongforge/ai_skills#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hongforge/ai_skills.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hongforge/ai_skills/issues"
+  },
+  "type": "module",
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "validate": "vitest run",
+    "generate:data": "tsx scripts/generate-catalog.ts",
+    "generate:docs": "tsx scripts/generate-docs.ts",
+    "generate:catalog": "npm run generate:data && npm run generate:docs",
+    "dev": "npm run generate:catalog && vite --config vite.config.ts",
+    "build": "npm run generate:catalog && vite build --config vite.config.ts",
+    "preview": "vite preview --config vite.config.ts"
+  },
+  "engines": {
+    "node": ">=20.19.0"
+  },
+  "keywords": [
+    "ai-image",
+    "prompt-library",
+    "prompt-engineering",
+    "gpt-image",
+    "nano-banana",
+    "midjourney",
+    "stable-diffusion",
+    "agent-ready-data"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^22.16.5",
+    "tsx": "^4.20.3",
+    "typescript": "^5.9.2",
+    "vite": "^7.3.6",
+    "vitest": "^3.2.4",
+    "yaml": "^2.5.0"
+  }
+}

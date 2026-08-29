@@ -1,0 +1,43 @@
+id: community-event-card
+title: 社群活动宣传卡
+summary: 用友好且高辨识度的构图传播社群线下活动。
+taxonomy:
+  deliverable:
+    - poster-editorial
+    - brand-identity
+  medium:
+    - vector-graphic
+    - mixed-media
+  workflow:
+    - text-to-image
+  capability:
+    - layout-hierarchy
+    - text-rendering
+    - instruction-following
+  model:
+    - universal
+    - gpt-image
+tags:
+  - 社交媒体
+  - 营销内容
+  - 品牌传播
+  - 社群活动宣传卡
+license:
+  prompt: CC0-1.0
+  reference: none
+source:
+  kind: original
+  url: null
+  rights_note: Original repository content.
+prompt:
+  language: en
+  variables:
+    - event_type
+    - community_vibe
+evaluation:
+  status: draft
+  tested_models: []
+  last_verified: null
+  limitations:
+    - Use the prompt as a starting point and review model output before
+      production use.

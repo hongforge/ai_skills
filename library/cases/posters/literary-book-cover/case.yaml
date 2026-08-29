@@ -1,0 +1,43 @@
+id: literary-book-cover
+title: 文学书籍封面
+summary: 以隐喻图像与克制排版传达文学气质的封面。
+taxonomy:
+  deliverable:
+    - poster-editorial
+  medium:
+    - vector-graphic
+    - mixed-media
+  workflow:
+    - text-to-image
+  capability:
+    - layout-hierarchy
+    - text-rendering
+    - instruction-following
+  model:
+    - universal
+    - gpt-image
+    - midjourney
+tags:
+  - 海报设计
+  - 排版
+  - 视觉传播
+  - 文学书籍封面
+license:
+  prompt: CC0-1.0
+  reference: none
+source:
+  kind: original
+  url: null
+  rights_note: Original repository content.
+prompt:
+  language: en
+  variables:
+    - book_title
+    - central_metaphor
+evaluation:
+  status: draft
+  tested_models: []
+  last_verified: null
+  limitations:
+    - Use the prompt as a starting point and review model output before
+      production use.

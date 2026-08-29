@@ -1,0 +1,44 @@
+id: documentary-scene-concept
+title: 纪录片场景概念
+summary: 以真实环境细节和克制观察感建立纪录片气质。
+taxonomy:
+  deliverable:
+    - scene-storytelling
+  medium:
+    - illustration
+    - mixed-media
+  workflow:
+    - text-to-image
+    - series-consistency
+  capability:
+    - spatial-reasoning
+    - subject-consistency
+    - instruction-following
+  model:
+    - universal
+    - midjourney
+    - stable-diffusion
+tags:
+  - 叙事场景
+  - 世界观
+  - 故事板
+  - 纪录片场景概念
+license:
+  prompt: CC0-1.0
+  reference: none
+source:
+  kind: original
+  url: null
+  rights_note: Original repository content.
+prompt:
+  language: en
+  variables:
+    - subject_place
+    - human_activity
+evaluation:
+  status: draft
+  tested_models: []
+  last_verified: null
+  limitations:
+    - Use the prompt as a starting point and review model output before
+      production use.

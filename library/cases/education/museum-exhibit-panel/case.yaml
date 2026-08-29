@@ -1,0 +1,43 @@
+id: museum-exhibit-panel
+title: 博物馆展陈信息板
+summary: 用展品图像与时间线讲述一段历史主题。
+taxonomy:
+  deliverable:
+    - educational-visual
+    - document-publishing
+  medium:
+    - illustration
+    - vector-graphic
+  workflow:
+    - text-to-image
+  capability:
+    - layout-hierarchy
+    - instruction-following
+    - text-rendering
+  model:
+    - universal
+    - gpt-image
+tags:
+  - 教育
+  - 学习体验
+  - 知识表达
+  - 博物馆展陈信息板
+license:
+  prompt: CC0-1.0
+  reference: none
+source:
+  kind: original
+  url: null
+  rights_note: Original repository content.
+prompt:
+  language: en
+  variables:
+    - exhibit_theme
+    - historical_period
+evaluation:
+  status: draft
+  tested_models: []
+  last_verified: null
+  limitations:
+    - Use the prompt as a starting point and review model output before
+      production use.

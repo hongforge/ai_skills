@@ -1,0 +1,41 @@
+id: focus-mobile-app
+title: 专注习惯移动应用
+summary: 以单一任务和温和进度反馈为核心的移动端界面。
+taxonomy:
+  deliverable:
+    - ui-interface
+  medium:
+    - vector-graphic
+  workflow:
+    - text-to-image
+  capability:
+    - layout-hierarchy
+    - text-rendering
+    - instruction-following
+  model:
+    - universal
+    - gpt-image
+tags:
+  - 界面设计
+  - 产品体验
+  - 版式层级
+  - 专注习惯移动应用
+license:
+  prompt: CC0-1.0
+  reference: none
+source:
+  kind: original
+  url: null
+  rights_note: Original repository content.
+prompt:
+  language: en
+  variables:
+    - app_name
+    - daily_goal
+evaluation:
+  status: draft
+  tested_models: []
+  last_verified: null
+  limitations:
+    - Use the prompt as a starting point and review model output before
+      production use.

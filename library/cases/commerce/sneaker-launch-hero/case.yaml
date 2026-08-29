@@ -1,0 +1,43 @@
+id: sneaker-launch-hero
+title: 运动鞋发布主视觉
+summary: 以动态姿态和材质细节凸显鞋款性能的广告视觉。
+taxonomy:
+  deliverable:
+    - product-commerce
+  medium:
+    - photography
+    - 3d-render
+  workflow:
+    - text-to-image
+  capability:
+    - product-fidelity
+    - material-lighting
+    - layout-hierarchy
+  model:
+    - universal
+    - gpt-image
+    - nano-banana
+tags:
+  - 商品电商
+  - 商业摄影
+  - 产品展示
+  - 运动鞋发布主视觉
+license:
+  prompt: CC0-1.0
+  reference: none
+source:
+  kind: original
+  url: null
+  rights_note: Original repository content.
+prompt:
+  language: en
+  variables:
+    - shoe_style
+    - accent_color
+evaluation:
+  status: draft
+  tested_models: []
+  last_verified: null
+  limitations:
+    - Use the prompt as a starting point and review model output before
+      production use.

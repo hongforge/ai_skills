@@ -1,0 +1,42 @@
+id: street-fashion-editorial
+title: 街头时尚编辑片
+summary: 通过城市空间、动作和造型呈现当代街头时尚。
+taxonomy:
+  deliverable:
+    - portrait-character
+  medium:
+    - photography
+  workflow:
+    - text-to-image
+  capability:
+    - material-lighting
+    - subject-consistency
+    - instruction-following
+  model:
+    - universal
+    - gpt-image
+    - nano-banana
+tags:
+  - 摄影
+  - 人像
+  - 真实感
+  - 街头时尚编辑片
+license:
+  prompt: CC0-1.0
+  reference: none
+source:
+  kind: original
+  url: null
+  rights_note: Original repository content.
+prompt:
+  language: en
+  variables:
+    - outfit_direction
+    - city_setting
+evaluation:
+  status: draft
+  tested_models: []
+  last_verified: null
+  limitations:
+    - Use the prompt as a starting point and review model output before
+      production use.

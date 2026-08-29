@@ -1,0 +1,22 @@
+id: aigc-mech-vanguard-character-card
+title: AIGC 机甲先锋角色卡
+summary: 为原创机甲角色建立驾驶员、机体轮廓、核心装备与战斗环境可追踪的一张主卡。
+taxonomy:
+  deliverable: [aigc-creation, portrait-character, illustration-art]
+  medium: [illustration]
+  workflow: [text-to-image, series-consistency]
+  capability: [subject-consistency, material-lighting, spatial-reasoning, instruction-following]
+  model: [gpt-image, nano-banana, midjourney]
+tags: [AIGC 游戏, 机甲角色, 科幻设定, 驾驶员, 角色卡]
+license: { prompt: CC0-1.0, reference: none }
+source: { kind: original, url: null, rights_note: Original repository content. }
+prompt:
+  language: en
+  variables: [mech_role, pilot_identity, mech_silhouette, combat_loadout, environment_mood]
+  cover_values:
+    mech_role: { zh: 城市防卫军重装机甲先锋，承担正面突破与火力压制, en: A heavy urban-defense mech vanguard built for frontal breakthroughs and fire suppression. }
+    pilot_identity: { zh: 年轻东方女性驾驶员，黑色短发，白蓝贴身飞行服，手持机甲头盔, en: A young East Asian female pilot with short black hair, a fitted white-and-cobalt flight suit, and a mech helmet in hand. }
+    mech_silhouette: { zh: 白蓝巨型人形机甲，不对称肩炮、宽肩装甲、橙色驾驶舱与紧凑翼式推进器, en: A giant white-and-cobalt humanoid mech with an asymmetric shoulder cannon, broad armor, orange cockpit canopy, and compact wing thrusters. }
+    combat_loadout: { zh: 大口径肩炮、右臂重型步枪、橙色反应堆核心与全身分段装甲, en: Large-caliber shoulder cannon, heavy right-arm rifle, orange reactor core, and articulated full-body armor. }
+    environment_mood: { zh: 冷蓝暴雨中的高架工业城市，远处机库与橙色能源灯形成战前压迫感, en: A rain-soaked elevated industrial city in cold blue light, with distant hangars and orange energy accents creating pre-battle tension. }
+evaluation: { status: draft, tested_models: [], last_verified: null, limitations: [Review mechanical joints, scale cues, and pilot-to-mech continuity before production use.] }

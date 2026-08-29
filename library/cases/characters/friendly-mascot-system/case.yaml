@@ -1,0 +1,44 @@
+id: friendly-mascot-system
+title: 友好吉祥物系统
+summary: 通过姿势与表情建立可用于产品沟通的吉祥物形象。
+taxonomy:
+  deliverable:
+    - portrait-character
+  medium:
+    - illustration
+    - 3d-render
+  workflow:
+    - text-to-image
+    - series-consistency
+  capability:
+    - subject-consistency
+    - material-lighting
+    - instruction-following
+  model:
+    - universal
+    - midjourney
+    - stable-diffusion
+tags:
+  - 角色设计
+  - 人物设定
+  - IP 形象
+  - 友好吉祥物系统
+license:
+  prompt: CC0-1.0
+  reference: none
+source:
+  kind: original
+  url: null
+  rights_note: Original repository content.
+prompt:
+  language: en
+  variables:
+    - mascot_species
+    - brand_trait
+evaluation:
+  status: draft
+  tested_models: []
+  last_verified: null
+  limitations:
+    - Use the prompt as a starting point and review model output before
+      production use.

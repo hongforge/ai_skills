@@ -1,0 +1,43 @@
+id: east-asian-pearls-closeup
+title: 珍珠耳饰东方女性特写
+summary: 以柔和自然窗光拍摄优雅东方女性近景，突出清晰眼神、珍珠细节与真实肤质。
+taxonomy:
+  deliverable:
+    - portrait-character
+  medium:
+    - photography
+  workflow:
+    - text-to-image
+  capability:
+    - material-lighting
+    - subject-consistency
+    - instruction-following
+  model:
+    - universal
+    - gpt-image
+    - nano-banana
+tags:
+  - 摄影
+  - 东方女性
+  - 人像特写
+  - 珍珠耳饰
+  - 真实感
+license:
+  prompt: CC0-1.0
+  reference: none
+source:
+  kind: original
+  url: null
+  rights_note: Original repository content.
+prompt:
+  language: en
+  variables:
+    - subject_description
+    - wardrobe
+    - background_tone
+evaluation:
+  status: draft
+  tested_models: []
+  last_verified: null
+  limitations:
+    - Use the prompt as a starting point and review model output before production use.

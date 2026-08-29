@@ -1,0 +1,41 @@
+id: course-learning-portal
+title: 在线课程学习门户
+summary: 将课程进度、视频学习与作业反馈整合在一起的学习平台。
+taxonomy:
+  deliverable:
+    - ui-interface
+  medium:
+    - vector-graphic
+  workflow:
+    - text-to-image
+  capability:
+    - layout-hierarchy
+    - text-rendering
+    - instruction-following
+  model:
+    - universal
+    - gpt-image
+tags:
+  - 界面设计
+  - 产品体验
+  - 版式层级
+  - 在线课程学习门户
+license:
+  prompt: CC0-1.0
+  reference: none
+source:
+  kind: original
+  url: null
+  rights_note: Original repository content.
+prompt:
+  language: en
+  variables:
+    - course_title
+    - learner_name
+evaluation:
+  status: draft
+  tested_models: []
+  last_verified: null
+  limitations:
+    - Use the prompt as a starting point and review model output before
+      production use.

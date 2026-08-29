@@ -1,0 +1,45 @@
+id: racing-game-garage
+title: 赛车游戏车库
+summary: 呈现车辆定制、性能信息和沉浸氛围的游戏车库。
+taxonomy:
+  deliverable:
+    - scene-storytelling
+    - portrait-character
+  medium:
+    - illustration
+    - 3d-render
+  workflow:
+    - text-to-image
+    - series-consistency
+  capability:
+    - spatial-reasoning
+    - subject-consistency
+    - material-lighting
+  model:
+    - universal
+    - midjourney
+    - stable-diffusion
+tags:
+  - 游戏设计
+  - 虚拟世界
+  - 概念艺术
+  - 赛车游戏车库
+license:
+  prompt: CC0-1.0
+  reference: none
+source:
+  kind: original
+  url: null
+  rights_note: Original repository content.
+prompt:
+  language: en
+  variables:
+    - car_style
+    - garage_mood
+evaluation:
+  status: draft
+  tested_models: []
+  last_verified: null
+  limitations:
+    - Use the prompt as a starting point and review model output before
+      production use.

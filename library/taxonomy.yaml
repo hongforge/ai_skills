@@ -1,0 +1,56 @@
+# Stable identifiers used by every case. Additive changes are preferred: do not
+# rename an identifier once cases reference it.
+version: 1
+dimensions:
+  deliverable:
+    label: What the image is made for
+    values:
+      - ui-interface
+      - infographic
+      - poster-editorial
+      - brand-identity
+      - product-commerce
+      - architecture-space
+      - portrait-character
+      - scene-storytelling
+      - comic-drama
+      - avatar-expression
+      - aigc-creation
+      - illustration-art
+      - document-publishing
+      - educational-visual
+  medium:
+    label: Visual medium
+    values:
+      - photography
+      - 3d-render
+      - vector-graphic
+      - illustration
+      - mixed-media
+  workflow:
+    label: Generation workflow
+    values:
+      - text-to-image
+      - image-to-image
+      - inpainting
+      - compositing
+      - series-consistency
+  capability:
+    label: Capability that the prompt exercises
+    values:
+      - text-rendering
+      - layout-hierarchy
+      - subject-consistency
+      - product-fidelity
+      - material-lighting
+      - spatial-reasoning
+      - data-visualization
+      - instruction-following
+  model:
+    label: Compatible prompt dialect
+    values:
+      - universal
+      - gpt-image
+      - nano-banana
+      - midjourney
+      - stable-diffusion

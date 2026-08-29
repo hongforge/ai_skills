@@ -1,0 +1,42 @@
+id: food-editorial-closeup
+title: 美食编辑特写
+summary: 以光影、质地与细节呈现食物的真实诱人状态。
+taxonomy:
+  deliverable:
+    - portrait-character
+  medium:
+    - photography
+  workflow:
+    - text-to-image
+  capability:
+    - material-lighting
+    - subject-consistency
+    - instruction-following
+  model:
+    - universal
+    - gpt-image
+    - nano-banana
+tags:
+  - 摄影
+  - 人像
+  - 真实感
+  - 美食编辑特写
+license:
+  prompt: CC0-1.0
+  reference: none
+source:
+  kind: original
+  url: null
+  rights_note: Original repository content.
+prompt:
+  language: en
+  variables:
+    - dish_name
+    - serving_style
+evaluation:
+  status: draft
+  tested_models: []
+  last_verified: null
+  limitations:
+    - Use the prompt as a starting point and review model output before
+      production use.

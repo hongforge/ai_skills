@@ -1,0 +1,43 @@
+id: real-estate-listing-hero
+title: 房产展示主视觉
+summary: 用空间、光线和居住想象呈现高端房产展示。
+taxonomy:
+  deliverable:
+    - ui-interface
+    - infographic
+  medium:
+    - vector-graphic
+    - photography
+  workflow:
+    - text-to-image
+  capability:
+    - data-visualization
+    - layout-hierarchy
+    - instruction-following
+  model:
+    - universal
+    - gpt-image
+tags:
+  - 金融
+  - 地产
+  - 数据展示
+  - 房产展示主视觉
+license:
+  prompt: CC0-1.0
+  reference: none
+source:
+  kind: original
+  url: null
+  rights_note: Original repository content.
+prompt:
+  language: en
+  variables:
+    - property_type
+    - location_mood
+evaluation:
+  status: draft
+  tested_models: []
+  last_verified: null
+  limitations:
+    - Use the prompt as a starting point and review model output before
+      production use.

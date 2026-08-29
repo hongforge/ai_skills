@@ -1,0 +1,43 @@
+id: retail-interior-concept
+title: 零售店室内概念
+summary: 以清晰动线和商品焦点打造沉浸式零售空间。
+taxonomy:
+  deliverable:
+    - architecture-space
+  medium:
+    - photography
+    - 3d-render
+  workflow:
+    - text-to-image
+  capability:
+    - spatial-reasoning
+    - material-lighting
+    - layout-hierarchy
+  model:
+    - universal
+    - midjourney
+    - stable-diffusion
+tags:
+  - 建筑空间
+  - 室内设计
+  - 环境氛围
+  - 零售店室内概念
+license:
+  prompt: CC0-1.0
+  reference: none
+source:
+  kind: original
+  url: null
+  rights_note: Original repository content.
+prompt:
+  language: en
+  variables:
+    - store_type
+    - brand_mood
+evaluation:
+  status: draft
+  tested_models: []
+  last_verified: null
+  limitations:
+    - Use the prompt as a starting point and review model output before
+      production use.

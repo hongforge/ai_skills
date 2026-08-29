@@ -1,0 +1,41 @@
+id: developer-ops-console
+title: 开发运维控制台
+summary: 面向工程团队的服务健康与部署状态控制台。
+taxonomy:
+  deliverable:
+    - ui-interface
+  medium:
+    - vector-graphic
+  workflow:
+    - text-to-image
+  capability:
+    - layout-hierarchy
+    - text-rendering
+    - instruction-following
+  model:
+    - universal
+    - gpt-image
+tags:
+  - 界面设计
+  - 产品体验
+  - 版式层级
+  - 开发运维控制台
+license:
+  prompt: CC0-1.0
+  reference: none
+source:
+  kind: original
+  url: null
+  rights_note: Original repository content.
+prompt:
+  language: en
+  variables:
+    - service_name
+    - environment
+evaluation:
+  status: draft
+  tested_models: []
+  last_verified: null
+  limitations:
+    - Use the prompt as a starting point and review model output before
+      production use.

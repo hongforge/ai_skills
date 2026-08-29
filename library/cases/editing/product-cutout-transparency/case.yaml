@@ -1,0 +1,45 @@
+id: product-cutout-transparency
+title: 商品透明背景抠图
+summary: 为电商与设计合成提取干净完整的商品主体。
+taxonomy:
+  deliverable:
+    - portrait-character
+    - product-commerce
+  medium:
+    - photography
+  workflow:
+    - image-to-image
+    - inpainting
+    - compositing
+  capability:
+    - subject-consistency
+    - product-fidelity
+    - instruction-following
+  model:
+    - gpt-image
+    - nano-banana
+    - stable-diffusion
+tags:
+  - 图片编辑
+  - 局部修改
+  - 图生图
+  - 商品透明背景抠图
+license:
+  prompt: CC0-1.0
+  reference: none
+source:
+  kind: original
+  url: null
+  rights_note: Original repository content.
+prompt:
+  language: en
+  variables:
+    - product_description
+    - edge_detail
+evaluation:
+  status: draft
+  tested_models: []
+  last_verified: null
+  limitations:
+    - Use the prompt as a starting point and review model output before
+      production use.

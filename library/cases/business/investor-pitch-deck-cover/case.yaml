@@ -1,0 +1,42 @@
+id: investor-pitch-deck-cover
+title: 融资路演封面
+summary: 用强概念视觉与克制排版建立融资路演的第一印象。
+taxonomy:
+  deliverable:
+    - document-publishing
+    - ui-interface
+  medium:
+    - vector-graphic
+  workflow:
+    - text-to-image
+  capability:
+    - data-visualization
+    - layout-hierarchy
+    - instruction-following
+  model:
+    - universal
+    - gpt-image
+tags:
+  - 企业
+  - 商业沟通
+  - 运营管理
+  - 融资路演封面
+license:
+  prompt: CC0-1.0
+  reference: none
+source:
+  kind: original
+  url: null
+  rights_note: Original repository content.
+prompt:
+  language: en
+  variables:
+    - company_theme
+    - investment_stage
+evaluation:
+  status: draft
+  tested_models: []
+  last_verified: null
+  limitations:
+    - Use the prompt as a starting point and review model output before
+      production use.

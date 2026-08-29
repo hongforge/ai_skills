@@ -1,0 +1,42 @@
+id: patient-care-dashboard
+title: 患者照护看板
+summary: 帮助护理团队快速识别患者状态与待办事项。
+taxonomy:
+  deliverable:
+    - educational-visual
+    - ui-interface
+  medium:
+    - vector-graphic
+  workflow:
+    - text-to-image
+  capability:
+    - layout-hierarchy
+    - data-visualization
+    - instruction-following
+  model:
+    - universal
+    - gpt-image
+tags:
+  - 医疗健康
+  - 科普
+  - 服务设计
+  - 患者照护看板
+license:
+  prompt: CC0-1.0
+  reference: none
+source:
+  kind: original
+  url: null
+  rights_note: Original repository content.
+prompt:
+  language: en
+  variables:
+    - clinic_name
+    - care_unit
+evaluation:
+  status: draft
+  tested_models: []
+  last_verified: null
+  limitations:
+    - Use the prompt as a starting point and review model output before
+      production use.

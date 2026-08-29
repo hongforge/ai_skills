@@ -1,0 +1,42 @@
+id: mental-health-resource-page
+title: 心理健康资源页
+summary: 为寻求支持的用户提供安全温和的资源导航界面。
+taxonomy:
+  deliverable:
+    - educational-visual
+    - ui-interface
+  medium:
+    - vector-graphic
+  workflow:
+    - text-to-image
+  capability:
+    - layout-hierarchy
+    - data-visualization
+    - instruction-following
+  model:
+    - universal
+    - gpt-image
+tags:
+  - 医疗健康
+  - 科普
+  - 服务设计
+  - 心理健康资源页
+license:
+  prompt: CC0-1.0
+  reference: none
+source:
+  kind: original
+  url: null
+  rights_note: Original repository content.
+prompt:
+  language: en
+  variables:
+    - support_theme
+    - primary_action
+evaluation:
+  status: draft
+  tested_models: []
+  last_verified: null
+  limitations:
+    - Use the prompt as a starting point and review model output before
+      production use.

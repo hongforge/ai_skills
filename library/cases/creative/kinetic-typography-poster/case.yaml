@@ -1,0 +1,44 @@
+id: kinetic-typography-poster
+title: 动态文字海报概念
+summary: 以文字节奏和抽象运动形态表达活动能量。
+taxonomy:
+  deliverable:
+    - illustration-art
+    - poster-editorial
+  medium:
+    - mixed-media
+    - 3d-render
+  workflow:
+    - text-to-image
+  capability:
+    - material-lighting
+    - instruction-following
+    - spatial-reasoning
+  model:
+    - universal
+    - midjourney
+    - stable-diffusion
+tags:
+  - 创意实验
+  - 材质
+  - 抽象视觉
+  - 动态文字海报概念
+license:
+  prompt: CC0-1.0
+  reference: none
+source:
+  kind: original
+  url: null
+  rights_note: Original repository content.
+prompt:
+  language: en
+  variables:
+    - event_energy
+    - color_contrast
+evaluation:
+  status: draft
+  tested_models: []
+  last_verified: null
+  limitations:
+    - Use the prompt as a starting point and review model output before
+      production use.

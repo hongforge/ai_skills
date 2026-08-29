@@ -1,0 +1,22 @@
+id: aigc-arcane-character-card
+title: AIGC 奥术法师角色卡
+summary: 为原创魔法角色建立可辨认的脸部、法器、服装层级和法术视觉语言。
+taxonomy:
+  deliverable: [aigc-creation, portrait-character, illustration-art]
+  medium: [illustration]
+  workflow: [text-to-image, series-consistency]
+  capability: [subject-consistency, material-lighting, layout-hierarchy, instruction-following]
+  model: [gpt-image, nano-banana, midjourney]
+tags: [AIGC 游戏, 魔法角色, 法师, 原创人物, 角色设定]
+license: { prompt: CC0-1.0, reference: none }
+source: { kind: original, url: null, rights_note: Original repository content. }
+prompt:
+  language: en
+  variables: [character_class, face_anchors, magic_focus, costume_layers, scene_palette]
+  cover_values:
+    character_class: { zh: 星象奥术法师，擅长操控晶体、星轨与空间法阵, en: An astral arcane mage who controls crystals, star paths, and spatial sigils. }
+    face_anchors: { zh: 年轻东方女性、深色短波波头、单束银白挑染、紫色眼睛与冷静坚定的神情, en: Young East Asian woman, dark bob haircut, one silver streak, violet eyes, and a calm determined expression. }
+    magic_focus: { zh: 悬浮在右手上方的紫色几何晶体法器，外层为金属星轨框架并环绕细小碎晶, en: A violet geometric crystal focus floating above her right hand, enclosed by a metal orbital frame and small crystal shards. }
+    costume_layers: { zh: 午夜蓝高领长袍、黑色内层、黄铜扣件、星象胸针与轻薄披肩, en: Midnight-blue high-collar robes, black underlayers, brass clasps, an astral brooch, and a light mantle. }
+    scene_palette: { zh: 深靛蓝与紫罗兰为主，金色饰边，背景是悬浮云海中的古代天文台, en: Deep indigo and violet with gold accents, set in an ancient observatory suspended above clouds. }
+evaluation: { status: draft, tested_models: [], last_verified: null, limitations: [Review hand anatomy, facial consistency, and spell-effect readability before production use.] }

@@ -1,0 +1,42 @@
+id: sales-pipeline-dashboard
+title: 销售漏斗看板
+summary: 帮助销售团队跟进阶段、预测收入与重点客户。
+taxonomy:
+  deliverable:
+    - document-publishing
+    - ui-interface
+  medium:
+    - vector-graphic
+  workflow:
+    - text-to-image
+  capability:
+    - data-visualization
+    - layout-hierarchy
+    - instruction-following
+  model:
+    - universal
+    - gpt-image
+tags:
+  - 企业
+  - 商业沟通
+  - 运营管理
+  - 销售漏斗看板
+license:
+  prompt: CC0-1.0
+  reference: none
+source:
+  kind: original
+  url: null
+  rights_note: Original repository content.
+prompt:
+  language: en
+  variables:
+    - sales_team
+    - revenue_goal
+evaluation:
+  status: draft
+  tested_models: []
+  last_verified: null
+  limitations:
+    - Use the prompt as a starting point and review model output before
+      production use.

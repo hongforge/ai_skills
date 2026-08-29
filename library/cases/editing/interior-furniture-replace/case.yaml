@@ -1,0 +1,45 @@
+id: interior-furniture-replace
+title: 室内家具替换
+summary: 替换指定家具并保持空间透视、比例和光线一致。
+taxonomy:
+  deliverable:
+    - portrait-character
+    - product-commerce
+  medium:
+    - photography
+  workflow:
+    - image-to-image
+    - inpainting
+    - compositing
+  capability:
+    - subject-consistency
+    - product-fidelity
+    - instruction-following
+  model:
+    - gpt-image
+    - nano-banana
+    - stable-diffusion
+tags:
+  - 图片编辑
+  - 局部修改
+  - 图生图
+  - 室内家具替换
+license:
+  prompt: CC0-1.0
+  reference: none
+source:
+  kind: original
+  url: null
+  rights_note: Original repository content.
+prompt:
+  language: en
+  variables:
+    - existing_item
+    - replacement_item
+evaluation:
+  status: draft
+  tested_models: []
+  last_verified: null
+  limitations:
+    - Use the prompt as a starting point and review model output before
+      production use.
