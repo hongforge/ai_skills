@@ -122,13 +122,17 @@ describe('policy.md', () => {
 });
 
 describe('README', () => {
-  it.each(['README.md', 'README.zh.md'])('%s 存在且互相链接', (file) => {
-    const body = fs.readFileSync(path.join(REPO_ROOT, file), 'utf8');
-    expect(body).toContain('README.md');
-    expect(body).toContain('README.zh.md');
+  it('中英文首页互相链接，兼容入口链接两者', () => {
+    const chinese = fs.readFileSync(path.join(REPO_ROOT, 'README.md'), 'utf8');
+    const english = fs.readFileSync(path.join(REPO_ROOT, 'README.en.md'), 'utf8');
+    const compatibility = fs.readFileSync(path.join(REPO_ROOT, 'README.zh.md'), 'utf8');
+    expect(chinese).toContain('README.en.md');
+    expect(english).toContain('README.md');
+    expect(compatibility).toContain('README.md');
+    expect(compatibility).toContain('README.en.md');
   });
 
-  it.each(['README.md', 'README.zh.md'])('%s 列出四个目标模型', (file) => {
+  it.each(['README.md', 'README.en.md'])('%s 列出四个目标模型', (file) => {
     const body = fs.readFileSync(path.join(REPO_ROOT, file), 'utf8');
     for (const name of ['GPT', 'Nano Banana', 'Midjourney', 'Stable Diffusion']) {
       expect(body, `${file} 未提及 ${name}`).toContain(name);

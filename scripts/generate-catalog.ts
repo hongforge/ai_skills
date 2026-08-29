@@ -36,6 +36,8 @@ type VariableLabel = { id: string; zh: string; en: string; description: { zh: st
 const VARIABLE_LABEL_OVERRIDES: Record<string, string> = {
   character_archetype: '角色原型',
   character_role: '角色定位',
+  value_proposition: '价值主张',
+  visual_metaphor: '视觉隐喻',
 };
 
 const VARIABLE_TERMS: Record<string, string> = {
@@ -253,10 +255,28 @@ function compileCasePrompt(metadata: CaseDocument, corePrompt: string): string {
   return `${corePrompt}\n\n## Production protocol\n\n### Brief integrity\n${variableRules}\n- Keep the requested subject, use case, and visual hierarchy more important than generic style adjectives.\n\n### Output contract\n- Deliver one finished, presentation-ready image for this exact brief; do not create a moodboard, contact sheet, process sheet, mockup collection, or multiple competing layouts.\n- Use one focal hierarchy, a restrained palette, coherent light direction, and enough negative space for the intended communication.\n- ${textRule}\n\n### Deliverable requirements\n${productionRules.map((rule) => `- ${rule}`).join('\n') || '- Keep composition, material, and perspective internally consistent.'}\n\n### Quality gate\n- Before finalizing, check focal hierarchy, physical plausibility, subject consistency, unintended text, duplicate objects, broken anatomy, and accidental logos.\n- Avoid stock-like filler, copied campaign aesthetics, unrelated overlays, framing errors, and watermark-like marks.\n- Known limitation: ${metadata.evaluation.limitations.join(' ') || 'Review the generated result before production use.'}`;
 }
 
+function templateChecklistEn(template: TemplateDocument): string[] {
+  const deliverable = template.taxonomy.deliverable.map(humanizeId).join(' / ');
+  return [
+    'Every required field is represented by a concrete, reviewable production decision.',
+    `The ${deliverable} output has one clear focal hierarchy and remains readable at thumbnail size.`,
+    'Supplied copy, facts, geometry, subject identity, materials, and spatial relationships remain internally consistent.',
+  ];
+}
+
+function templatePitfallsEn(template: TemplateDocument): string[] {
+  const workflow = template.taxonomy.workflow.map(humanizeId).join(' / ');
+  return [
+    `Do not replace missing ${workflow} inputs with invented brands, statistics, identities, or filler copy.`,
+    'Do not add unrelated objects, competing layouts, unexplained variants, or decorative structure that weakens the requested outcome.',
+    'Do not trade factual accuracy, legibility, physical plausibility, or subject consistency for surface-level style effects.',
+  ];
+}
+
 function compileTemplatePrompt(template: TemplateDocument): string {
   const variableList = template.variables.map((variable) => { const field = localizeVariable(variable); return `- \`{{${variable}}}\` (${field.en}): ${field.description.en}`; }).join('\n');
   const productionRules = [...deliverableRequirements(template.taxonomy), ...workflowRequirements(template.taxonomy)];
-  return `## Role\nAct as a senior image art director and production designer. Convert the supplied brief into one controlled visual deliverable, not a loose inspiration board.\n\n## Required brief fields\n${variableList}\n\n## Brief-resolution protocol\n- Treat every variable as a production decision. If a field is absent, request it before rendering; never silently substitute a generic product, statistic, brand claim, or identity.\n- Lock deliverable, audience, aspect ratio, focal subject, information density, and reference-preservation requirements before choosing style adjectives.\n- When exact copy, source assets, measurements, or legal claims are supplied, preserve them as controlled inputs rather than improvising replacements.\n\n## Core task\n${template.prompt}\n\n## Output contract\n- Produce exactly one finished ${template.taxonomy.deliverable.join(' / ')} deliverable. Do not create a moodboard, multi-option presentation board, contact sheet, process diagram, mockup collage, or unexplained variants.\n- Establish a primary focal point, secondary information layer, and deliberate negative space before adding visual detail.\n- Keep all named objects, visual relationships, camera/perspective logic, and material behavior internally consistent.\n\n## Production structure\n${productionRules.map((rule) => `- ${rule}`).join('\n') || '- Use a clear, deliberate layout and a controlled visual hierarchy.'}\n\n## Quality gates\n${template.checklist.map((item) => `- ${item}`).join('\n')}\n- Review at thumbnail size first, then inspect factual accuracy, legibility, geometry, material behavior, and any reference-preservation requirement at full size.\n\n## Non-negotiable constraints\n- Respect the requested model compatibility, but prioritize the brief over any model-specific ornament.\n- Use short, exact text only when the brief provides it; never invent a real brand, a trademark, unsupported statistics, or filler copy.\n- Check for duplicate subjects, impossible geometry, incoherent shadows, broken anatomy, unreadable micro-text, and accidental watermarks before finalizing.\n\n## Avoid\n${template.pitfalls.map((item) => `- ${item}`).join('\n')}`;
+  return `## Role\nAct as a senior image art director and production designer. Convert the supplied brief into one controlled visual deliverable, not a loose inspiration board.\n\n## Required brief fields\n${variableList}\n\n## Brief-resolution protocol\n- Treat every variable as a production decision. If a field is absent, request it before rendering; never silently substitute a generic product, statistic, brand claim, or identity.\n- Lock deliverable, audience, aspect ratio, focal subject, information density, and reference-preservation requirements before choosing style adjectives.\n- When exact copy, source assets, measurements, or legal claims are supplied, preserve them as controlled inputs rather than improvising replacements.\n\n## Core task\n${template.prompt}\n\n## Output contract\n- Produce exactly one finished ${template.taxonomy.deliverable.join(' / ')} deliverable. Do not create a moodboard, multi-option presentation board, contact sheet, process diagram, mockup collage, or unexplained variants.\n- Establish a primary focal point, secondary information layer, and deliberate negative space before adding visual detail.\n- Keep all named objects, visual relationships, camera/perspective logic, and material behavior internally consistent.\n\n## Production structure\n${productionRules.map((rule) => `- ${rule}`).join('\n') || '- Use a clear, deliberate layout and a controlled visual hierarchy.'}\n\n## Quality gates\n${templateChecklistEn(template).map((item) => `- ${item}`).join('\n')}\n- Review at thumbnail size first, then inspect factual accuracy, legibility, geometry, material behavior, and any reference-preservation requirement at full size.\n\n## Non-negotiable constraints\n- Respect the requested model compatibility, but prioritize the brief over any model-specific ornament.\n- Use short, exact text only when the brief provides it; never invent a real brand, a trademark, unsupported statistics, or filler copy.\n- Check for duplicate subjects, impossible geometry, incoherent shadows, broken anatomy, unreadable micro-text, and accidental watermarks before finalizing.\n\n## Avoid\n${templatePitfallsEn(template).map((item) => `- ${item}`).join('\n')}`;
 }
 
 function templateExecution(template: TemplateDocument): { zh: { input_policy: string; production_sequence: string[]; review_order: string[]; agent_pairing: string }; en: { input_policy: string; production_sequence: string[]; review_order: string[]; agent_pairing: string } } {
@@ -307,7 +327,7 @@ const cases = findCaseDirectories(CASES_DIR)
       tags: { zh: metadata.tags, en: [...metadata.taxonomy.deliverable, ...metadata.taxonomy.capability].map(humanizeId) },
       limitations: localizeLimitations(metadata.evaluation.limitations),
       prompt: { ...metadata.prompt, language: 'bilingual', variable_labels: metadata.prompt.variables.map((variable) => ({ ...localizeVariable(variable), cover_value: coverValue(metadata, variable) })), text: { zh: compileCasePromptZh(metadata, corePrompt), en: compileCasePrompt(metadata, corePrompt) } },
-      preview: fs.existsSync(previewFile) ? `/case-images/${metadata.id}.png` : null,
+      preview: fs.existsSync(previewFile) ? `case-images/${metadata.id}.png` : null,
       path: path.relative(REPO_ROOT, directory).split(path.sep).join('/'),
     };
   })
@@ -315,7 +335,10 @@ const cases = findCaseDirectories(CASES_DIR)
 
 const templateCatalog = parse(fs.readFileSync(TEMPLATES_FILE, 'utf8')) as { templates: TemplateDocument[] };
 const templates = templateCatalog.templates
-  .map((entry) => ({ ...entry, title: { zh: entry.title, en: humanizeId(entry.id) }, summary: { zh: entry.summary, en: `${humanizeId(entry.id)} production prompt template.` }, variable_labels: entry.variables.map(localizeVariable), prompt: { zh: compileTemplatePromptZh(entry), en: compileTemplatePrompt(entry) }, execution: templateExecution(entry), path: 'library/templates/catalog.yaml' }))
+  .map((entry) => {
+    const { checklist, pitfalls, ...metadata } = entry;
+    return { ...metadata, title: { zh: entry.title, en: humanizeId(entry.id) }, summary: { zh: entry.summary, en: `${humanizeId(entry.id)} production prompt template.` }, variable_labels: entry.variables.map(localizeVariable), prompt: { zh: compileTemplatePromptZh(entry), en: compileTemplatePrompt(entry) }, checklist: { zh: checklist, en: templateChecklistEn(entry) }, pitfalls: { zh: pitfalls, en: templatePitfallsEn(entry) }, execution: templateExecution(entry), path: 'library/templates/catalog.yaml' };
+  })
   .sort((first, second) => first.title.zh.localeCompare(second.title.zh));
 
 if (new Set(templates.map((entry) => entry.id)).size !== templates.length) {

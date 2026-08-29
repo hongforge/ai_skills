@@ -100,7 +100,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/ai-saas-landing-page.png",
+    "preview": "case-images/ai-saas-landing-page.png",
     "path": "library/cases/ui/ai-saas-landing-page"
   },
   {
@@ -295,7 +295,7 @@ export const catalog = [
         "Use the prompt as a starting point and review character continuity before production use."
       ]
     },
-    "preview": "/case-images/aigc-oriental-blade-hero-card.png",
+    "preview": "case-images/aigc-oriental-blade-hero-card.png",
     "path": "library/cases/aigc-creation/oriental-blade-hero-card"
   },
   {
@@ -492,7 +492,7 @@ export const catalog = [
         "and readable card hierarchy before production use."
       ]
     },
-    "preview": "/case-images/aigc-legendary-weapon-card.png",
+    "preview": "case-images/aigc-legendary-weapon-card.png",
     "path": "library/cases/aigc-creation/legendary-weapon-card"
   },
   {
@@ -677,7 +677,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/aigc-anime-world-scene.png",
+    "preview": "case-images/aigc-anime-world-scene.png",
     "path": "library/cases/aigc-creation/anime-world-scene"
   },
   {
@@ -862,7 +862,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/aigc-anime-action-keyframe.png",
+    "preview": "case-images/aigc-anime-action-keyframe.png",
     "path": "library/cases/aigc-creation/anime-action-keyframe"
   },
   {
@@ -1051,7 +1051,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/aigc-anime-character-portrait.png",
+    "preview": "case-images/aigc-anime-character-portrait.png",
     "path": "library/cases/aigc-creation/anime-character-portrait"
   },
   {
@@ -1254,7 +1254,7 @@ export const catalog = [
         "and spell-effect readability before production use."
       ]
     },
-    "preview": "/case-images/aigc-arcane-character-card.png",
+    "preview": "case-images/aigc-arcane-character-card.png",
     "path": "library/cases/aigc-creation/arcane-character-card"
   },
   {
@@ -1451,7 +1451,7 @@ export const catalog = [
         "and pilot-to-mech continuity before production use."
       ]
     },
-    "preview": "/case-images/aigc-mech-vanguard-character-card.png",
+    "preview": "case-images/aigc-mech-vanguard-character-card.png",
     "path": "library/cases/aigc-creation/mech-vanguard-character-card"
   },
   {
@@ -1642,7 +1642,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/aigc-game-boss-arena.png",
+    "preview": "case-images/aigc-game-boss-arena.png",
     "path": "library/cases/aigc-creation/game-boss-arena"
   },
   {
@@ -1829,7 +1829,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/aigc-game-key-art.png",
+    "preview": "case-images/aigc-game-key-art.png",
     "path": "library/cases/aigc-creation/game-key-art"
   },
   {
@@ -1931,7 +1931,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/focus-mobile-app.png",
+    "preview": "case-images/focus-mobile-app.png",
     "path": "library/cases/ui/focus-mobile-app"
   },
   {
@@ -2036,7 +2036,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/personal-finance-overview.png",
+    "preview": "case-images/personal-finance-overview.png",
     "path": "library/cases/finance/personal-finance-overview"
   },
   {
@@ -2183,7 +2183,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/streamer-expression-avatar.png",
+    "preview": "case-images/streamer-expression-avatar.png",
     "path": "library/cases/avatar-expression/streamer-expression-avatar"
   },
   {
@@ -2287,7 +2287,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/product-roadmap-timeline.png",
+    "preview": "case-images/product-roadmap-timeline.png",
     "path": "library/cases/data/product-roadmap-timeline"
   },
   {
@@ -2391,7 +2391,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/medical-anatomy-poster.png",
+    "preview": "case-images/medical-anatomy-poster.png",
     "path": "library/cases/health/medical-anatomy-poster"
   },
   {
@@ -2495,7 +2495,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/supply-chain-map.png",
+    "preview": "case-images/supply-chain-map.png",
     "path": "library/cases/visuals/supply-chain-map"
   },
   {
@@ -2599,7 +2599,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/wellness-habit-tracker.png",
+    "preview": "case-images/wellness-habit-tracker.png",
     "path": "library/cases/health/wellness-habit-tracker"
   },
   {
@@ -2704,7 +2704,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/childrens-book-spread.png",
+    "preview": "case-images/childrens-book-spread.png",
     "path": "library/cases/storytelling/childrens-book-spread"
   },
   {
@@ -2809,7 +2809,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/farm-to-table-story.png",
+    "preview": "case-images/farm-to-table-story.png",
     "path": "library/cases/food/farm-to-table-story"
   },
   {
@@ -2913,7 +2913,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/decision-tree-diagram.png",
+    "preview": "case-images/decision-tree-diagram.png",
     "path": "library/cases/visuals/decision-tree-diagram"
   },
   {
@@ -3018,7 +3018,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/creator-media-kit.png",
+    "preview": "case-images/creator-media-kit.png",
     "path": "library/cases/social/creator-media-kit"
   },
   {
@@ -3136,7 +3136,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/east-asian-creative-closeup.png",
+    "preview": "case-images/east-asian-creative-closeup.png",
     "path": "library/cases/portrait/east-asian-creative-closeup"
   },
   {
@@ -3242,7 +3242,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/kinetic-typography-poster.png",
+    "preview": "case-images/kinetic-typography-poster.png",
     "path": "library/cases/creative/kinetic-typography-poster"
   },
   {
@@ -3347,7 +3347,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/museum-exhibit-panel.png",
+    "preview": "case-images/museum-exhibit-panel.png",
     "path": "library/cases/education/museum-exhibit-panel"
   },
   {
@@ -3454,7 +3454,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/card-game-deck-concept.png",
+    "preview": "case-images/card-game-deck-concept.png",
     "path": "library/cases/game/card-game-deck-concept"
   },
   {
@@ -3559,7 +3559,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/friendly-mascot-system.png",
+    "preview": "case-images/friendly-mascot-system.png",
     "path": "library/cases/characters/friendly-mascot-system"
   },
   {
@@ -3663,7 +3663,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/sustainability-report-spread.png",
+    "preview": "case-images/sustainability-report-spread.png",
     "path": "library/cases/business/sustainability-report-spread"
   },
   {
@@ -3767,7 +3767,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/coffee-packaging-system.png",
+    "preview": "case-images/coffee-packaging-system.png",
     "path": "library/cases/brand/coffee-packaging-system"
   },
   {
@@ -3874,7 +3874,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/product-background-replace.png",
+    "preview": "case-images/product-background-replace.png",
     "path": "library/cases/editing/product-background-replace"
   },
   {
@@ -3981,7 +3981,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/product-cutout-transparency.png",
+    "preview": "case-images/product-cutout-transparency.png",
     "path": "library/cases/editing/product-cutout-transparency"
   },
   {
@@ -4085,7 +4085,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/team-offsite-agenda.png",
+    "preview": "case-images/team-offsite-agenda.png",
     "path": "library/cases/business/team-offsite-agenda"
   },
   {
@@ -4187,7 +4187,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/course-learning-portal.png",
+    "preview": "case-images/course-learning-portal.png",
     "path": "library/cases/ui/course-learning-portal"
   },
   {
@@ -4291,7 +4291,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/city-guide-map.png",
+    "preview": "case-images/city-guide-map.png",
     "path": "library/cases/visuals/city-guide-map"
   },
   {
@@ -4409,7 +4409,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/east-asian-neon-closeup.png",
+    "preview": "case-images/east-asian-neon-closeup.png",
     "path": "library/cases/portrait/east-asian-neon-closeup"
   },
   {
@@ -4514,7 +4514,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/fantasy-character-sheet.png",
+    "preview": "case-images/fantasy-character-sheet.png",
     "path": "library/cases/characters/fantasy-character-sheet"
   },
   {
@@ -4621,7 +4621,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/seasonal-scene-conversion.png",
+    "preview": "case-images/seasonal-scene-conversion.png",
     "path": "library/cases/editing/seasonal-scene-conversion"
   },
   {
@@ -4726,7 +4726,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/student-portfolio-cover.png",
+    "preview": "case-images/student-portfolio-cover.png",
     "path": "library/cases/education/student-portfolio-cover"
   },
   {
@@ -4833,7 +4833,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/interior-furniture-replace.png",
+    "preview": "case-images/interior-furniture-replace.png",
     "path": "library/cases/editing/interior-furniture-replace"
   },
   {
@@ -4937,7 +4937,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/furniture-lifestyle-scene.png",
+    "preview": "case-images/furniture-lifestyle-scene.png",
     "path": "library/cases/commerce/furniture-lifestyle-scene"
   },
   {
@@ -5042,7 +5042,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/interactive-workshop-board.png",
+    "preview": "case-images/interactive-workshop-board.png",
     "path": "library/cases/education/interactive-workshop-board"
   },
   {
@@ -5147,7 +5147,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/market-trend-report.png",
+    "preview": "case-images/market-trend-report.png",
     "path": "library/cases/finance/market-trend-report"
   },
   {
@@ -5249,7 +5249,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/annual-report-cover.png",
+    "preview": "case-images/annual-report-cover.png",
     "path": "library/cases/publishing/annual-report-cover"
   },
   {
@@ -5351,7 +5351,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/developer-ops-console.png",
+    "preview": "case-images/developer-ops-console.png",
     "path": "library/cases/ui/developer-ops-console"
   },
   {
@@ -5470,7 +5470,7 @@ export const catalog = [
         "请在矢量编辑器中完成最终文字排版，并核查事实准确性。"
       ]
     },
-    "preview": "/case-images/circular-economy-explainer.png",
+    "preview": "case-images/circular-economy-explainer.png",
     "path": "library/cases/design/circular-economy-explainer"
   },
   {
@@ -5574,7 +5574,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/mental-health-resource-page.png",
+    "preview": "case-images/mental-health-resource-page.png",
     "path": "library/cases/health/mental-health-resource-page"
   },
   {
@@ -5678,7 +5678,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/patient-care-dashboard.png",
+    "preview": "case-images/patient-care-dashboard.png",
     "path": "library/cases/health/patient-care-dashboard"
   },
   {
@@ -5811,7 +5811,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/reaction-closeup.png",
+    "preview": "case-images/reaction-closeup.png",
     "path": "library/cases/avatar-expression/reaction-closeup"
   },
   {
@@ -5916,7 +5916,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/real-estate-listing-hero.png",
+    "preview": "case-images/real-estate-listing-hero.png",
     "path": "library/cases/finance/real-estate-listing-hero"
   },
   {
@@ -6021,7 +6021,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/investment-portfolio-story.png",
+    "preview": "case-images/investment-portfolio-story.png",
     "path": "library/cases/finance/investment-portfolio-story"
   },
   {
@@ -6125,7 +6125,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/skincare-brand-system.png",
+    "preview": "case-images/skincare-brand-system.png",
     "path": "library/cases/brand/skincare-brand-system"
   },
   {
@@ -6231,7 +6231,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/abstract-material-study.png",
+    "preview": "case-images/abstract-material-study.png",
     "path": "library/cases/creative/abstract-material-study"
   },
   {
@@ -6335,7 +6335,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/recruitment-campaign-page.png",
+    "preview": "case-images/recruitment-campaign-page.png",
     "path": "library/cases/business/recruitment-campaign-page"
   },
   {
@@ -6440,7 +6440,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/podcast-cover-art.png",
+    "preview": "case-images/podcast-cover-art.png",
     "path": "library/cases/social/podcast-cover-art"
   },
   {
@@ -6545,7 +6545,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/collectible-toy-concept.png",
+    "preview": "case-images/collectible-toy-concept.png",
     "path": "library/cases/characters/collectible-toy-concept"
   },
   {
@@ -6650,7 +6650,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/math-concept-explainer.png",
+    "preview": "case-images/math-concept-explainer.png",
     "path": "library/cases/education/math-concept-explainer"
   },
   {
@@ -6754,7 +6754,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/literary-book-cover.png",
+    "preview": "case-images/literary-book-cover.png",
     "path": "library/cases/posters/literary-book-cover"
   },
   {
@@ -6858,7 +6858,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/travel-itinerary-board.png",
+    "preview": "case-images/travel-itinerary-board.png",
     "path": "library/cases/visuals/travel-itinerary-board"
   },
   {
@@ -6960,7 +6960,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/travel-booking-flow.png",
+    "preview": "case-images/travel-booking-flow.png",
     "path": "library/cases/ui/travel-booking-flow"
   },
   {
@@ -7066,7 +7066,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/fashion-lookbook-cover.png",
+    "preview": "case-images/fashion-lookbook-cover.png",
     "path": "library/cases/fashion/fashion-lookbook-cover"
   },
   {
@@ -7172,7 +7172,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/fashion-editorial-collage.png",
+    "preview": "case-images/fashion-editorial-collage.png",
     "path": "library/cases/fashion/fashion-editorial-collage"
   },
   {
@@ -7276,7 +7276,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/landscape-pavilion.png",
+    "preview": "case-images/landscape-pavilion.png",
     "path": "library/cases/spaces/landscape-pavilion"
   },
   {
@@ -7395,7 +7395,7 @@ export const catalog = [
         "为获得最可靠的编辑边界，请先对服装区域进行遮罩。"
       ]
     },
-    "preview": "/case-images/wardrobe-recolor.png",
+    "preview": "case-images/wardrobe-recolor.png",
     "path": "library/cases/editing/wardrobe-recolor"
   },
   {
@@ -7497,7 +7497,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/editorial-magazine-spread.png",
+    "preview": "case-images/editorial-magazine-spread.png",
     "path": "library/cases/publishing/editorial-magazine-spread"
   },
   {
@@ -7601,7 +7601,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/minimalist-loft-interior.png",
+    "preview": "case-images/minimalist-loft-interior.png",
     "path": "library/cases/spaces/minimalist-loft-interior"
   },
   {
@@ -7705,7 +7705,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/logo-concept-board.png",
+    "preview": "case-images/logo-concept-board.png",
     "path": "library/cases/brand/logo-concept-board"
   },
   {
@@ -7809,7 +7809,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/climate-heat-map.png",
+    "preview": "case-images/climate-heat-map.png",
     "path": "library/cases/data/climate-heat-map"
   },
   {
@@ -7912,7 +7912,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/automotive-campaign-shot.png",
+    "preview": "case-images/automotive-campaign-shot.png",
     "path": "library/cases/photography/automotive-campaign-shot"
   },
   {
@@ -8019,7 +8019,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/cozy-game-cabin.png",
+    "preview": "case-images/cozy-game-cabin.png",
     "path": "library/cases/game/cozy-game-cabin"
   },
   {
@@ -8166,7 +8166,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/comic-drama-protagonist-style-lock.png",
+    "preview": "case-images/comic-drama-protagonist-style-lock.png",
     "path": "library/cases/comic-drama/protagonist-style-lock"
   },
   {
@@ -8315,7 +8315,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/comic-drama-turning-point-scene.png",
+    "preview": "case-images/comic-drama-turning-point-scene.png",
     "path": "library/cases/comic-drama/turning-point-scene"
   },
   {
@@ -8464,7 +8464,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/comic-drama-episode-hook-keyframe.png",
+    "preview": "case-images/comic-drama-episode-hook-keyframe.png",
     "path": "library/cases/comic-drama/episode-hook-keyframe"
   },
   {
@@ -8611,7 +8611,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/comic-drama-conflict-closeup.png",
+    "preview": "case-images/comic-drama-conflict-closeup.png",
     "path": "library/cases/comic-drama/conflict-closeup"
   },
   {
@@ -8760,7 +8760,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/comic-drama-episode-ending-cover.png",
+    "preview": "case-images/comic-drama-episode-ending-cover.png",
     "path": "library/cases/comic-drama/episode-ending-cover"
   },
   {
@@ -8865,7 +8865,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/bakery-social-series.png",
+    "preview": "case-images/bakery-social-series.png",
     "path": "library/cases/food/bakery-social-series"
   },
   {
@@ -8983,7 +8983,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/east-asian-pearls-closeup.png",
+    "preview": "case-images/east-asian-pearls-closeup.png",
     "path": "library/cases/portrait/east-asian-pearls-closeup"
   },
   {
@@ -9087,7 +9087,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/jewelry-macro-detail.png",
+    "preview": "case-images/jewelry-macro-detail.png",
     "path": "library/cases/commerce/jewelry-macro-detail"
   },
   {
@@ -9191,7 +9191,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/eco-hotel-exterior.png",
+    "preview": "case-images/eco-hotel-exterior.png",
     "path": "library/cases/spaces/eco-hotel-exterior"
   },
   {
@@ -9323,7 +9323,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/lifestyle-avatar.png",
+    "preview": "case-images/lifestyle-avatar.png",
     "path": "library/cases/avatar-expression/lifestyle-avatar"
   },
   {
@@ -9427,7 +9427,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/customer-journey-map.png",
+    "preview": "case-images/customer-journey-map.png",
     "path": "library/cases/visuals/customer-journey-map"
   },
   {
@@ -9529,7 +9529,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/ecommerce-product-detail-page.png",
+    "preview": "case-images/ecommerce-product-detail-page.png",
     "path": "library/cases/ui/ecommerce-product-detail-page"
   },
   {
@@ -9634,7 +9634,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/cinematic-storyboard-sequence.png",
+    "preview": "case-images/cinematic-storyboard-sequence.png",
     "path": "library/cases/storytelling/cinematic-storyboard-sequence"
   },
   {
@@ -9741,7 +9741,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/object-removal-cleanup.png",
+    "preview": "case-images/object-removal-cleanup.png",
     "path": "library/cases/editing/object-removal-cleanup"
   },
   {
@@ -9843,7 +9843,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/whitepaper-cover-system.png",
+    "preview": "case-images/whitepaper-cover-system.png",
     "path": "library/cases/publishing/whitepaper-cover-system"
   },
   {
@@ -9948,7 +9948,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/live-stream-overlay.png",
+    "preview": "case-images/live-stream-overlay.png",
     "path": "library/cases/social/live-stream-overlay"
   },
   {
@@ -10052,7 +10052,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/social-quote-card.png",
+    "preview": "case-images/social-quote-card.png",
     "path": "library/cases/posters/social-quote-card"
   },
   {
@@ -10157,7 +10157,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/community-event-card.png",
+    "preview": "case-images/community-event-card.png",
     "path": "library/cases/social/community-event-card"
   },
   {
@@ -10261,7 +10261,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/science-process-poster.png",
+    "preview": "case-images/science-process-poster.png",
     "path": "library/cases/data/science-process-poster"
   },
   {
@@ -10382,7 +10382,7 @@ export const catalog = [
         "若同一主角需要跨场景反复出现，请配合单独的角色设定图。"
       ]
     },
-    "preview": "/case-images/sci-fi-ecosystem-scene.png",
+    "preview": "case-images/sci-fi-ecosystem-scene.png",
     "path": "library/cases/education/sci-fi-ecosystem-scene"
   },
   {
@@ -10486,7 +10486,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/tech-conference-poster.png",
+    "preview": "case-images/tech-conference-poster.png",
     "path": "library/cases/posters/tech-conference-poster"
   },
   {
@@ -10593,7 +10593,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/isometric-game-environment.png",
+    "preview": "case-images/isometric-game-environment.png",
     "path": "library/cases/game/isometric-game-environment"
   },
   {
@@ -10699,7 +10699,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/boutique-window-display.png",
+    "preview": "case-images/boutique-window-display.png",
     "path": "library/cases/fashion/boutique-window-display"
   },
   {
@@ -10803,7 +10803,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/system-architecture-explainer.png",
+    "preview": "case-images/system-architecture-explainer.png",
     "path": "library/cases/data/system-architecture-explainer"
   },
   {
@@ -10908,7 +10908,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/documentary-scene-concept.png",
+    "preview": "case-images/documentary-scene-concept.png",
     "path": "library/cases/storytelling/documentary-scene-concept"
   },
   {
@@ -11055,7 +11055,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/expression-sticker-pack.png",
+    "preview": "case-images/expression-sticker-pack.png",
     "path": "library/cases/avatar-expression/expression-sticker-pack"
   },
   {
@@ -11159,7 +11159,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/cosmetics-flat-lay.png",
+    "preview": "case-images/cosmetics-flat-lay.png",
     "path": "library/cases/commerce/cosmetics-flat-lay"
   },
   {
@@ -11262,7 +11262,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/food-editorial-closeup.png",
+    "preview": "case-images/food-editorial-closeup.png",
     "path": "library/cases/photography/food-editorial-closeup"
   },
   {
@@ -11394,7 +11394,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/professional-avatar.png",
+    "preview": "case-images/professional-avatar.png",
     "path": "library/cases/avatar-expression/professional-avatar"
   },
   {
@@ -11500,7 +11500,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/watch-campaign-image.png",
+    "preview": "case-images/watch-campaign-image.png",
     "path": "library/cases/fashion/watch-campaign-image"
   },
   {
@@ -11606,7 +11606,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/nature-macro-abstraction.png",
+    "preview": "case-images/nature-macro-abstraction.png",
     "path": "library/cases/creative/nature-macro-abstraction"
   },
   {
@@ -11724,7 +11724,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/east-asian-tea-closeup.png",
+    "preview": "case-images/east-asian-tea-closeup.png",
     "path": "library/cases/portrait/east-asian-tea-closeup"
   },
   {
@@ -11829,7 +11829,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/tea-ceremony-editorial.png",
+    "preview": "case-images/tea-ceremony-editorial.png",
     "path": "library/cases/food/tea-ceremony-editorial"
   },
   {
@@ -11949,7 +11949,7 @@ export const catalog = [
         "需要精确排版时，请在设计工具中替换占位文案。"
       ]
     },
-    "preview": "/case-images/tea-hero-still-life.png",
+    "preview": "case-images/tea-hero-still-life.png",
     "path": "library/cases/commerce/tea-hero-still-life"
   },
   {
@@ -12053,7 +12053,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/pharmacy-packaging-guide.png",
+    "preview": "case-images/pharmacy-packaging-guide.png",
     "path": "library/cases/health/pharmacy-packaging-guide"
   },
   {
@@ -12157,7 +12157,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/investor-pitch-deck-cover.png",
+    "preview": "case-images/investor-pitch-deck-cover.png",
     "path": "library/cases/business/investor-pitch-deck-cover"
   },
   {
@@ -12260,7 +12260,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/street-fashion-editorial.png",
+    "preview": "case-images/street-fashion-editorial.png",
     "path": "library/cases/photography/street-fashion-editorial"
   },
   {
@@ -12366,7 +12366,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/streetwear-drop-poster.png",
+    "preview": "case-images/streetwear-drop-poster.png",
     "path": "library/cases/fashion/streetwear-drop-poster"
   },
   {
@@ -12471,7 +12471,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/character-turnaround.png",
+    "preview": "case-images/character-turnaround.png",
     "path": "library/cases/characters/character-turnaround"
   },
   {
@@ -12576,7 +12576,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/language-learning-cards.png",
+    "preview": "case-images/language-learning-cards.png",
     "path": "library/cases/education/language-learning-cards"
   },
   {
@@ -12681,7 +12681,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/mortgage-comparison-tool.png",
+    "preview": "case-images/mortgage-comparison-tool.png",
     "path": "library/cases/finance/mortgage-comparison-tool"
   },
   {
@@ -12788,7 +12788,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/racing-game-garage.png",
+    "preview": "case-images/racing-game-garage.png",
     "path": "library/cases/game/racing-game-garage"
   },
   {
@@ -12894,7 +12894,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/surreal-fashion-scene.png",
+    "preview": "case-images/surreal-fashion-scene.png",
     "path": "library/cases/creative/surreal-fashion-scene"
   },
   {
@@ -12998,7 +12998,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/sneaker-launch-hero.png",
+    "preview": "case-images/sneaker-launch-hero.png",
     "path": "library/cases/commerce/sneaker-launch-hero"
   },
   {
@@ -13070,10 +13070,10 @@ export const catalog = [
         },
         {
           "id": "visual_metaphor",
-          "zh": "视觉视觉隐喻",
+          "zh": "视觉隐喻",
           "en": "Visual Metaphor",
           "description": {
-            "zh": "请说明「视觉视觉隐喻」的媒介、时代或审美方向、情绪强度与细节密度，并给出 1–2 个可见特征。",
+            "zh": "请说明「视觉隐喻」的媒介、时代或审美方向、情绪强度与细节密度，并给出 1–2 个可见特征。",
             "en": "Describe the medium, era or aesthetic direction, emotional intensity, detail density, and 1–2 visible cues for Visual Metaphor."
           },
           "cover_value": {
@@ -13083,7 +13083,7 @@ export const catalog = [
         }
       ],
       "text": {
-        "zh": "## 角色\n你是一名资深视觉总监与图像制作设计师。请把需求转化为一张可交付的成品，而不是灵感拼贴。\n\n## 核心任务\n为案例「邮件通讯头图」创作图像：以简洁主题视觉增强邮件通讯的打开率与识别度。\n\n## 必填需求字段\n- `{{newsletter_theme}}`（通讯主题）：以“邮件通讯头图”作为具体取值；视觉内容直接落实为：以简洁主题视觉增强邮件通讯的打开率与识别度。\n- `{{visual_metaphor}}`（视觉视觉隐喻）：矢量图形与混合媒介表现，围绕社交媒体、营销内容、品牌传播建立高完成度、单一焦点和清晰层级\n\n## 输出契约\n- 只交付一张完成度高、可展示的最终图像；不要生成情绪板、九宫格、多方案展示板、过程稿、样机合集或互相竞争的版式。\n- 先确定主焦点、次级信息层和留白，再补充细节；色板、光向、透视与材质行为必须统一。\n- 不要虚构可读的品牌文案、商标、界面填充文字或水印。除非需求提供精确文案，否则文字区域仅作为受控占位。\n\n## 成品结构\n- 建立一个主视觉或标题区、一个次级信息区与有意识的留白；缩略图状态下也必须先读出层级。\n\n## 质量门槛\n- 输出前检查焦点层级、物理可信度、主体一致性、意外文字、重复对象、错误肢体和意外标志。\n- 避免素材感填充、复制既有营销活动视觉、美术无关叠层、裁切错误和水印样痕迹。\n- 已知限制：这是未经验证的起始案例；在实际生产使用前，请人工复核生成结果、文字与品牌合规性。",
+        "zh": "## 角色\n你是一名资深视觉总监与图像制作设计师。请把需求转化为一张可交付的成品，而不是灵感拼贴。\n\n## 核心任务\n为案例「邮件通讯头图」创作图像：以简洁主题视觉增强邮件通讯的打开率与识别度。\n\n## 必填需求字段\n- `{{newsletter_theme}}`（通讯主题）：以“邮件通讯头图”作为具体取值；视觉内容直接落实为：以简洁主题视觉增强邮件通讯的打开率与识别度。\n- `{{visual_metaphor}}`（视觉隐喻）：矢量图形与混合媒介表现，围绕社交媒体、营销内容、品牌传播建立高完成度、单一焦点和清晰层级\n\n## 输出契约\n- 只交付一张完成度高、可展示的最终图像；不要生成情绪板、九宫格、多方案展示板、过程稿、样机合集或互相竞争的版式。\n- 先确定主焦点、次级信息层和留白，再补充细节；色板、光向、透视与材质行为必须统一。\n- 不要虚构可读的品牌文案、商标、界面填充文字或水印。除非需求提供精确文案，否则文字区域仅作为受控占位。\n\n## 成品结构\n- 建立一个主视觉或标题区、一个次级信息区与有意识的留白；缩略图状态下也必须先读出层级。\n\n## 质量门槛\n- 输出前检查焦点层级、物理可信度、主体一致性、意外文字、重复对象、错误肢体和意外标志。\n- 避免素材感填充、复制既有营销活动视觉、美术无关叠层、裁切错误和水印样痕迹。\n- 已知限制：这是未经验证的起始案例；在实际生产使用前，请人工复核生成结果、文字与品牌合规性。",
         "en": "Create a wide newsletter hero banner for {{newsletter_theme}} using {{visual_metaphor}}. Make a singular clean editorial image with generous copy-safe space and refined palette. No readable text, no logo, no watermark.\n\n## Production protocol\n\n### Brief integrity\n- `{{newsletter_theme}}` (Newsletter Theme): Concrete value: Newsletter Hero Banner; the visual directly delivers the case summary and newsletter theme role\n- `{{visual_metaphor}}` (Visual Metaphor): Vector Graphic and Mixed Media treatment focused on Poster Editorial, Brand Identity, with polished execution, one focal point, and clear hierarchy\n- Keep the requested subject, use case, and visual hierarchy more important than generic style adjectives.\n\n### Output contract\n- Deliver one finished, presentation-ready image for this exact brief; do not create a moodboard, contact sheet, process sheet, mockup collection, or multiple competing layouts.\n- Use one focal hierarchy, a restrained palette, coherent light direction, and enough negative space for the intended communication.\n- Do not fabricate readable brand copy, trademarks, UI filler, or watermarks. Treat any text area as a controlled placeholder unless exact copy is supplied.\n\n### Deliverable requirements\n- Establish one dominant visual or title zone, a secondary information zone, and intentional negative space. The composition must read at thumbnail size before adding detail.\n\n### Quality gate\n- Before finalizing, check focal hierarchy, physical plausibility, subject consistency, unintended text, duplicate objects, broken anatomy, and accidental logos.\n- Avoid stock-like filler, copied campaign aesthetics, unrelated overlays, framing errors, and watermark-like marks.\n- Known limitation: Use the prompt as a starting point and review model output before production use."
       }
     },
@@ -13103,7 +13103,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/newsletter-hero-banner.png",
+    "preview": "case-images/newsletter-hero-banner.png",
     "path": "library/cases/social/newsletter-hero-banner"
   },
   {
@@ -13205,7 +13205,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/fintech-analytics-dashboard.png",
+    "preview": "case-images/fintech-analytics-dashboard.png",
     "path": "library/cases/ui/fintech-analytics-dashboard"
   },
   {
@@ -13323,7 +13323,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/silver-age-closeup.png",
+    "preview": "case-images/silver-age-closeup.png",
     "path": "library/cases/portrait/silver-age-closeup"
   },
   {
@@ -13427,7 +13427,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/sales-pipeline-dashboard.png",
+    "preview": "case-images/sales-pipeline-dashboard.png",
     "path": "library/cases/business/sales-pipeline-dashboard"
   },
   {
@@ -13533,7 +13533,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/ceramic-sculpture-study.png",
+    "preview": "case-images/ceramic-sculpture-study.png",
     "path": "library/cases/creative/ceramic-sculpture-study"
   },
   {
@@ -13651,7 +13651,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/east-asian-rain-street-closeup.png",
+    "preview": "case-images/east-asian-rain-street-closeup.png",
     "path": "library/cases/portrait/east-asian-rain-street-closeup"
   },
   {
@@ -13755,7 +13755,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/retail-interior-concept.png",
+    "preview": "case-images/retail-interior-concept.png",
     "path": "library/cases/spaces/retail-interior-concept"
   },
   {
@@ -13859,7 +13859,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/music-festival-poster.png",
+    "preview": "case-images/music-festival-poster.png",
     "path": "library/cases/posters/music-festival-poster"
   },
   {
@@ -13963,7 +13963,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/food-packaging-launch.png",
+    "preview": "case-images/food-packaging-launch.png",
     "path": "library/cases/commerce/food-packaging-launch"
   },
   {
@@ -14068,7 +14068,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/restaurant-menu-cover.png",
+    "preview": "case-images/restaurant-menu-cover.png",
     "path": "library/cases/food/restaurant-menu-cover"
   },
   {
@@ -14173,7 +14173,7 @@ export const catalog = [
         "Use the prompt as a starting point and review model output before production use."
       ]
     },
-    "preview": "/case-images/cocktail-campaign-shot.png",
+    "preview": "case-images/cocktail-campaign-shot.png",
     "path": "library/cases/food/cocktail-campaign-shot"
   }
 ] as const;
@@ -14218,17 +14218,8 @@ export const templates = [
     ],
     "prompt": {
       "zh": "## 角色\n你是一名资深图像艺术总监与制作设计师。请把需求转化为一个受控的最终视觉交付物，而不是松散的灵感板。\n\n## 模板目标\n产品研发拆解板：用结构、材料、使用情境和制造线索验证概念产品是否具备可信的研发逻辑。\n\n## 必填需求字段\n- `{{product}}`（产品）：请给出「产品」的具体对象、外形或功能、关键材质与不可改变的识别特征。\n- `{{design_intent}}`（设计意图）：请填写「设计意图」的具体内容，至少包含对象或取值范围、一个可见特征，以及它对构图、信息层级或生成结果的影响。\n- `{{key_components}}`（关键部件）：请填写「关键部件」的具体内容，至少包含对象或取值范围、一个可见特征，以及它对构图、信息层级或生成结果的影响。\n- `{{materials}}`（材质）：请填写「材质」的具体内容，至少包含对象或取值范围、一个可见特征，以及它对构图、信息层级或生成结果的影响。\n- `{{use_case}}`（使用案例）：请填写「使用案例」的具体内容，至少包含对象或取值范围、一个可见特征，以及它对构图、信息层级或生成结果的影响。\n\n## 需求解析协议\n- 每个变量都是生产决策。缺失字段必须先向需求方确认；不得静默替换为泛化商品、统计数据、品牌主张或人物身份。\n- 在选择风格词前，先锁定交付类型、受众、画幅比例、焦点主体、信息密度和参考图保留要求。\n- 如需求给出精确文案、源素材、尺寸或合规主张，将其作为受控输入保留，不得即兴改写。\n\n## 输出契约\n- 只生成一张完成的 product-commerce / document-publishing 成品；不要生成情绪板、多方案展示板、联系表、过程图、样机拼贴或没有解释的变体。\n- 在添加视觉细节前，先建立主焦点、次级信息层与有意识的留白。\n- 所有命名对象、视觉关系、镜头/透视逻辑和材质行为必须内部一致。\n\n## 制作结构\n- 建立一个主视觉或标题区、一个次级信息区与有意识的留白；缩略图状态下也必须先读出层级。\n- 保持商品几何、材质和尺度可信；商品必须是唯一焦点，用可控布光、接触阴影和文案留白替代无关道具。\n- 系列工作流先锁定主体比例、色彩角色、镜头语言与版式语法，再变化场景内容；每张图都必须属于同一视觉系统。\n\n## 质量门槛\n- 核心部件能与主产品一一对应\n- 拆解顺序符合装配逻辑\n- 材料和使用场景证明设计意图\n- 先在缩略图尺度检查层级，再在完整尺寸检查事实准确性、文字可读性、几何、材质行为与参考图保留要求。\n\n## 不可违反的约束\n- 兼顾声明的模型兼容性，但始终以需求本身为最高优先级。\n- 仅在需求提供精确短文案时才渲染文字；绝不虚构真实品牌、商标、没有来源的数据或填充文案。\n- 输出前检查重复主体、不可能几何、冲突阴影、错误肢体、不可读微型文字与意外水印。\n\n## 避免\n- 不要把不可制造的细节当卖点\n- 不要用密集标注掩盖结构缺失",
-      "en": "## Role\nAct as a senior image art director and production designer. Convert the supplied brief into one controlled visual deliverable, not a loose inspiration board.\n\n## Required brief fields\n- `{{product}}` (Product): Provide the specific object, form or function, key materials, and non-negotiable identity features for Product.\n- `{{design_intent}}` (Design Intent): Provide a concrete value for Design Intent, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{key_components}}` (Key Components): Provide a concrete value for Key Components, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{materials}}` (Materials): Provide a concrete value for Materials, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{use_case}}` (Use Case): Provide a concrete value for Use Case, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n\n## Brief-resolution protocol\n- Treat every variable as a production decision. If a field is absent, request it before rendering; never silently substitute a generic product, statistic, brand claim, or identity.\n- Lock deliverable, audience, aspect ratio, focal subject, information density, and reference-preservation requirements before choosing style adjectives.\n- When exact copy, source assets, measurements, or legal claims are supplied, preserve them as controlled inputs rather than improvising replacements.\n\n## Core task\nCreate a product-development explainer board for {{product}}. Translate {{design_intent}} into one centered hero render, a restrained exploded view of {{key_components}}, close material samples for {{materials}}, and one ergonomic or contextual proof for {{use_case}}. Show assembly order, contact points, seams, fasteners, thickness, and scale only where they make manufacturability more credible. Use a clean technical-editorial grid with short labels and consistent viewing angles. The board must explain how the product works as well as how it looks; do not replace structure with decorative concept art or invent unsupported specifications.\n\n## Output contract\n- Produce exactly one finished product-commerce / document-publishing deliverable. Do not create a moodboard, multi-option presentation board, contact sheet, process diagram, mockup collage, or unexplained variants.\n- Establish a primary focal point, secondary information layer, and deliberate negative space before adding visual detail.\n- Keep all named objects, visual relationships, camera/perspective logic, and material behavior internally consistent.\n\n## Production structure\n- Establish one dominant visual or title zone, a secondary information zone, and intentional negative space. The composition must read at thumbnail size before adding detail.\n- Preserve product geometry, material, and believable scale. Make the product the unambiguous hero; support it with controlled lighting, contact shadow, and copy-safe space rather than unrelated props.\n- For a series, lock the subject proportions, palette roles, lens language, and layout grammar before varying scene content. Every variation must remain recognizably in the same system.\n\n## Quality gates\n- 核心部件能与主产品一一对应\n- 拆解顺序符合装配逻辑\n- 材料和使用场景证明设计意图\n- Review at thumbnail size first, then inspect factual accuracy, legibility, geometry, material behavior, and any reference-preservation requirement at full size.\n\n## Non-negotiable constraints\n- Respect the requested model compatibility, but prioritize the brief over any model-specific ornament.\n- Use short, exact text only when the brief provides it; never invent a real brand, a trademark, unsupported statistics, or filler copy.\n- Check for duplicate subjects, impossible geometry, incoherent shadows, broken anatomy, unreadable micro-text, and accidental watermarks before finalizing.\n\n## Avoid\n- 不要把不可制造的细节当卖点\n- 不要用密集标注掩盖结构缺失"
+      "en": "## Role\nAct as a senior image art director and production designer. Convert the supplied brief into one controlled visual deliverable, not a loose inspiration board.\n\n## Required brief fields\n- `{{product}}` (Product): Provide the specific object, form or function, key materials, and non-negotiable identity features for Product.\n- `{{design_intent}}` (Design Intent): Provide a concrete value for Design Intent, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{key_components}}` (Key Components): Provide a concrete value for Key Components, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{materials}}` (Materials): Provide a concrete value for Materials, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{use_case}}` (Use Case): Provide a concrete value for Use Case, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n\n## Brief-resolution protocol\n- Treat every variable as a production decision. If a field is absent, request it before rendering; never silently substitute a generic product, statistic, brand claim, or identity.\n- Lock deliverable, audience, aspect ratio, focal subject, information density, and reference-preservation requirements before choosing style adjectives.\n- When exact copy, source assets, measurements, or legal claims are supplied, preserve them as controlled inputs rather than improvising replacements.\n\n## Core task\nCreate a product-development explainer board for {{product}}. Translate {{design_intent}} into one centered hero render, a restrained exploded view of {{key_components}}, close material samples for {{materials}}, and one ergonomic or contextual proof for {{use_case}}. Show assembly order, contact points, seams, fasteners, thickness, and scale only where they make manufacturability more credible. Use a clean technical-editorial grid with short labels and consistent viewing angles. The board must explain how the product works as well as how it looks; do not replace structure with decorative concept art or invent unsupported specifications.\n\n## Output contract\n- Produce exactly one finished product-commerce / document-publishing deliverable. Do not create a moodboard, multi-option presentation board, contact sheet, process diagram, mockup collage, or unexplained variants.\n- Establish a primary focal point, secondary information layer, and deliberate negative space before adding visual detail.\n- Keep all named objects, visual relationships, camera/perspective logic, and material behavior internally consistent.\n\n## Production structure\n- Establish one dominant visual or title zone, a secondary information zone, and intentional negative space. The composition must read at thumbnail size before adding detail.\n- Preserve product geometry, material, and believable scale. Make the product the unambiguous hero; support it with controlled lighting, contact shadow, and copy-safe space rather than unrelated props.\n- For a series, lock the subject proportions, palette roles, lens language, and layout grammar before varying scene content. Every variation must remain recognizably in the same system.\n\n## Quality gates\n- Every required field is represented by a concrete, reviewable production decision.\n- The Product Commerce / Document Publishing output has one clear focal hierarchy and remains readable at thumbnail size.\n- Supplied copy, facts, geometry, subject identity, materials, and spatial relationships remain internally consistent.\n- Review at thumbnail size first, then inspect factual accuracy, legibility, geometry, material behavior, and any reference-preservation requirement at full size.\n\n## Non-negotiable constraints\n- Respect the requested model compatibility, but prioritize the brief over any model-specific ornament.\n- Use short, exact text only when the brief provides it; never invent a real brand, a trademark, unsupported statistics, or filler copy.\n- Check for duplicate subjects, impossible geometry, incoherent shadows, broken anatomy, unreadable micro-text, and accidental watermarks before finalizing.\n\n## Avoid\n- Do not replace missing Text To Image / Series Consistency inputs with invented brands, statistics, identities, or filler copy.\n- Do not add unrelated objects, competing layouts, unexplained variants, or decorative structure that weakens the requested outcome.\n- Do not trade factual accuracy, legibility, physical plausibility, or subject consistency for surface-level style effects."
     },
-    "checklist": [
-      "核心部件能与主产品一一对应",
-      "拆解顺序符合装配逻辑",
-      "材料和使用场景证明设计意图"
-    ],
-    "pitfalls": [
-      "不要把不可制造的细节当卖点",
-      "不要用密集标注掩盖结构缺失"
-    ],
     "variable_labels": [
       {
         "id": "product",
@@ -14276,6 +14267,29 @@ export const templates = [
         }
       }
     ],
+    "checklist": {
+      "zh": [
+        "核心部件能与主产品一一对应",
+        "拆解顺序符合装配逻辑",
+        "材料和使用场景证明设计意图"
+      ],
+      "en": [
+        "Every required field is represented by a concrete, reviewable production decision.",
+        "The Product Commerce / Document Publishing output has one clear focal hierarchy and remains readable at thumbnail size.",
+        "Supplied copy, facts, geometry, subject identity, materials, and spatial relationships remain internally consistent."
+      ]
+    },
+    "pitfalls": {
+      "zh": [
+        "不要把不可制造的细节当卖点",
+        "不要用密集标注掩盖结构缺失"
+      ],
+      "en": [
+        "Do not replace missing Text To Image / Series Consistency inputs with invented brands, statistics, identities, or filler copy.",
+        "Do not add unrelated objects, competing layouts, unexplained variants, or decorative structure that weakens the requested outcome.",
+        "Do not trade factual accuracy, legibility, physical plausibility, or subject consistency for surface-level style effects."
+      ]
+    },
     "execution": {
       "zh": {
         "input_policy": "缺失的必填变量必须先向需求方确认；不得用虚构品牌、数据、人物身份或文字补齐。",
@@ -14352,18 +14366,9 @@ export const templates = [
       "primary_cta"
     ],
     "prompt": {
-      "zh": "## 角色\n你是一名资深图像艺术总监与制作设计师。请把需求转化为一个受控的最终视觉交付物，而不是松散的灵感板。\n\n## 模板目标\n产品落地页结构：从首屏到转化区，生成可读且层级清晰的产品官网页面。\n\n## 必填需求字段\n- `{{product_name}}`（产品名称）：请提供「产品名称」的准确文字；如不需要可读文字，请明确写“无文字”，不要让模型自行编写。\n- `{{audience}}`（受众）：请说明「受众」对应的人群、使用情境和关注重点，使内容密度与表达方式可被准确判断。\n- `{{value_proposition}}`（价值价值主张）：请填写「价值价值主张」的具体内容，至少包含对象或取值范围、一个可见特征，以及它对构图、信息层级或生成结果的影响。\n- `{{visual_direction}}`（视觉方向）：请说明「视觉方向」的媒介、时代或审美方向、情绪强度与细节密度，并给出 1–2 个可见特征。\n- `{{primary_cta}}`（主要行动按钮）：请填写「主要行动按钮」的具体内容，至少包含对象或取值范围、一个可见特征，以及它对构图、信息层级或生成结果的影响。\n\n## 需求解析协议\n- 每个变量都是生产决策。缺失字段必须先向需求方确认；不得静默替换为泛化商品、统计数据、品牌主张或人物身份。\n- 在选择风格词前，先锁定交付类型、受众、画幅比例、焦点主体、信息密度和参考图保留要求。\n- 如需求给出精确文案、源素材、尺寸或合规主张，将其作为受控输入保留，不得即兴改写。\n\n## 输出契约\n- 只生成一张完成的 ui-interface 成品；不要生成情绪板、多方案展示板、联系表、过程图、样机拼贴或没有解释的变体。\n- 在添加视觉细节前，先建立主焦点、次级信息层与有意识的留白。\n- 所有命名对象、视觉关系、镜头/透视逻辑和材质行为必须内部一致。\n\n## 制作结构\n- 按完整产品界面处理：建立明确栅格、一个主行动按钮、可理解的组件状态与可信的信息密度。仅在需求明确时选择桌面端 16:9 或移动端 9:16。\n\n## 质量门槛\n- 首屏只保留一个主要行动按钮\n- 标题与数字有清晰的阅读顺序\n- 页面模块可以独立裁切展示\n- 先在缩略图尺度检查层级，再在完整尺寸检查事实准确性、文字可读性、几何、材质行为与参考图保留要求。\n\n## 不可违反的约束\n- 兼顾声明的模型兼容性，但始终以需求本身为最高优先级。\n- 仅在需求提供精确短文案时才渲染文字；绝不虚构真实品牌、商标、没有来源的数据或填充文案。\n- 输出前检查重复主体、不可能几何、冲突阴影、错误肢体、不可读微型文字与意外水印。\n\n## 避免\n- 不要用无法阅读的长段落占位文字\n- 不要让装饰元素压过行动按钮",
-      "en": "## Role\nAct as a senior image art director and production designer. Convert the supplied brief into one controlled visual deliverable, not a loose inspiration board.\n\n## Required brief fields\n- `{{product_name}}` (Product Name): Provide the exact copy for Product Name; if readable copy is not needed, explicitly state “no text” rather than letting the model invent it.\n- `{{audience}}` (Audience): Define the people, usage context, and priority for Audience so information density and tone can be chosen deliberately.\n- `{{value_proposition}}` (Value Proposition): Provide a concrete value for Value Proposition, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{visual_direction}}` (Visual Direction): Describe the medium, era or aesthetic direction, emotional intensity, detail density, and 1–2 visible cues for Visual Direction.\n- `{{primary_cta}}` (Primary Cta): Provide a concrete value for Primary Cta, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n\n## Brief-resolution protocol\n- Treat every variable as a production decision. If a field is absent, request it before rendering; never silently substitute a generic product, statistic, brand claim, or identity.\n- Lock deliverable, audience, aspect ratio, focal subject, information density, and reference-preservation requirements before choosing style adjectives.\n- When exact copy, source assets, measurements, or legal claims are supplied, preserve them as controlled inputs rather than improvising replacements.\n\n## Core task\nDesign a desktop landing page for {{product_name}} aimed at {{audience}}. Build a clear hierarchy: value-led hero, product proof, three benefit modules, trust signals, and a focused {{primary_cta}}. Use {{visual_direction}}. Keep every text block concise, legible, and aligned to a consistent 12-column grid.\n\n## Output contract\n- Produce exactly one finished ui-interface deliverable. Do not create a moodboard, multi-option presentation board, contact sheet, process diagram, mockup collage, or unexplained variants.\n- Establish a primary focal point, secondary information layer, and deliberate negative space before adding visual detail.\n- Keep all named objects, visual relationships, camera/perspective logic, and material behavior internally consistent.\n\n## Production structure\n- Use a coherent product screen with a deliberate grid, one primary action, clear component states, and a realistic content density. Select 16:9 for desktop or 9:16 for mobile only when the brief specifies that platform.\n\n## Quality gates\n- 首屏只保留一个主要行动按钮\n- 标题与数字有清晰的阅读顺序\n- 页面模块可以独立裁切展示\n- Review at thumbnail size first, then inspect factual accuracy, legibility, geometry, material behavior, and any reference-preservation requirement at full size.\n\n## Non-negotiable constraints\n- Respect the requested model compatibility, but prioritize the brief over any model-specific ornament.\n- Use short, exact text only when the brief provides it; never invent a real brand, a trademark, unsupported statistics, or filler copy.\n- Check for duplicate subjects, impossible geometry, incoherent shadows, broken anatomy, unreadable micro-text, and accidental watermarks before finalizing.\n\n## Avoid\n- 不要用无法阅读的长段落占位文字\n- 不要让装饰元素压过行动按钮"
+      "zh": "## 角色\n你是一名资深图像艺术总监与制作设计师。请把需求转化为一个受控的最终视觉交付物，而不是松散的灵感板。\n\n## 模板目标\n产品落地页结构：从首屏到转化区，生成可读且层级清晰的产品官网页面。\n\n## 必填需求字段\n- `{{product_name}}`（产品名称）：请提供「产品名称」的准确文字；如不需要可读文字，请明确写“无文字”，不要让模型自行编写。\n- `{{audience}}`（受众）：请说明「受众」对应的人群、使用情境和关注重点，使内容密度与表达方式可被准确判断。\n- `{{value_proposition}}`（价值主张）：请填写「价值主张」的具体内容，至少包含对象或取值范围、一个可见特征，以及它对构图、信息层级或生成结果的影响。\n- `{{visual_direction}}`（视觉方向）：请说明「视觉方向」的媒介、时代或审美方向、情绪强度与细节密度，并给出 1–2 个可见特征。\n- `{{primary_cta}}`（主要行动按钮）：请填写「主要行动按钮」的具体内容，至少包含对象或取值范围、一个可见特征，以及它对构图、信息层级或生成结果的影响。\n\n## 需求解析协议\n- 每个变量都是生产决策。缺失字段必须先向需求方确认；不得静默替换为泛化商品、统计数据、品牌主张或人物身份。\n- 在选择风格词前，先锁定交付类型、受众、画幅比例、焦点主体、信息密度和参考图保留要求。\n- 如需求给出精确文案、源素材、尺寸或合规主张，将其作为受控输入保留，不得即兴改写。\n\n## 输出契约\n- 只生成一张完成的 ui-interface 成品；不要生成情绪板、多方案展示板、联系表、过程图、样机拼贴或没有解释的变体。\n- 在添加视觉细节前，先建立主焦点、次级信息层与有意识的留白。\n- 所有命名对象、视觉关系、镜头/透视逻辑和材质行为必须内部一致。\n\n## 制作结构\n- 按完整产品界面处理：建立明确栅格、一个主行动按钮、可理解的组件状态与可信的信息密度。仅在需求明确时选择桌面端 16:9 或移动端 9:16。\n\n## 质量门槛\n- 首屏只保留一个主要行动按钮\n- 标题与数字有清晰的阅读顺序\n- 页面模块可以独立裁切展示\n- 先在缩略图尺度检查层级，再在完整尺寸检查事实准确性、文字可读性、几何、材质行为与参考图保留要求。\n\n## 不可违反的约束\n- 兼顾声明的模型兼容性，但始终以需求本身为最高优先级。\n- 仅在需求提供精确短文案时才渲染文字；绝不虚构真实品牌、商标、没有来源的数据或填充文案。\n- 输出前检查重复主体、不可能几何、冲突阴影、错误肢体、不可读微型文字与意外水印。\n\n## 避免\n- 不要用无法阅读的长段落占位文字\n- 不要让装饰元素压过行动按钮",
+      "en": "## Role\nAct as a senior image art director and production designer. Convert the supplied brief into one controlled visual deliverable, not a loose inspiration board.\n\n## Required brief fields\n- `{{product_name}}` (Product Name): Provide the exact copy for Product Name; if readable copy is not needed, explicitly state “no text” rather than letting the model invent it.\n- `{{audience}}` (Audience): Define the people, usage context, and priority for Audience so information density and tone can be chosen deliberately.\n- `{{value_proposition}}` (Value Proposition): Provide a concrete value for Value Proposition, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{visual_direction}}` (Visual Direction): Describe the medium, era or aesthetic direction, emotional intensity, detail density, and 1–2 visible cues for Visual Direction.\n- `{{primary_cta}}` (Primary Cta): Provide a concrete value for Primary Cta, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n\n## Brief-resolution protocol\n- Treat every variable as a production decision. If a field is absent, request it before rendering; never silently substitute a generic product, statistic, brand claim, or identity.\n- Lock deliverable, audience, aspect ratio, focal subject, information density, and reference-preservation requirements before choosing style adjectives.\n- When exact copy, source assets, measurements, or legal claims are supplied, preserve them as controlled inputs rather than improvising replacements.\n\n## Core task\nDesign a desktop landing page for {{product_name}} aimed at {{audience}}. Build a clear hierarchy: value-led hero, product proof, three benefit modules, trust signals, and a focused {{primary_cta}}. Use {{visual_direction}}. Keep every text block concise, legible, and aligned to a consistent 12-column grid.\n\n## Output contract\n- Produce exactly one finished ui-interface deliverable. Do not create a moodboard, multi-option presentation board, contact sheet, process diagram, mockup collage, or unexplained variants.\n- Establish a primary focal point, secondary information layer, and deliberate negative space before adding visual detail.\n- Keep all named objects, visual relationships, camera/perspective logic, and material behavior internally consistent.\n\n## Production structure\n- Use a coherent product screen with a deliberate grid, one primary action, clear component states, and a realistic content density. Select 16:9 for desktop or 9:16 for mobile only when the brief specifies that platform.\n\n## Quality gates\n- Every required field is represented by a concrete, reviewable production decision.\n- The UI Interface output has one clear focal hierarchy and remains readable at thumbnail size.\n- Supplied copy, facts, geometry, subject identity, materials, and spatial relationships remain internally consistent.\n- Review at thumbnail size first, then inspect factual accuracy, legibility, geometry, material behavior, and any reference-preservation requirement at full size.\n\n## Non-negotiable constraints\n- Respect the requested model compatibility, but prioritize the brief over any model-specific ornament.\n- Use short, exact text only when the brief provides it; never invent a real brand, a trademark, unsupported statistics, or filler copy.\n- Check for duplicate subjects, impossible geometry, incoherent shadows, broken anatomy, unreadable micro-text, and accidental watermarks before finalizing.\n\n## Avoid\n- Do not replace missing Text To Image inputs with invented brands, statistics, identities, or filler copy.\n- Do not add unrelated objects, competing layouts, unexplained variants, or decorative structure that weakens the requested outcome.\n- Do not trade factual accuracy, legibility, physical plausibility, or subject consistency for surface-level style effects."
     },
-    "checklist": [
-      "首屏只保留一个主要行动按钮",
-      "标题与数字有清晰的阅读顺序",
-      "页面模块可以独立裁切展示"
-    ],
-    "pitfalls": [
-      "不要用无法阅读的长段落占位文字",
-      "不要让装饰元素压过行动按钮"
-    ],
     "variable_labels": [
       {
         "id": "product_name",
@@ -14385,10 +14390,10 @@ export const templates = [
       },
       {
         "id": "value_proposition",
-        "zh": "价值价值主张",
+        "zh": "价值主张",
         "en": "Value Proposition",
         "description": {
-          "zh": "请填写「价值价值主张」的具体内容，至少包含对象或取值范围、一个可见特征，以及它对构图、信息层级或生成结果的影响。",
+          "zh": "请填写「价值主张」的具体内容，至少包含对象或取值范围、一个可见特征，以及它对构图、信息层级或生成结果的影响。",
           "en": "Provide a concrete value for Value Proposition, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result."
         }
       },
@@ -14411,6 +14416,29 @@ export const templates = [
         }
       }
     ],
+    "checklist": {
+      "zh": [
+        "首屏只保留一个主要行动按钮",
+        "标题与数字有清晰的阅读顺序",
+        "页面模块可以独立裁切展示"
+      ],
+      "en": [
+        "Every required field is represented by a concrete, reviewable production decision.",
+        "The UI Interface output has one clear focal hierarchy and remains readable at thumbnail size.",
+        "Supplied copy, facts, geometry, subject identity, materials, and spatial relationships remain internally consistent."
+      ]
+    },
+    "pitfalls": {
+      "zh": [
+        "不要用无法阅读的长段落占位文字",
+        "不要让装饰元素压过行动按钮"
+      ],
+      "en": [
+        "Do not replace missing Text To Image inputs with invented brands, statistics, identities, or filler copy.",
+        "Do not add unrelated objects, competing layouts, unexplained variants, or decorative structure that weakens the requested outcome.",
+        "Do not trade factual accuracy, legibility, physical plausibility, or subject consistency for surface-level style effects."
+      ]
+    },
     "execution": {
       "zh": {
         "input_policy": "缺失的必填变量必须先向需求方确认；不得用虚构品牌、数据、人物身份或文字补齐。",
@@ -14489,17 +14517,8 @@ export const templates = [
     ],
     "prompt": {
       "zh": "## 角色\n你是一名资深图像艺术总监与制作设计师。请把需求转化为一个受控的最终视觉交付物，而不是松散的灵感板。\n\n## 模板目标\n人物特写艺术指导单：为真实人物近景锁定身份锚点、镜头语言、肤质要求和不可接受的美容化处理。\n\n## 必填需求字段\n- `{{subject_description}}`（主体描述）：请填写「主体描述」的具体内容，至少包含对象或取值范围、一个可见特征，以及它对构图、信息层级或生成结果的影响。\n- `{{story}}`（故事）：请写明「故事」发生了什么、谁在行动、动作结果或情绪转折是什么，确保画面有单一可读节点。\n- `{{wardrobe}}`（服装）：请定义「服装」的身份、外观识别点、服装或姿态，以及必须在系列中保持不变的锚点。\n- `{{background_tone}}`（背景色调）：请给出「背景色调」的 2–4 个明确色名、主辅比例和使用位置；不要只写“高级”或“有氛围”。\n- `{{lighting}}`（布光）：请填写「布光」的具体内容，至少包含对象或取值范围、一个可见特征，以及它对构图、信息层级或生成结果的影响。\n\n## 需求解析协议\n- 每个变量都是生产决策。缺失字段必须先向需求方确认；不得静默替换为泛化商品、统计数据、品牌主张或人物身份。\n- 在选择风格词前，先锁定交付类型、受众、画幅比例、焦点主体、信息密度和参考图保留要求。\n- 如需求给出精确文案、源素材、尺寸或合规主张，将其作为受控输入保留，不得即兴改写。\n\n## 输出契约\n- 只生成一张完成的 portrait-character 成品；不要生成情绪板、多方案展示板、联系表、过程图、样机拼贴或没有解释的变体。\n- 在添加视觉细节前，先建立主焦点、次级信息层与有意识的留白。\n- 所有命名对象、视觉关系、镜头/透视逻辑和材质行为必须内部一致。\n\n## 制作结构\n- 保持人体、手部、服装逻辑与角色识别特征一致；姿势、表情、镜头和背景都必须服务同一身份。\n- 编辑工作流只改动指定区域或属性；保留未改动主体、透视、机位、光向、阴影、纹理和颗粒，不能引入无关对象。\n\n## 质量门槛\n- 脸部和双眼是唯一焦点\n- 肤质与发丝保留真实细节\n- 服装背景和光线共同服务人物叙事\n- 先在缩略图尺度检查层级，再在完整尺寸检查事实准确性、文字可读性、几何、材质行为与参考图保留要求。\n\n## 不可违反的约束\n- 兼顾声明的模型兼容性，但始终以需求本身为最高优先级。\n- 仅在需求提供精确短文案时才渲染文字；绝不虚构真实品牌、商标、没有来源的数据或填充文案。\n- 输出前检查重复主体、不可能几何、冲突阴影、错误肢体、不可读微型文字与意外水印。\n\n## 避免\n- 不要把人像做成塑料磨皮\n- 不要用夸张景深或霓虹色污染真实肤色",
-      "en": "## Role\nAct as a senior image art director and production designer. Convert the supplied brief into one controlled visual deliverable, not a loose inspiration board.\n\n## Required brief fields\n- `{{subject_description}}` (Subject Description): Provide a concrete value for Subject Description, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{story}}` (Story): State what happens in Story, who acts, and the resulting action or emotional turn so the image has one readable beat.\n- `{{wardrobe}}` (Wardrobe): Define the identity, appearance anchors, wardrobe or pose, and the details that must remain stable across the series for Wardrobe.\n- `{{background_tone}}` (Background Tone): Specify 2–4 named colors, their primary/secondary balance, and where Background Tone appears; avoid vague terms such as “premium” or “atmospheric”.\n- `{{lighting}}` (Lighting): Provide a concrete value for Lighting, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n\n## Brief-resolution protocol\n- Treat every variable as a production decision. If a field is absent, request it before rendering; never silently substitute a generic product, statistic, brand claim, or identity.\n- Lock deliverable, audience, aspect ratio, focal subject, information density, and reference-preservation requirements before choosing style adjectives.\n- When exact copy, source assets, measurements, or legal claims are supplied, preserve them as controlled inputs rather than improvising replacements.\n\n## Core task\nCreate one photorealistic head-and-shoulders close-up of {{subject_description}} that communicates {{story}}. Frame from upper chest to above the head; let the face occupy 60–75% of the image and keep both eyes precisely focused. Direct {{wardrobe}}, {{background_tone}}, and {{lighting}} so they support the identity rather than compete with it. Preserve authentic pores, fine hair, natural asymmetry, believable anatomy, and a restrained expression. Specify a realistic portrait lens and depth of field appropriate to the crop. Exclude full-body framing, face-obscuring hands, excessive retouching, beauty-filter skin, copied celebrity likenesses, text, logos, and watermarks.\n\n## Output contract\n- Produce exactly one finished portrait-character deliverable. Do not create a moodboard, multi-option presentation board, contact sheet, process diagram, mockup collage, or unexplained variants.\n- Establish a primary focal point, secondary information layer, and deliberate negative space before adding visual detail.\n- Keep all named objects, visual relationships, camera/perspective logic, and material behavior internally consistent.\n\n## Production structure\n- Keep anatomy, hands, wardrobe logic, and character-defining features consistent. Direct pose, expression, lens perspective, and background so they all support one identity.\n- For edit workflows, change only the requested region or attribute. Preserve untouched subjects, perspective, camera angle, lighting direction, shadows, texture, and grain. Do not introduce unrelated objects.\n\n## Quality gates\n- 脸部和双眼是唯一焦点\n- 肤质与发丝保留真实细节\n- 服装背景和光线共同服务人物叙事\n- Review at thumbnail size first, then inspect factual accuracy, legibility, geometry, material behavior, and any reference-preservation requirement at full size.\n\n## Non-negotiable constraints\n- Respect the requested model compatibility, but prioritize the brief over any model-specific ornament.\n- Use short, exact text only when the brief provides it; never invent a real brand, a trademark, unsupported statistics, or filler copy.\n- Check for duplicate subjects, impossible geometry, incoherent shadows, broken anatomy, unreadable micro-text, and accidental watermarks before finalizing.\n\n## Avoid\n- 不要把人像做成塑料磨皮\n- 不要用夸张景深或霓虹色污染真实肤色"
+      "en": "## Role\nAct as a senior image art director and production designer. Convert the supplied brief into one controlled visual deliverable, not a loose inspiration board.\n\n## Required brief fields\n- `{{subject_description}}` (Subject Description): Provide a concrete value for Subject Description, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{story}}` (Story): State what happens in Story, who acts, and the resulting action or emotional turn so the image has one readable beat.\n- `{{wardrobe}}` (Wardrobe): Define the identity, appearance anchors, wardrobe or pose, and the details that must remain stable across the series for Wardrobe.\n- `{{background_tone}}` (Background Tone): Specify 2–4 named colors, their primary/secondary balance, and where Background Tone appears; avoid vague terms such as “premium” or “atmospheric”.\n- `{{lighting}}` (Lighting): Provide a concrete value for Lighting, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n\n## Brief-resolution protocol\n- Treat every variable as a production decision. If a field is absent, request it before rendering; never silently substitute a generic product, statistic, brand claim, or identity.\n- Lock deliverable, audience, aspect ratio, focal subject, information density, and reference-preservation requirements before choosing style adjectives.\n- When exact copy, source assets, measurements, or legal claims are supplied, preserve them as controlled inputs rather than improvising replacements.\n\n## Core task\nCreate one photorealistic head-and-shoulders close-up of {{subject_description}} that communicates {{story}}. Frame from upper chest to above the head; let the face occupy 60–75% of the image and keep both eyes precisely focused. Direct {{wardrobe}}, {{background_tone}}, and {{lighting}} so they support the identity rather than compete with it. Preserve authentic pores, fine hair, natural asymmetry, believable anatomy, and a restrained expression. Specify a realistic portrait lens and depth of field appropriate to the crop. Exclude full-body framing, face-obscuring hands, excessive retouching, beauty-filter skin, copied celebrity likenesses, text, logos, and watermarks.\n\n## Output contract\n- Produce exactly one finished portrait-character deliverable. Do not create a moodboard, multi-option presentation board, contact sheet, process diagram, mockup collage, or unexplained variants.\n- Establish a primary focal point, secondary information layer, and deliberate negative space before adding visual detail.\n- Keep all named objects, visual relationships, camera/perspective logic, and material behavior internally consistent.\n\n## Production structure\n- Keep anatomy, hands, wardrobe logic, and character-defining features consistent. Direct pose, expression, lens perspective, and background so they all support one identity.\n- For edit workflows, change only the requested region or attribute. Preserve untouched subjects, perspective, camera angle, lighting direction, shadows, texture, and grain. Do not introduce unrelated objects.\n\n## Quality gates\n- Every required field is represented by a concrete, reviewable production decision.\n- The Portrait Character output has one clear focal hierarchy and remains readable at thumbnail size.\n- Supplied copy, facts, geometry, subject identity, materials, and spatial relationships remain internally consistent.\n- Review at thumbnail size first, then inspect factual accuracy, legibility, geometry, material behavior, and any reference-preservation requirement at full size.\n\n## Non-negotiable constraints\n- Respect the requested model compatibility, but prioritize the brief over any model-specific ornament.\n- Use short, exact text only when the brief provides it; never invent a real brand, a trademark, unsupported statistics, or filler copy.\n- Check for duplicate subjects, impossible geometry, incoherent shadows, broken anatomy, unreadable micro-text, and accidental watermarks before finalizing.\n\n## Avoid\n- Do not replace missing Text To Image / Image To Image inputs with invented brands, statistics, identities, or filler copy.\n- Do not add unrelated objects, competing layouts, unexplained variants, or decorative structure that weakens the requested outcome.\n- Do not trade factual accuracy, legibility, physical plausibility, or subject consistency for surface-level style effects."
     },
-    "checklist": [
-      "脸部和双眼是唯一焦点",
-      "肤质与发丝保留真实细节",
-      "服装背景和光线共同服务人物叙事"
-    ],
-    "pitfalls": [
-      "不要把人像做成塑料磨皮",
-      "不要用夸张景深或霓虹色污染真实肤色"
-    ],
     "variable_labels": [
       {
         "id": "subject_description",
@@ -14547,6 +14566,29 @@ export const templates = [
         }
       }
     ],
+    "checklist": {
+      "zh": [
+        "脸部和双眼是唯一焦点",
+        "肤质与发丝保留真实细节",
+        "服装背景和光线共同服务人物叙事"
+      ],
+      "en": [
+        "Every required field is represented by a concrete, reviewable production decision.",
+        "The Portrait Character output has one clear focal hierarchy and remains readable at thumbnail size.",
+        "Supplied copy, facts, geometry, subject identity, materials, and spatial relationships remain internally consistent."
+      ]
+    },
+    "pitfalls": {
+      "zh": [
+        "不要把人像做成塑料磨皮",
+        "不要用夸张景深或霓虹色污染真实肤色"
+      ],
+      "en": [
+        "Do not replace missing Text To Image / Image To Image inputs with invented brands, statistics, identities, or filler copy.",
+        "Do not add unrelated objects, competing layouts, unexplained variants, or decorative structure that weakens the requested outcome.",
+        "Do not trade factual accuracy, legibility, physical plausibility, or subject consistency for surface-level style effects."
+      ]
+    },
     "execution": {
       "zh": {
         "input_policy": "缺失的必填变量必须先向需求方确认；不得用虚构品牌、数据、人物身份或文字补齐。",
@@ -14625,17 +14667,8 @@ export const templates = [
     ],
     "prompt": {
       "zh": "## 角色\n你是一名资深图像艺术总监与制作设计师。请把需求转化为一个受控的最终视觉交付物，而不是松散的灵感板。\n\n## 模板目标\n决策路径信息图：将复杂选择题转成条件、分支和结果明确的一页式决策图。\n\n## 必填需求字段\n- `{{topic}}`（主题）：请填写「主题」的具体内容，至少包含对象或取值范围、一个可见特征，以及它对构图、信息层级或生成结果的影响。\n- `{{audience}}`（受众）：请说明「受众」对应的人群、使用情境和关注重点，使内容密度与表达方式可被准确判断。\n- `{{starting_condition}}`（起始条件）：请填写「起始条件」的具体内容，至少包含对象或取值范围、一个可见特征，以及它对构图、信息层级或生成结果的影响。\n- `{{decision_points}}`（决策要点）：请列出「决策要点」中必须呈现的具体项目、数量范围和优先顺序；不得用虚构数据补全。\n- `{{outcomes}}`（结果）：请填写「结果」的具体内容，至少包含对象或取值范围、一个可见特征，以及它对构图、信息层级或生成结果的影响。\n\n## 需求解析协议\n- 每个变量都是生产决策。缺失字段必须先向需求方确认；不得静默替换为泛化商品、统计数据、品牌主张或人物身份。\n- 在选择风格词前，先锁定交付类型、受众、画幅比例、焦点主体、信息密度和参考图保留要求。\n- 如需求给出精确文案、源素材、尺寸或合规主张，将其作为受控输入保留，不得即兴改写。\n\n## 输出契约\n- 只生成一张完成的 infographic / educational-visual 成品；不要生成情绪板、多方案展示板、联系表、过程图、样机拼贴或没有解释的变体。\n- 在添加视觉细节前，先建立主焦点、次级信息层与有意识的留白。\n- 所有命名对象、视觉关系、镜头/透视逻辑和材质行为必须内部一致。\n\n## 制作结构\n- 明确阅读路径：标题、3–5 个有顺序的模块、短标签与含义清晰的连接线。不能用装饰插画替代信息结构。\n\n## 质量门槛\n- 每个分支都有可执行判断条件\n- 箭头不会交叉或反向误导\n- 结果节点给出下一步而非空泛结论\n- 先在缩略图尺度检查层级，再在完整尺寸检查事实准确性、文字可读性、几何、材质行为与参考图保留要求。\n\n## 不可违反的约束\n- 兼顾声明的模型兼容性，但始终以需求本身为最高优先级。\n- 仅在需求提供精确短文案时才渲染文字；绝不虚构真实品牌、商标、没有来源的数据或填充文案。\n- 输出前检查重复主体、不可能几何、冲突阴影、错误肢体、不可读微型文字与意外水印。\n\n## 避免\n- 不要把流程图画成装饰性路线图\n- 不要在单一节点塞入长段说明",
-      "en": "## Role\nAct as a senior image art director and production designer. Convert the supplied brief into one controlled visual deliverable, not a loose inspiration board.\n\n## Required brief fields\n- `{{topic}}` (Topic): Provide a concrete value for Topic, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{audience}}` (Audience): Define the people, usage context, and priority for Audience so information density and tone can be chosen deliberately.\n- `{{starting_condition}}` (Starting Condition): Provide a concrete value for Starting Condition, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{decision_points}}` (Decision Points): List the concrete items, quantity range, and priority order required for Decision Points; do not fill gaps with fabricated data.\n- `{{outcomes}}` (Outcomes): Provide a concrete value for Outcomes, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n\n## Brief-resolution protocol\n- Treat every variable as a production decision. If a field is absent, request it before rendering; never silently substitute a generic product, statistic, brand claim, or identity.\n- Lock deliverable, audience, aspect ratio, focal subject, information density, and reference-preservation requirements before choosing style adjectives.\n- When exact copy, source assets, measurements, or legal claims are supplied, preserve them as controlled inputs rather than improvising replacements.\n\n## Core task\nCreate a decision-map infographic about {{topic}} for {{audience}}. Start from {{starting_condition}}, then turn {{decision_points}} into a small number of explicit yes-or-no or threshold-based branches that lead to {{outcomes}}. Use one directional reading path, numbered steps, concise labels, and a consistent visual code for question, evidence, action, and outcome. Reserve visual metaphors for orientation only; they must not replace connectors or decision rules. Keep all factual statements supplied by the brief, omit unsupported statistics, and make the final recommendation easy to locate in under ten seconds.\n\n## Output contract\n- Produce exactly one finished infographic / educational-visual deliverable. Do not create a moodboard, multi-option presentation board, contact sheet, process diagram, mockup collage, or unexplained variants.\n- Establish a primary focal point, secondary information layer, and deliberate negative space before adding visual detail.\n- Keep all named objects, visual relationships, camera/perspective logic, and material behavior internally consistent.\n\n## Production structure\n- Make the reading path explicit: headline, 3–5 ordered modules, concise labels, and connectors whose direction and meaning are unambiguous. Do not substitute decorative illustration for information structure.\n\n## Quality gates\n- 每个分支都有可执行判断条件\n- 箭头不会交叉或反向误导\n- 结果节点给出下一步而非空泛结论\n- Review at thumbnail size first, then inspect factual accuracy, legibility, geometry, material behavior, and any reference-preservation requirement at full size.\n\n## Non-negotiable constraints\n- Respect the requested model compatibility, but prioritize the brief over any model-specific ornament.\n- Use short, exact text only when the brief provides it; never invent a real brand, a trademark, unsupported statistics, or filler copy.\n- Check for duplicate subjects, impossible geometry, incoherent shadows, broken anatomy, unreadable micro-text, and accidental watermarks before finalizing.\n\n## Avoid\n- 不要把流程图画成装饰性路线图\n- 不要在单一节点塞入长段说明"
+      "en": "## Role\nAct as a senior image art director and production designer. Convert the supplied brief into one controlled visual deliverable, not a loose inspiration board.\n\n## Required brief fields\n- `{{topic}}` (Topic): Provide a concrete value for Topic, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{audience}}` (Audience): Define the people, usage context, and priority for Audience so information density and tone can be chosen deliberately.\n- `{{starting_condition}}` (Starting Condition): Provide a concrete value for Starting Condition, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{decision_points}}` (Decision Points): List the concrete items, quantity range, and priority order required for Decision Points; do not fill gaps with fabricated data.\n- `{{outcomes}}` (Outcomes): Provide a concrete value for Outcomes, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n\n## Brief-resolution protocol\n- Treat every variable as a production decision. If a field is absent, request it before rendering; never silently substitute a generic product, statistic, brand claim, or identity.\n- Lock deliverable, audience, aspect ratio, focal subject, information density, and reference-preservation requirements before choosing style adjectives.\n- When exact copy, source assets, measurements, or legal claims are supplied, preserve them as controlled inputs rather than improvising replacements.\n\n## Core task\nCreate a decision-map infographic about {{topic}} for {{audience}}. Start from {{starting_condition}}, then turn {{decision_points}} into a small number of explicit yes-or-no or threshold-based branches that lead to {{outcomes}}. Use one directional reading path, numbered steps, concise labels, and a consistent visual code for question, evidence, action, and outcome. Reserve visual metaphors for orientation only; they must not replace connectors or decision rules. Keep all factual statements supplied by the brief, omit unsupported statistics, and make the final recommendation easy to locate in under ten seconds.\n\n## Output contract\n- Produce exactly one finished infographic / educational-visual deliverable. Do not create a moodboard, multi-option presentation board, contact sheet, process diagram, mockup collage, or unexplained variants.\n- Establish a primary focal point, secondary information layer, and deliberate negative space before adding visual detail.\n- Keep all named objects, visual relationships, camera/perspective logic, and material behavior internally consistent.\n\n## Production structure\n- Make the reading path explicit: headline, 3–5 ordered modules, concise labels, and connectors whose direction and meaning are unambiguous. Do not substitute decorative illustration for information structure.\n\n## Quality gates\n- Every required field is represented by a concrete, reviewable production decision.\n- The Infographic / Educational Visual output has one clear focal hierarchy and remains readable at thumbnail size.\n- Supplied copy, facts, geometry, subject identity, materials, and spatial relationships remain internally consistent.\n- Review at thumbnail size first, then inspect factual accuracy, legibility, geometry, material behavior, and any reference-preservation requirement at full size.\n\n## Non-negotiable constraints\n- Respect the requested model compatibility, but prioritize the brief over any model-specific ornament.\n- Use short, exact text only when the brief provides it; never invent a real brand, a trademark, unsupported statistics, or filler copy.\n- Check for duplicate subjects, impossible geometry, incoherent shadows, broken anatomy, unreadable micro-text, and accidental watermarks before finalizing.\n\n## Avoid\n- Do not replace missing Text To Image inputs with invented brands, statistics, identities, or filler copy.\n- Do not add unrelated objects, competing layouts, unexplained variants, or decorative structure that weakens the requested outcome.\n- Do not trade factual accuracy, legibility, physical plausibility, or subject consistency for surface-level style effects."
     },
-    "checklist": [
-      "每个分支都有可执行判断条件",
-      "箭头不会交叉或反向误导",
-      "结果节点给出下一步而非空泛结论"
-    ],
-    "pitfalls": [
-      "不要把流程图画成装饰性路线图",
-      "不要在单一节点塞入长段说明"
-    ],
     "variable_labels": [
       {
         "id": "topic",
@@ -14683,6 +14716,29 @@ export const templates = [
         }
       }
     ],
+    "checklist": {
+      "zh": [
+        "每个分支都有可执行判断条件",
+        "箭头不会交叉或反向误导",
+        "结果节点给出下一步而非空泛结论"
+      ],
+      "en": [
+        "Every required field is represented by a concrete, reviewable production decision.",
+        "The Infographic / Educational Visual output has one clear focal hierarchy and remains readable at thumbnail size.",
+        "Supplied copy, facts, geometry, subject identity, materials, and spatial relationships remain internally consistent."
+      ]
+    },
+    "pitfalls": {
+      "zh": [
+        "不要把流程图画成装饰性路线图",
+        "不要在单一节点塞入长段说明"
+      ],
+      "en": [
+        "Do not replace missing Text To Image inputs with invented brands, statistics, identities, or filler copy.",
+        "Do not add unrelated objects, competing layouts, unexplained variants, or decorative structure that weakens the requested outcome.",
+        "Do not trade factual accuracy, legibility, physical plausibility, or subject consistency for surface-level style effects."
+      ]
+    },
     "execution": {
       "zh": {
         "input_policy": "缺失的必填变量必须先向需求方确认；不得用虚构品牌、数据、人物身份或文字补齐。",
@@ -14761,17 +14817,8 @@ export const templates = [
     ],
     "prompt": {
       "zh": "## 角色\n你是一名资深图像艺术总监与制作设计师。请把需求转化为一个受控的最终视觉交付物，而不是松散的灵感板。\n\n## 模板目标\n分镜叙事板：以镜头顺序、情绪节奏和关键动作组织一段视觉故事。\n\n## 必填需求字段\n- `{{story}}`（故事）：请写明「故事」发生了什么、谁在行动、动作结果或情绪转折是什么，确保画面有单一可读节点。\n- `{{protagonist}}`（主角）：请定义「主角」的身份、外观识别点、服装或姿态，以及必须在系列中保持不变的锚点。\n- `{{setting}}`（场景）：请明确「场景」的地点、时间、空间尺度、关键环境元素及其与主体的关系。\n- `{{emotion_arc}}`（情绪弧线）：请填写「情绪弧线」的具体内容，至少包含对象或取值范围、一个可见特征，以及它对构图、信息层级或生成结果的影响。\n- `{{visual_style}}`（视觉风格）：请说明「视觉风格」的媒介、时代或审美方向、情绪强度与细节密度，并给出 1–2 个可见特征。\n\n## 需求解析协议\n- 每个变量都是生产决策。缺失字段必须先向需求方确认；不得静默替换为泛化商品、统计数据、品牌主张或人物身份。\n- 在选择风格词前，先锁定交付类型、受众、画幅比例、焦点主体、信息密度和参考图保留要求。\n- 如需求给出精确文案、源素材、尺寸或合规主张，将其作为受控输入保留，不得即兴改写。\n\n## 输出契约\n- 只生成一张完成的 scene-storytelling 成品；不要生成情绪板、多方案展示板、联系表、过程图、样机拼贴或没有解释的变体。\n- 在添加视觉细节前，先建立主焦点、次级信息层与有意识的留白。\n- 所有命名对象、视觉关系、镜头/透视逻辑和材质行为必须内部一致。\n\n## 制作结构\n- 通过前景、中景、远景和明确动作讲清叙事节点；系列中人物、道具和世界规则必须连续。\n- 系列工作流先锁定主体比例、色彩角色、镜头语言与版式语法，再变化场景内容；每张图都必须属于同一视觉系统。\n\n## 质量门槛\n- 每格都有明确动作或转折\n- 景别变化服务节奏\n- 人物服装和道具连续\n- 先在缩略图尺度检查层级，再在完整尺寸检查事实准确性、文字可读性、几何、材质行为与参考图保留要求。\n\n## 不可违反的约束\n- 兼顾声明的模型兼容性，但始终以需求本身为最高优先级。\n- 仅在需求提供精确短文案时才渲染文字；绝不虚构真实品牌、商标、没有来源的数据或填充文案。\n- 输出前检查重复主体、不可能几何、冲突阴影、错误肢体、不可读微型文字与意外水印。\n\n## 避免\n- 不要把六格都画成同一景别\n- 不要跳过故事因果关系",
-      "en": "## Role\nAct as a senior image art director and production designer. Convert the supplied brief into one controlled visual deliverable, not a loose inspiration board.\n\n## Required brief fields\n- `{{story}}` (Story): State what happens in Story, who acts, and the resulting action or emotional turn so the image has one readable beat.\n- `{{protagonist}}` (Protagonist): Define the identity, appearance anchors, wardrobe or pose, and the details that must remain stable across the series for Protagonist.\n- `{{setting}}` (Setting): Specify the place, time, scale, key environmental elements, and their relationship to the subject for Setting.\n- `{{emotion_arc}}` (Emotion Arc): Provide a concrete value for Emotion Arc, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{visual_style}}` (Visual Style): Describe the medium, era or aesthetic direction, emotional intensity, detail density, and 1–2 visible cues for Visual Style.\n\n## Brief-resolution protocol\n- Treat every variable as a production decision. If a field is absent, request it before rendering; never silently substitute a generic product, statistic, brand claim, or identity.\n- Lock deliverable, audience, aspect ratio, focal subject, information density, and reference-preservation requirements before choosing style adjectives.\n- When exact copy, source assets, measurements, or legal claims are supplied, preserve them as controlled inputs rather than improvising replacements.\n\n## Core task\nCreate a six-panel storyboard for {{story}}. Follow {{protagonist}} through {{setting}} with an emotional arc of {{emotion_arc}}. Use {{visual_style}}. Vary shot size deliberately, preserve character continuity, label each beat briefly, and make cause-and-effect readable without dialogue.\n\n## Output contract\n- Produce exactly one finished scene-storytelling deliverable. Do not create a moodboard, multi-option presentation board, contact sheet, process diagram, mockup collage, or unexplained variants.\n- Establish a primary focal point, secondary information layer, and deliberate negative space before adding visual detail.\n- Keep all named objects, visual relationships, camera/perspective logic, and material behavior internally consistent.\n\n## Production structure\n- Make the narrative beat legible through foreground, midground, background, and a clear focal action. Maintain continuity of subject, props, and world rules across any sequence.\n- For a series, lock the subject proportions, palette roles, lens language, and layout grammar before varying scene content. Every variation must remain recognizably in the same system.\n\n## Quality gates\n- 每格都有明确动作或转折\n- 景别变化服务节奏\n- 人物服装和道具连续\n- Review at thumbnail size first, then inspect factual accuracy, legibility, geometry, material behavior, and any reference-preservation requirement at full size.\n\n## Non-negotiable constraints\n- Respect the requested model compatibility, but prioritize the brief over any model-specific ornament.\n- Use short, exact text only when the brief provides it; never invent a real brand, a trademark, unsupported statistics, or filler copy.\n- Check for duplicate subjects, impossible geometry, incoherent shadows, broken anatomy, unreadable micro-text, and accidental watermarks before finalizing.\n\n## Avoid\n- 不要把六格都画成同一景别\n- 不要跳过故事因果关系"
+      "en": "## Role\nAct as a senior image art director and production designer. Convert the supplied brief into one controlled visual deliverable, not a loose inspiration board.\n\n## Required brief fields\n- `{{story}}` (Story): State what happens in Story, who acts, and the resulting action or emotional turn so the image has one readable beat.\n- `{{protagonist}}` (Protagonist): Define the identity, appearance anchors, wardrobe or pose, and the details that must remain stable across the series for Protagonist.\n- `{{setting}}` (Setting): Specify the place, time, scale, key environmental elements, and their relationship to the subject for Setting.\n- `{{emotion_arc}}` (Emotion Arc): Provide a concrete value for Emotion Arc, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{visual_style}}` (Visual Style): Describe the medium, era or aesthetic direction, emotional intensity, detail density, and 1–2 visible cues for Visual Style.\n\n## Brief-resolution protocol\n- Treat every variable as a production decision. If a field is absent, request it before rendering; never silently substitute a generic product, statistic, brand claim, or identity.\n- Lock deliverable, audience, aspect ratio, focal subject, information density, and reference-preservation requirements before choosing style adjectives.\n- When exact copy, source assets, measurements, or legal claims are supplied, preserve them as controlled inputs rather than improvising replacements.\n\n## Core task\nCreate a six-panel storyboard for {{story}}. Follow {{protagonist}} through {{setting}} with an emotional arc of {{emotion_arc}}. Use {{visual_style}}. Vary shot size deliberately, preserve character continuity, label each beat briefly, and make cause-and-effect readable without dialogue.\n\n## Output contract\n- Produce exactly one finished scene-storytelling deliverable. Do not create a moodboard, multi-option presentation board, contact sheet, process diagram, mockup collage, or unexplained variants.\n- Establish a primary focal point, secondary information layer, and deliberate negative space before adding visual detail.\n- Keep all named objects, visual relationships, camera/perspective logic, and material behavior internally consistent.\n\n## Production structure\n- Make the narrative beat legible through foreground, midground, background, and a clear focal action. Maintain continuity of subject, props, and world rules across any sequence.\n- For a series, lock the subject proportions, palette roles, lens language, and layout grammar before varying scene content. Every variation must remain recognizably in the same system.\n\n## Quality gates\n- Every required field is represented by a concrete, reviewable production decision.\n- The Scene Storytelling output has one clear focal hierarchy and remains readable at thumbnail size.\n- Supplied copy, facts, geometry, subject identity, materials, and spatial relationships remain internally consistent.\n- Review at thumbnail size first, then inspect factual accuracy, legibility, geometry, material behavior, and any reference-preservation requirement at full size.\n\n## Non-negotiable constraints\n- Respect the requested model compatibility, but prioritize the brief over any model-specific ornament.\n- Use short, exact text only when the brief provides it; never invent a real brand, a trademark, unsupported statistics, or filler copy.\n- Check for duplicate subjects, impossible geometry, incoherent shadows, broken anatomy, unreadable micro-text, and accidental watermarks before finalizing.\n\n## Avoid\n- Do not replace missing Text To Image / Series Consistency inputs with invented brands, statistics, identities, or filler copy.\n- Do not add unrelated objects, competing layouts, unexplained variants, or decorative structure that weakens the requested outcome.\n- Do not trade factual accuracy, legibility, physical plausibility, or subject consistency for surface-level style effects."
     },
-    "checklist": [
-      "每格都有明确动作或转折",
-      "景别变化服务节奏",
-      "人物服装和道具连续"
-    ],
-    "pitfalls": [
-      "不要把六格都画成同一景别",
-      "不要跳过故事因果关系"
-    ],
     "variable_labels": [
       {
         "id": "story",
@@ -14819,6 +14866,29 @@ export const templates = [
         }
       }
     ],
+    "checklist": {
+      "zh": [
+        "每格都有明确动作或转折",
+        "景别变化服务节奏",
+        "人物服装和道具连续"
+      ],
+      "en": [
+        "Every required field is represented by a concrete, reviewable production decision.",
+        "The Scene Storytelling output has one clear focal hierarchy and remains readable at thumbnail size.",
+        "Supplied copy, facts, geometry, subject identity, materials, and spatial relationships remain internally consistent."
+      ]
+    },
+    "pitfalls": {
+      "zh": [
+        "不要把六格都画成同一景别",
+        "不要跳过故事因果关系"
+      ],
+      "en": [
+        "Do not replace missing Text To Image / Series Consistency inputs with invented brands, statistics, identities, or filler copy.",
+        "Do not add unrelated objects, competing layouts, unexplained variants, or decorative structure that weakens the requested outcome.",
+        "Do not trade factual accuracy, legibility, physical plausibility, or subject consistency for surface-level style effects."
+      ]
+    },
     "execution": {
       "zh": {
         "input_policy": "缺失的必填变量必须先向需求方确认；不得用虚构品牌、数据、人物身份或文字补齐。",
@@ -14896,17 +14966,8 @@ export const templates = [
     ],
     "prompt": {
       "zh": "## 角色\n你是一名资深图像艺术总监与制作设计师。请把需求转化为一个受控的最终视觉交付物，而不是松散的灵感板。\n\n## 模板目标\n创业路演图表：以问题、方案、市场与数据证据组织投资沟通的关键视觉页。\n\n## 必填需求字段\n- `{{company}}`（公司）：请填写「公司」的具体内容，至少包含对象或取值范围、一个可见特征，以及它对构图、信息层级或生成结果的影响。\n- `{{problem}}`（问题）：请填写「问题」的具体内容，至少包含对象或取值范围、一个可见特征，以及它对构图、信息层级或生成结果的影响。\n- `{{solution}}`（方案）：请填写「方案」的具体内容，至少包含对象或取值范围、一个可见特征，以及它对构图、信息层级或生成结果的影响。\n- `{{market}}`（市场）：请填写「市场」的具体内容，至少包含对象或取值范围、一个可见特征，以及它对构图、信息层级或生成结果的影响。\n- `{{traction}}`（增长数据）：请填写「增长数据」的具体内容，至少包含对象或取值范围、一个可见特征，以及它对构图、信息层级或生成结果的影响。\n\n## 需求解析协议\n- 每个变量都是生产决策。缺失字段必须先向需求方确认；不得静默替换为泛化商品、统计数据、品牌主张或人物身份。\n- 在选择风格词前，先锁定交付类型、受众、画幅比例、焦点主体、信息密度和参考图保留要求。\n- 如需求给出精确文案、源素材、尺寸或合规主张，将其作为受控输入保留，不得即兴改写。\n\n## 输出契约\n- 只生成一张完成的 document-publishing 成品；不要生成情绪板、多方案展示板、联系表、过程图、样机拼贴或没有解释的变体。\n- 在添加视觉细节前，先建立主焦点、次级信息层与有意识的留白。\n- 所有命名对象、视觉关系、镜头/透视逻辑和材质行为必须内部一致。\n\n## 制作结构\n- 建立一个主视觉或标题区、一个次级信息区与有意识的留白；缩略图状态下也必须先读出层级。\n\n## 质量门槛\n- 每页有单一结论\n- 数字均带含义和单位\n- 图表能脱离演讲被理解\n- 先在缩略图尺度检查层级，再在完整尺寸检查事实准确性、文字可读性、几何、材质行为与参考图保留要求。\n\n## 不可违反的约束\n- 兼顾声明的模型兼容性，但始终以需求本身为最高优先级。\n- 仅在需求提供精确短文案时才渲染文字；绝不虚构真实品牌、商标、没有来源的数据或填充文案。\n- 输出前检查重复主体、不可能几何、冲突阴影、错误肢体、不可读微型文字与意外水印。\n\n## 避免\n- 不要夸大没有来源的市场数字\n- 不要把所有内容都放在同一页",
-      "en": "## Role\nAct as a senior image art director and production designer. Convert the supplied brief into one controlled visual deliverable, not a loose inspiration board.\n\n## Required brief fields\n- `{{company}}` (Company): Provide a concrete value for Company, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{problem}}` (Problem): Provide a concrete value for Problem, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{solution}}` (Solution): Provide a concrete value for Solution, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{market}}` (Market): Provide a concrete value for Market, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{traction}}` (Traction): Provide a concrete value for Traction, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n\n## Brief-resolution protocol\n- Treat every variable as a production decision. If a field is absent, request it before rendering; never silently substitute a generic product, statistic, brand claim, or identity.\n- Lock deliverable, audience, aspect ratio, focal subject, information density, and reference-preservation requirements before choosing style adjectives.\n- When exact copy, source assets, measurements, or legal claims are supplied, preserve them as controlled inputs rather than improvising replacements.\n\n## Core task\nCreate a concise pitch-deck visual system for {{company}}. Explain {{problem}}, {{solution}}, {{market}}, and {{traction}} with a confident but evidence-led narrative. Use simple charts, prioritized numbers, and a consistent layout that works across title, problem, product, market, and metrics slides.\n\n## Output contract\n- Produce exactly one finished document-publishing deliverable. Do not create a moodboard, multi-option presentation board, contact sheet, process diagram, mockup collage, or unexplained variants.\n- Establish a primary focal point, secondary information layer, and deliberate negative space before adding visual detail.\n- Keep all named objects, visual relationships, camera/perspective logic, and material behavior internally consistent.\n\n## Production structure\n- Establish one dominant visual or title zone, a secondary information zone, and intentional negative space. The composition must read at thumbnail size before adding detail.\n\n## Quality gates\n- 每页有单一结论\n- 数字均带含义和单位\n- 图表能脱离演讲被理解\n- Review at thumbnail size first, then inspect factual accuracy, legibility, geometry, material behavior, and any reference-preservation requirement at full size.\n\n## Non-negotiable constraints\n- Respect the requested model compatibility, but prioritize the brief over any model-specific ornament.\n- Use short, exact text only when the brief provides it; never invent a real brand, a trademark, unsupported statistics, or filler copy.\n- Check for duplicate subjects, impossible geometry, incoherent shadows, broken anatomy, unreadable micro-text, and accidental watermarks before finalizing.\n\n## Avoid\n- 不要夸大没有来源的市场数字\n- 不要把所有内容都放在同一页"
+      "en": "## Role\nAct as a senior image art director and production designer. Convert the supplied brief into one controlled visual deliverable, not a loose inspiration board.\n\n## Required brief fields\n- `{{company}}` (Company): Provide a concrete value for Company, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{problem}}` (Problem): Provide a concrete value for Problem, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{solution}}` (Solution): Provide a concrete value for Solution, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{market}}` (Market): Provide a concrete value for Market, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{traction}}` (Traction): Provide a concrete value for Traction, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n\n## Brief-resolution protocol\n- Treat every variable as a production decision. If a field is absent, request it before rendering; never silently substitute a generic product, statistic, brand claim, or identity.\n- Lock deliverable, audience, aspect ratio, focal subject, information density, and reference-preservation requirements before choosing style adjectives.\n- When exact copy, source assets, measurements, or legal claims are supplied, preserve them as controlled inputs rather than improvising replacements.\n\n## Core task\nCreate a concise pitch-deck visual system for {{company}}. Explain {{problem}}, {{solution}}, {{market}}, and {{traction}} with a confident but evidence-led narrative. Use simple charts, prioritized numbers, and a consistent layout that works across title, problem, product, market, and metrics slides.\n\n## Output contract\n- Produce exactly one finished document-publishing deliverable. Do not create a moodboard, multi-option presentation board, contact sheet, process diagram, mockup collage, or unexplained variants.\n- Establish a primary focal point, secondary information layer, and deliberate negative space before adding visual detail.\n- Keep all named objects, visual relationships, camera/perspective logic, and material behavior internally consistent.\n\n## Production structure\n- Establish one dominant visual or title zone, a secondary information zone, and intentional negative space. The composition must read at thumbnail size before adding detail.\n\n## Quality gates\n- Every required field is represented by a concrete, reviewable production decision.\n- The Document Publishing output has one clear focal hierarchy and remains readable at thumbnail size.\n- Supplied copy, facts, geometry, subject identity, materials, and spatial relationships remain internally consistent.\n- Review at thumbnail size first, then inspect factual accuracy, legibility, geometry, material behavior, and any reference-preservation requirement at full size.\n\n## Non-negotiable constraints\n- Respect the requested model compatibility, but prioritize the brief over any model-specific ornament.\n- Use short, exact text only when the brief provides it; never invent a real brand, a trademark, unsupported statistics, or filler copy.\n- Check for duplicate subjects, impossible geometry, incoherent shadows, broken anatomy, unreadable micro-text, and accidental watermarks before finalizing.\n\n## Avoid\n- Do not replace missing Text To Image inputs with invented brands, statistics, identities, or filler copy.\n- Do not add unrelated objects, competing layouts, unexplained variants, or decorative structure that weakens the requested outcome.\n- Do not trade factual accuracy, legibility, physical plausibility, or subject consistency for surface-level style effects."
     },
-    "checklist": [
-      "每页有单一结论",
-      "数字均带含义和单位",
-      "图表能脱离演讲被理解"
-    ],
-    "pitfalls": [
-      "不要夸大没有来源的市场数字",
-      "不要把所有内容都放在同一页"
-    ],
     "variable_labels": [
       {
         "id": "company",
@@ -14954,6 +15015,29 @@ export const templates = [
         }
       }
     ],
+    "checklist": {
+      "zh": [
+        "每页有单一结论",
+        "数字均带含义和单位",
+        "图表能脱离演讲被理解"
+      ],
+      "en": [
+        "Every required field is represented by a concrete, reviewable production decision.",
+        "The Document Publishing output has one clear focal hierarchy and remains readable at thumbnail size.",
+        "Supplied copy, facts, geometry, subject identity, materials, and spatial relationships remain internally consistent."
+      ]
+    },
+    "pitfalls": {
+      "zh": [
+        "不要夸大没有来源的市场数字",
+        "不要把所有内容都放在同一页"
+      ],
+      "en": [
+        "Do not replace missing Text To Image inputs with invented brands, statistics, identities, or filler copy.",
+        "Do not add unrelated objects, competing layouts, unexplained variants, or decorative structure that weakens the requested outcome.",
+        "Do not trade factual accuracy, legibility, physical plausibility, or subject consistency for surface-level style effects."
+      ]
+    },
     "execution": {
       "zh": {
         "input_policy": "缺失的必填变量必须先向需求方确认；不得用虚构品牌、数据、人物身份或文字补齐。",
@@ -15033,17 +15117,8 @@ export const templates = [
     ],
     "prompt": {
       "zh": "## 角色\n你是一名资深图像艺术总监与制作设计师。请把需求转化为一个受控的最终视觉交付物，而不是松散的灵感板。\n\n## 模板目标\n包装概念提案：结合货架识别、材料细节和信息层级的包装探索模板。\n\n## 必填需求字段\n- `{{product}}`（产品）：请给出「产品」的具体对象、外形或功能、关键材质与不可改变的识别特征。\n- `{{target_customer}}`（目标客户）：请说明「目标客户」对应的人群、使用情境和关注重点，使内容密度与表达方式可被准确判断。\n- `{{brand_personality}}`（品牌个性）：请填写「品牌个性」的具体内容，至少包含对象或取值范围、一个可见特征，以及它对构图、信息层级或生成结果的影响。\n- `{{material}}`（材质）：请写清「材质」的主要材质、表面状态、磨损或反射特征，以及它在画面中的重点部位。\n- `{{shelf_context}}`（货架场景）：请填写「货架场景」的具体内容，至少包含对象或取值范围、一个可见特征，以及它对构图、信息层级或生成结果的影响。\n\n## 需求解析协议\n- 每个变量都是生产决策。缺失字段必须先向需求方确认；不得静默替换为泛化商品、统计数据、品牌主张或人物身份。\n- 在选择风格词前，先锁定交付类型、受众、画幅比例、焦点主体、信息密度和参考图保留要求。\n- 如需求给出精确文案、源素材、尺寸或合规主张，将其作为受控输入保留，不得即兴改写。\n\n## 输出契约\n- 只生成一张完成的 product-commerce / brand-identity 成品；不要生成情绪板、多方案展示板、联系表、过程图、样机拼贴或没有解释的变体。\n- 在添加视觉细节前，先建立主焦点、次级信息层与有意识的留白。\n- 所有命名对象、视觉关系、镜头/透视逻辑和材质行为必须内部一致。\n\n## 制作结构\n- 保持商品几何、材质和尺度可信；商品必须是唯一焦点，用可控布光、接触阴影和文案留白替代无关道具。\n- 编辑工作流只改动指定区域或属性；保留未改动主体、透视、机位、光向、阴影、纹理和颗粒，不能引入无关对象。\n\n## 质量门槛\n- 品名与规格层级清晰\n- 结构与开合方式可信\n- 陈列时仍能识别品牌\n- 先在缩略图尺度检查层级，再在完整尺寸检查事实准确性、文字可读性、几何、材质行为与参考图保留要求。\n\n## 不可违反的约束\n- 兼顾声明的模型兼容性，但始终以需求本身为最高优先级。\n- 仅在需求提供精确短文案时才渲染文字；绝不虚构真实品牌、商标、没有来源的数据或填充文案。\n- 输出前检查重复主体、不可能几何、冲突阴影、错误肢体、不可读微型文字与意外水印。\n\n## 避免\n- 不要把包装做成无法生产的雕塑\n- 不要忽略条码与信息区",
-      "en": "## Role\nAct as a senior image art director and production designer. Convert the supplied brief into one controlled visual deliverable, not a loose inspiration board.\n\n## Required brief fields\n- `{{product}}` (Product): Provide the specific object, form or function, key materials, and non-negotiable identity features for Product.\n- `{{target_customer}}` (Target Customer): Define the people, usage context, and priority for Target Customer so information density and tone can be chosen deliberately.\n- `{{brand_personality}}` (Brand Personality): Provide a concrete value for Brand Personality, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{material}}` (Material): State the main materials, surface condition, wear or reflectance, and the focal placement of Material.\n- `{{shelf_context}}` (Shelf Context): Provide a concrete value for Shelf Context, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n\n## Brief-resolution protocol\n- Treat every variable as a production decision. If a field is absent, request it before rendering; never silently substitute a generic product, statistic, brand claim, or identity.\n- Lock deliverable, audience, aspect ratio, focal subject, information density, and reference-preservation requirements before choosing style adjectives.\n- When exact copy, source assets, measurements, or legal claims are supplied, preserve them as controlled inputs rather than improvising replacements.\n\n## Core task\nDesign packaging for {{product}} aimed at {{target_customer}}. Express {{brand_personality}} through form, color, and typography, using {{material}}. Show the primary pack, a close-up material detail, and {{shelf_context}} so hierarchy, recognition, and practical proportions can be evaluated.\n\n## Output contract\n- Produce exactly one finished product-commerce / brand-identity deliverable. Do not create a moodboard, multi-option presentation board, contact sheet, process diagram, mockup collage, or unexplained variants.\n- Establish a primary focal point, secondary information layer, and deliberate negative space before adding visual detail.\n- Keep all named objects, visual relationships, camera/perspective logic, and material behavior internally consistent.\n\n## Production structure\n- Preserve product geometry, material, and believable scale. Make the product the unambiguous hero; support it with controlled lighting, contact shadow, and copy-safe space rather than unrelated props.\n- For edit workflows, change only the requested region or attribute. Preserve untouched subjects, perspective, camera angle, lighting direction, shadows, texture, and grain. Do not introduce unrelated objects.\n\n## Quality gates\n- 品名与规格层级清晰\n- 结构与开合方式可信\n- 陈列时仍能识别品牌\n- Review at thumbnail size first, then inspect factual accuracy, legibility, geometry, material behavior, and any reference-preservation requirement at full size.\n\n## Non-negotiable constraints\n- Respect the requested model compatibility, but prioritize the brief over any model-specific ornament.\n- Use short, exact text only when the brief provides it; never invent a real brand, a trademark, unsupported statistics, or filler copy.\n- Check for duplicate subjects, impossible geometry, incoherent shadows, broken anatomy, unreadable micro-text, and accidental watermarks before finalizing.\n\n## Avoid\n- 不要把包装做成无法生产的雕塑\n- 不要忽略条码与信息区"
+      "en": "## Role\nAct as a senior image art director and production designer. Convert the supplied brief into one controlled visual deliverable, not a loose inspiration board.\n\n## Required brief fields\n- `{{product}}` (Product): Provide the specific object, form or function, key materials, and non-negotiable identity features for Product.\n- `{{target_customer}}` (Target Customer): Define the people, usage context, and priority for Target Customer so information density and tone can be chosen deliberately.\n- `{{brand_personality}}` (Brand Personality): Provide a concrete value for Brand Personality, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{material}}` (Material): State the main materials, surface condition, wear or reflectance, and the focal placement of Material.\n- `{{shelf_context}}` (Shelf Context): Provide a concrete value for Shelf Context, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n\n## Brief-resolution protocol\n- Treat every variable as a production decision. If a field is absent, request it before rendering; never silently substitute a generic product, statistic, brand claim, or identity.\n- Lock deliverable, audience, aspect ratio, focal subject, information density, and reference-preservation requirements before choosing style adjectives.\n- When exact copy, source assets, measurements, or legal claims are supplied, preserve them as controlled inputs rather than improvising replacements.\n\n## Core task\nDesign packaging for {{product}} aimed at {{target_customer}}. Express {{brand_personality}} through form, color, and typography, using {{material}}. Show the primary pack, a close-up material detail, and {{shelf_context}} so hierarchy, recognition, and practical proportions can be evaluated.\n\n## Output contract\n- Produce exactly one finished product-commerce / brand-identity deliverable. Do not create a moodboard, multi-option presentation board, contact sheet, process diagram, mockup collage, or unexplained variants.\n- Establish a primary focal point, secondary information layer, and deliberate negative space before adding visual detail.\n- Keep all named objects, visual relationships, camera/perspective logic, and material behavior internally consistent.\n\n## Production structure\n- Preserve product geometry, material, and believable scale. Make the product the unambiguous hero; support it with controlled lighting, contact shadow, and copy-safe space rather than unrelated props.\n- For edit workflows, change only the requested region or attribute. Preserve untouched subjects, perspective, camera angle, lighting direction, shadows, texture, and grain. Do not introduce unrelated objects.\n\n## Quality gates\n- Every required field is represented by a concrete, reviewable production decision.\n- The Product Commerce / Brand Identity output has one clear focal hierarchy and remains readable at thumbnail size.\n- Supplied copy, facts, geometry, subject identity, materials, and spatial relationships remain internally consistent.\n- Review at thumbnail size first, then inspect factual accuracy, legibility, geometry, material behavior, and any reference-preservation requirement at full size.\n\n## Non-negotiable constraints\n- Respect the requested model compatibility, but prioritize the brief over any model-specific ornament.\n- Use short, exact text only when the brief provides it; never invent a real brand, a trademark, unsupported statistics, or filler copy.\n- Check for duplicate subjects, impossible geometry, incoherent shadows, broken anatomy, unreadable micro-text, and accidental watermarks before finalizing.\n\n## Avoid\n- Do not replace missing Text To Image / Image To Image inputs with invented brands, statistics, identities, or filler copy.\n- Do not add unrelated objects, competing layouts, unexplained variants, or decorative structure that weakens the requested outcome.\n- Do not trade factual accuracy, legibility, physical plausibility, or subject consistency for surface-level style effects."
     },
-    "checklist": [
-      "品名与规格层级清晰",
-      "结构与开合方式可信",
-      "陈列时仍能识别品牌"
-    ],
-    "pitfalls": [
-      "不要把包装做成无法生产的雕塑",
-      "不要忽略条码与信息区"
-    ],
     "variable_labels": [
       {
         "id": "product",
@@ -15091,6 +15166,29 @@ export const templates = [
         }
       }
     ],
+    "checklist": {
+      "zh": [
+        "品名与规格层级清晰",
+        "结构与开合方式可信",
+        "陈列时仍能识别品牌"
+      ],
+      "en": [
+        "Every required field is represented by a concrete, reviewable production decision.",
+        "The Product Commerce / Brand Identity output has one clear focal hierarchy and remains readable at thumbnail size.",
+        "Supplied copy, facts, geometry, subject identity, materials, and spatial relationships remain internally consistent."
+      ]
+    },
+    "pitfalls": {
+      "zh": [
+        "不要把包装做成无法生产的雕塑",
+        "不要忽略条码与信息区"
+      ],
+      "en": [
+        "Do not replace missing Text To Image / Image To Image inputs with invented brands, statistics, identities, or filler copy.",
+        "Do not add unrelated objects, competing layouts, unexplained variants, or decorative structure that weakens the requested outcome.",
+        "Do not trade factual accuracy, legibility, physical plausibility, or subject consistency for surface-level style effects."
+      ]
+    },
     "execution": {
       "zh": {
         "input_policy": "缺失的必填变量必须先向需求方确认；不得用虚构品牌、数据、人物身份或文字补齐。",
@@ -15169,17 +15267,8 @@ export const templates = [
     ],
     "prompt": {
       "zh": "## 角色\n你是一名资深图像艺术总监与制作设计师。请把需求转化为一个受控的最终视觉交付物，而不是松散的灵感板。\n\n## 模板目标\n参考图保真编辑协议：将局部编辑转成可审计的变更单，明确改什么、绝不改什么以及如何验收。\n\n## 必填需求字段\n- `{{source_image}}`（源图图像）：请填写「源图图像」的具体内容，至少包含对象或取值范围、一个可见特征，以及它对构图、信息层级或生成结果的影响。\n- `{{edit_region}}`（编辑区域）：请填写「编辑区域」的具体内容，至少包含对象或取值范围、一个可见特征，以及它对构图、信息层级或生成结果的影响。\n- `{{desired_change}}`（期望改变）：请填写「期望改变」的具体内容，至少包含对象或取值范围、一个可见特征，以及它对构图、信息层级或生成结果的影响。\n- `{{identity_anchors}}`（身份锚点）：请定义「身份锚点」的身份、外观识别点、服装或姿态，以及必须在系列中保持不变的锚点。\n- `{{preserve}}`（保留）：请填写「保留」的具体内容，至少包含对象或取值范围、一个可见特征，以及它对构图、信息层级或生成结果的影响。\n\n## 需求解析协议\n- 每个变量都是生产决策。缺失字段必须先向需求方确认；不得静默替换为泛化商品、统计数据、品牌主张或人物身份。\n- 在选择风格词前，先锁定交付类型、受众、画幅比例、焦点主体、信息密度和参考图保留要求。\n- 如需求给出精确文案、源素材、尺寸或合规主张，将其作为受控输入保留，不得即兴改写。\n\n## 输出契约\n- 只生成一张完成的 product-commerce 成品；不要生成情绪板、多方案展示板、联系表、过程图、样机拼贴或没有解释的变体。\n- 在添加视觉细节前，先建立主焦点、次级信息层与有意识的留白。\n- 所有命名对象、视觉关系、镜头/透视逻辑和材质行为必须内部一致。\n\n## 制作结构\n- 保持商品几何、材质和尺度可信；商品必须是唯一焦点，用可控布光、接触阴影和文案留白替代无关道具。\n- 编辑工作流只改动指定区域或属性；保留未改动主体、透视、机位、光向、阴影、纹理和颗粒，不能引入无关对象。\n\n## 质量门槛\n- 改动区域有清晰边界\n- 保留项包含身份和光影等不可变信息\n- 前后对比能验证只改了指定内容\n- 先在缩略图尺度检查层级，再在完整尺寸检查事实准确性、文字可读性、几何、材质行为与参考图保留要求。\n\n## 不可违反的约束\n- 兼顾声明的模型兼容性，但始终以需求本身为最高优先级。\n- 仅在需求提供精确短文案时才渲染文字；绝不虚构真实品牌、商标、没有来源的数据或填充文案。\n- 输出前检查重复主体、不可能几何、冲突阴影、错误肢体、不可读微型文字与意外水印。\n\n## 避免\n- 不要在未指定区域重绘主体\n- 不要改变产品比例或人物身份来换取局部效果",
-      "en": "## Role\nAct as a senior image art director and production designer. Convert the supplied brief into one controlled visual deliverable, not a loose inspiration board.\n\n## Required brief fields\n- `{{source_image}}` (Source Image): Provide a concrete value for Source Image, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{edit_region}}` (Edit Region): Provide a concrete value for Edit Region, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{desired_change}}` (Desired Change): Provide a concrete value for Desired Change, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{identity_anchors}}` (Identity Anchors): Define the identity, appearance anchors, wardrobe or pose, and the details that must remain stable across the series for Identity Anchors.\n- `{{preserve}}` (Preserve): Provide a concrete value for Preserve, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n\n## Brief-resolution protocol\n- Treat every variable as a production decision. If a field is absent, request it before rendering; never silently substitute a generic product, statistic, brand claim, or identity.\n- Lock deliverable, audience, aspect ratio, focal subject, information density, and reference-preservation requirements before choosing style adjectives.\n- When exact copy, source assets, measurements, or legal claims are supplied, preserve them as controlled inputs rather than improvising replacements.\n\n## Core task\nUse {{source_image}} as the authoritative reference. Modify only {{edit_region}} to achieve {{desired_change}}. Before rendering, list {{identity_anchors}} and {{preserve}} as immutable constraints. Match the original camera position, perspective, crop, lens behavior, lighting direction, shadow softness, material texture, color response, and grain outside the edited area. Produce one edited image at the original aspect ratio, with seamless edges and no new objects unless explicitly named. Validate with a before-and-after comparison: the requested change must be visible, while every locked identity and untouched region remains recognizably unchanged.\n\n## Output contract\n- Produce exactly one finished product-commerce deliverable. Do not create a moodboard, multi-option presentation board, contact sheet, process diagram, mockup collage, or unexplained variants.\n- Establish a primary focal point, secondary information layer, and deliberate negative space before adding visual detail.\n- Keep all named objects, visual relationships, camera/perspective logic, and material behavior internally consistent.\n\n## Production structure\n- Preserve product geometry, material, and believable scale. Make the product the unambiguous hero; support it with controlled lighting, contact shadow, and copy-safe space rather than unrelated props.\n- For edit workflows, change only the requested region or attribute. Preserve untouched subjects, perspective, camera angle, lighting direction, shadows, texture, and grain. Do not introduce unrelated objects.\n\n## Quality gates\n- 改动区域有清晰边界\n- 保留项包含身份和光影等不可变信息\n- 前后对比能验证只改了指定内容\n- Review at thumbnail size first, then inspect factual accuracy, legibility, geometry, material behavior, and any reference-preservation requirement at full size.\n\n## Non-negotiable constraints\n- Respect the requested model compatibility, but prioritize the brief over any model-specific ornament.\n- Use short, exact text only when the brief provides it; never invent a real brand, a trademark, unsupported statistics, or filler copy.\n- Check for duplicate subjects, impossible geometry, incoherent shadows, broken anatomy, unreadable micro-text, and accidental watermarks before finalizing.\n\n## Avoid\n- 不要在未指定区域重绘主体\n- 不要改变产品比例或人物身份来换取局部效果"
+      "en": "## Role\nAct as a senior image art director and production designer. Convert the supplied brief into one controlled visual deliverable, not a loose inspiration board.\n\n## Required brief fields\n- `{{source_image}}` (Source Image): Provide a concrete value for Source Image, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{edit_region}}` (Edit Region): Provide a concrete value for Edit Region, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{desired_change}}` (Desired Change): Provide a concrete value for Desired Change, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{identity_anchors}}` (Identity Anchors): Define the identity, appearance anchors, wardrobe or pose, and the details that must remain stable across the series for Identity Anchors.\n- `{{preserve}}` (Preserve): Provide a concrete value for Preserve, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n\n## Brief-resolution protocol\n- Treat every variable as a production decision. If a field is absent, request it before rendering; never silently substitute a generic product, statistic, brand claim, or identity.\n- Lock deliverable, audience, aspect ratio, focal subject, information density, and reference-preservation requirements before choosing style adjectives.\n- When exact copy, source assets, measurements, or legal claims are supplied, preserve them as controlled inputs rather than improvising replacements.\n\n## Core task\nUse {{source_image}} as the authoritative reference. Modify only {{edit_region}} to achieve {{desired_change}}. Before rendering, list {{identity_anchors}} and {{preserve}} as immutable constraints. Match the original camera position, perspective, crop, lens behavior, lighting direction, shadow softness, material texture, color response, and grain outside the edited area. Produce one edited image at the original aspect ratio, with seamless edges and no new objects unless explicitly named. Validate with a before-and-after comparison: the requested change must be visible, while every locked identity and untouched region remains recognizably unchanged.\n\n## Output contract\n- Produce exactly one finished product-commerce deliverable. Do not create a moodboard, multi-option presentation board, contact sheet, process diagram, mockup collage, or unexplained variants.\n- Establish a primary focal point, secondary information layer, and deliberate negative space before adding visual detail.\n- Keep all named objects, visual relationships, camera/perspective logic, and material behavior internally consistent.\n\n## Production structure\n- Preserve product geometry, material, and believable scale. Make the product the unambiguous hero; support it with controlled lighting, contact shadow, and copy-safe space rather than unrelated props.\n- For edit workflows, change only the requested region or attribute. Preserve untouched subjects, perspective, camera angle, lighting direction, shadows, texture, and grain. Do not introduce unrelated objects.\n\n## Quality gates\n- Every required field is represented by a concrete, reviewable production decision.\n- The Product Commerce output has one clear focal hierarchy and remains readable at thumbnail size.\n- Supplied copy, facts, geometry, subject identity, materials, and spatial relationships remain internally consistent.\n- Review at thumbnail size first, then inspect factual accuracy, legibility, geometry, material behavior, and any reference-preservation requirement at full size.\n\n## Non-negotiable constraints\n- Respect the requested model compatibility, but prioritize the brief over any model-specific ornament.\n- Use short, exact text only when the brief provides it; never invent a real brand, a trademark, unsupported statistics, or filler copy.\n- Check for duplicate subjects, impossible geometry, incoherent shadows, broken anatomy, unreadable micro-text, and accidental watermarks before finalizing.\n\n## Avoid\n- Do not replace missing Inpainting / Compositing inputs with invented brands, statistics, identities, or filler copy.\n- Do not add unrelated objects, competing layouts, unexplained variants, or decorative structure that weakens the requested outcome.\n- Do not trade factual accuracy, legibility, physical plausibility, or subject consistency for surface-level style effects."
     },
-    "checklist": [
-      "改动区域有清晰边界",
-      "保留项包含身份和光影等不可变信息",
-      "前后对比能验证只改了指定内容"
-    ],
-    "pitfalls": [
-      "不要在未指定区域重绘主体",
-      "不要改变产品比例或人物身份来换取局部效果"
-    ],
     "variable_labels": [
       {
         "id": "source_image",
@@ -15227,6 +15316,29 @@ export const templates = [
         }
       }
     ],
+    "checklist": {
+      "zh": [
+        "改动区域有清晰边界",
+        "保留项包含身份和光影等不可变信息",
+        "前后对比能验证只改了指定内容"
+      ],
+      "en": [
+        "Every required field is represented by a concrete, reviewable production decision.",
+        "The Product Commerce output has one clear focal hierarchy and remains readable at thumbnail size.",
+        "Supplied copy, facts, geometry, subject identity, materials, and spatial relationships remain internally consistent."
+      ]
+    },
+    "pitfalls": {
+      "zh": [
+        "不要在未指定区域重绘主体",
+        "不要改变产品比例或人物身份来换取局部效果"
+      ],
+      "en": [
+        "Do not replace missing Inpainting / Compositing inputs with invented brands, statistics, identities, or filler copy.",
+        "Do not add unrelated objects, competing layouts, unexplained variants, or decorative structure that weakens the requested outcome.",
+        "Do not trade factual accuracy, legibility, physical plausibility, or subject consistency for surface-level style effects."
+      ]
+    },
     "execution": {
       "zh": {
         "input_policy": "缺失的必填变量必须先向需求方确认；不得用虚构品牌、数据、人物身份或文字补齐。",
@@ -15306,17 +15418,8 @@ export const templates = [
     ],
     "prompt": {
       "zh": "## 角色\n你是一名资深图像艺术总监与制作设计师。请把需求转化为一个受控的最终视觉交付物，而不是松散的灵感板。\n\n## 模板目标\n品牌视觉规范板：将品牌策略转为可检查的标志、色彩、字体、图形和应用规范，而非灵感拼贴。\n\n## 必填需求字段\n- `{{brand_name}}`（品牌名称）：请提供「品牌名称」的准确文字；如不需要可读文字，请明确写“无文字”，不要让模型自行编写。\n- `{{positioning}}`（定位）：请填写「定位」的具体内容，至少包含对象或取值范围、一个可见特征，以及它对构图、信息层级或生成结果的影响。\n- `{{audience}}`（受众）：请说明「受众」对应的人群、使用情境和关注重点，使内容密度与表达方式可被准确判断。\n- `{{personality}}`（个性）：请填写「个性」的具体内容，至少包含对象或取值范围、一个可见特征，以及它对构图、信息层级或生成结果的影响。\n- `{{application_context}}`（应用场景）：请填写「应用场景」的具体内容，至少包含对象或取值范围、一个可见特征，以及它对构图、信息层级或生成结果的影响。\n\n## 需求解析协议\n- 每个变量都是生产决策。缺失字段必须先向需求方确认；不得静默替换为泛化商品、统计数据、品牌主张或人物身份。\n- 在选择风格词前，先锁定交付类型、受众、画幅比例、焦点主体、信息密度和参考图保留要求。\n- 如需求给出精确文案、源素材、尺寸或合规主张，将其作为受控输入保留，不得即兴改写。\n\n## 输出契约\n- 只生成一张完成的 brand-identity / document-publishing 成品；不要生成情绪板、多方案展示板、联系表、过程图、样机拼贴或没有解释的变体。\n- 在添加视觉细节前，先建立主焦点、次级信息层与有意识的留白。\n- 所有命名对象、视觉关系、镜头/透视逻辑和材质行为必须内部一致。\n\n## 制作结构\n- 建立一个主视觉或标题区、一个次级信息区与有意识的留白；缩略图状态下也必须先读出层级。\n- 系列工作流先锁定主体比例、色彩角色、镜头语言与版式语法，再变化场景内容；每张图都必须属于同一视觉系统。\n\n## 质量门槛\n- 每个视觉元素都有明确角色\n- 应用示例能追溯到同一系统规则\n- 禁用示例能说明而非装饰\n- 先在缩略图尺度检查层级，再在完整尺寸检查事实准确性、文字可读性、几何、材质行为与参考图保留要求。\n\n## 不可违反的约束\n- 兼顾声明的模型兼容性，但始终以需求本身为最高优先级。\n- 仅在需求提供精确短文案时才渲染文字；绝不虚构真实品牌、商标、没有来源的数据或填充文案。\n- 输出前检查重复主体、不可能几何、冲突阴影、错误肢体、不可读微型文字与意外水印。\n\n## 避免\n- 不要把多套不同风格标志塞进一页\n- 不要把品牌规范做成无法阅读的情绪板",
-      "en": "## Role\nAct as a senior image art director and production designer. Convert the supplied brief into one controlled visual deliverable, not a loose inspiration board.\n\n## Required brief fields\n- `{{brand_name}}` (Brand Name): Provide the exact copy for Brand Name; if readable copy is not needed, explicitly state “no text” rather than letting the model invent it.\n- `{{positioning}}` (Positioning): Provide a concrete value for Positioning, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{audience}}` (Audience): Define the people, usage context, and priority for Audience so information density and tone can be chosen deliberately.\n- `{{personality}}` (Personality): Provide a concrete value for Personality, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{application_context}}` (Application Context): Provide a concrete value for Application Context, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n\n## Brief-resolution protocol\n- Treat every variable as a production decision. If a field is absent, request it before rendering; never silently substitute a generic product, statistic, brand claim, or identity.\n- Lock deliverable, audience, aspect ratio, focal subject, information density, and reference-preservation requirements before choosing style adjectives.\n- When exact copy, source assets, measurements, or legal claims are supplied, preserve them as controlled inputs rather than improvising replacements.\n\n## Core task\nCreate a single brand-guidelines board for {{brand_name}}, positioned around {{positioning}} for {{audience}}. Translate {{personality}} into a restrained system: primary and secondary mark behavior, palette roles with contrast intent, typography hierarchy, icon or graphic-device rule, image direction, and two small application examples for {{application_context}}. Organize the board as a clean documentation page with labeled modules and enough whitespace to evaluate each rule. Show do-and-dont logic through simple paired examples, not a collage of unrelated identity directions. Never imitate an existing brand or introduce unverified brand claims.\n\n## Output contract\n- Produce exactly one finished brand-identity / document-publishing deliverable. Do not create a moodboard, multi-option presentation board, contact sheet, process diagram, mockup collage, or unexplained variants.\n- Establish a primary focal point, secondary information layer, and deliberate negative space before adding visual detail.\n- Keep all named objects, visual relationships, camera/perspective logic, and material behavior internally consistent.\n\n## Production structure\n- Establish one dominant visual or title zone, a secondary information zone, and intentional negative space. The composition must read at thumbnail size before adding detail.\n- For a series, lock the subject proportions, palette roles, lens language, and layout grammar before varying scene content. Every variation must remain recognizably in the same system.\n\n## Quality gates\n- 每个视觉元素都有明确角色\n- 应用示例能追溯到同一系统规则\n- 禁用示例能说明而非装饰\n- Review at thumbnail size first, then inspect factual accuracy, legibility, geometry, material behavior, and any reference-preservation requirement at full size.\n\n## Non-negotiable constraints\n- Respect the requested model compatibility, but prioritize the brief over any model-specific ornament.\n- Use short, exact text only when the brief provides it; never invent a real brand, a trademark, unsupported statistics, or filler copy.\n- Check for duplicate subjects, impossible geometry, incoherent shadows, broken anatomy, unreadable micro-text, and accidental watermarks before finalizing.\n\n## Avoid\n- 不要把多套不同风格标志塞进一页\n- 不要把品牌规范做成无法阅读的情绪板"
+      "en": "## Role\nAct as a senior image art director and production designer. Convert the supplied brief into one controlled visual deliverable, not a loose inspiration board.\n\n## Required brief fields\n- `{{brand_name}}` (Brand Name): Provide the exact copy for Brand Name; if readable copy is not needed, explicitly state “no text” rather than letting the model invent it.\n- `{{positioning}}` (Positioning): Provide a concrete value for Positioning, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{audience}}` (Audience): Define the people, usage context, and priority for Audience so information density and tone can be chosen deliberately.\n- `{{personality}}` (Personality): Provide a concrete value for Personality, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{application_context}}` (Application Context): Provide a concrete value for Application Context, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n\n## Brief-resolution protocol\n- Treat every variable as a production decision. If a field is absent, request it before rendering; never silently substitute a generic product, statistic, brand claim, or identity.\n- Lock deliverable, audience, aspect ratio, focal subject, information density, and reference-preservation requirements before choosing style adjectives.\n- When exact copy, source assets, measurements, or legal claims are supplied, preserve them as controlled inputs rather than improvising replacements.\n\n## Core task\nCreate a single brand-guidelines board for {{brand_name}}, positioned around {{positioning}} for {{audience}}. Translate {{personality}} into a restrained system: primary and secondary mark behavior, palette roles with contrast intent, typography hierarchy, icon or graphic-device rule, image direction, and two small application examples for {{application_context}}. Organize the board as a clean documentation page with labeled modules and enough whitespace to evaluate each rule. Show do-and-dont logic through simple paired examples, not a collage of unrelated identity directions. Never imitate an existing brand or introduce unverified brand claims.\n\n## Output contract\n- Produce exactly one finished brand-identity / document-publishing deliverable. Do not create a moodboard, multi-option presentation board, contact sheet, process diagram, mockup collage, or unexplained variants.\n- Establish a primary focal point, secondary information layer, and deliberate negative space before adding visual detail.\n- Keep all named objects, visual relationships, camera/perspective logic, and material behavior internally consistent.\n\n## Production structure\n- Establish one dominant visual or title zone, a secondary information zone, and intentional negative space. The composition must read at thumbnail size before adding detail.\n- For a series, lock the subject proportions, palette roles, lens language, and layout grammar before varying scene content. Every variation must remain recognizably in the same system.\n\n## Quality gates\n- Every required field is represented by a concrete, reviewable production decision.\n- The Brand Identity / Document Publishing output has one clear focal hierarchy and remains readable at thumbnail size.\n- Supplied copy, facts, geometry, subject identity, materials, and spatial relationships remain internally consistent.\n- Review at thumbnail size first, then inspect factual accuracy, legibility, geometry, material behavior, and any reference-preservation requirement at full size.\n\n## Non-negotiable constraints\n- Respect the requested model compatibility, but prioritize the brief over any model-specific ornament.\n- Use short, exact text only when the brief provides it; never invent a real brand, a trademark, unsupported statistics, or filler copy.\n- Check for duplicate subjects, impossible geometry, incoherent shadows, broken anatomy, unreadable micro-text, and accidental watermarks before finalizing.\n\n## Avoid\n- Do not replace missing Text To Image / Series Consistency inputs with invented brands, statistics, identities, or filler copy.\n- Do not add unrelated objects, competing layouts, unexplained variants, or decorative structure that weakens the requested outcome.\n- Do not trade factual accuracy, legibility, physical plausibility, or subject consistency for surface-level style effects."
     },
-    "checklist": [
-      "每个视觉元素都有明确角色",
-      "应用示例能追溯到同一系统规则",
-      "禁用示例能说明而非装饰"
-    ],
-    "pitfalls": [
-      "不要把多套不同风格标志塞进一页",
-      "不要把品牌规范做成无法阅读的情绪板"
-    ],
     "variable_labels": [
       {
         "id": "brand_name",
@@ -15364,6 +15467,29 @@ export const templates = [
         }
       }
     ],
+    "checklist": {
+      "zh": [
+        "每个视觉元素都有明确角色",
+        "应用示例能追溯到同一系统规则",
+        "禁用示例能说明而非装饰"
+      ],
+      "en": [
+        "Every required field is represented by a concrete, reviewable production decision.",
+        "The Brand Identity / Document Publishing output has one clear focal hierarchy and remains readable at thumbnail size.",
+        "Supplied copy, facts, geometry, subject identity, materials, and spatial relationships remain internally consistent."
+      ]
+    },
+    "pitfalls": {
+      "zh": [
+        "不要把多套不同风格标志塞进一页",
+        "不要把品牌规范做成无法阅读的情绪板"
+      ],
+      "en": [
+        "Do not replace missing Text To Image / Series Consistency inputs with invented brands, statistics, identities, or filler copy.",
+        "Do not add unrelated objects, competing layouts, unexplained variants, or decorative structure that weakens the requested outcome.",
+        "Do not trade factual accuracy, legibility, physical plausibility, or subject consistency for surface-level style effects."
+      ]
+    },
     "execution": {
       "zh": {
         "input_policy": "缺失的必填变量必须先向需求方确认；不得用虚构品牌、数据、人物身份或文字补齐。",
@@ -15440,18 +15566,9 @@ export const templates = [
       "visual_metaphor"
     ],
     "prompt": {
-      "zh": "## 角色\n你是一名资深图像艺术总监与制作设计师。请把需求转化为一个受控的最终视觉交付物，而不是松散的灵感板。\n\n## 模板目标\n品牌识别套件：将品牌定位转成标志、色彩、字体和应用触点的统一系统。\n\n## 必填需求字段\n- `{{brand_name}}`（品牌名称）：请提供「品牌名称」的准确文字；如不需要可读文字，请明确写“无文字”，不要让模型自行编写。\n- `{{industry}}`（行业）：请填写「行业」的具体内容，至少包含对象或取值范围、一个可见特征，以及它对构图、信息层级或生成结果的影响。\n- `{{positioning}}`（定位）：请填写「定位」的具体内容，至少包含对象或取值范围、一个可见特征，以及它对构图、信息层级或生成结果的影响。\n- `{{personality}}`（个性）：请填写「个性」的具体内容，至少包含对象或取值范围、一个可见特征，以及它对构图、信息层级或生成结果的影响。\n- `{{visual_metaphor}}`（视觉视觉隐喻）：请说明「视觉视觉隐喻」的媒介、时代或审美方向、情绪强度与细节密度，并给出 1–2 个可见特征。\n\n## 需求解析协议\n- 每个变量都是生产决策。缺失字段必须先向需求方确认；不得静默替换为泛化商品、统计数据、品牌主张或人物身份。\n- 在选择风格词前，先锁定交付类型、受众、画幅比例、焦点主体、信息密度和参考图保留要求。\n- 如需求给出精确文案、源素材、尺寸或合规主张，将其作为受控输入保留，不得即兴改写。\n\n## 输出契约\n- 只生成一张完成的 brand-identity 成品；不要生成情绪板、多方案展示板、联系表、过程图、样机拼贴或没有解释的变体。\n- 在添加视觉细节前，先建立主焦点、次级信息层与有意识的留白。\n- 所有命名对象、视觉关系、镜头/透视逻辑和材质行为必须内部一致。\n\n## 制作结构\n- 使用清晰、刻意的版式与受控的视觉层级。\n\n## 质量门槛\n- 标志能在小尺寸识别\n- 色彩有主次层级\n- 应用场景共享同一视觉语法\n- 先在缩略图尺度检查层级，再在完整尺寸检查事实准确性、文字可读性、几何、材质行为与参考图保留要求。\n\n## 不可违反的约束\n- 兼顾声明的模型兼容性，但始终以需求本身为最高优先级。\n- 仅在需求提供精确短文案时才渲染文字；绝不虚构真实品牌、商标、没有来源的数据或填充文案。\n- 输出前检查重复主体、不可能几何、冲突阴影、错误肢体、不可读微型文字与意外水印。\n\n## 避免\n- 不要把品牌名做成复杂插画\n- 不要让每个触点使用不同风格",
-      "en": "## Role\nAct as a senior image art director and production designer. Convert the supplied brief into one controlled visual deliverable, not a loose inspiration board.\n\n## Required brief fields\n- `{{brand_name}}` (Brand Name): Provide the exact copy for Brand Name; if readable copy is not needed, explicitly state “no text” rather than letting the model invent it.\n- `{{industry}}` (Industry): Provide a concrete value for Industry, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{positioning}}` (Positioning): Provide a concrete value for Positioning, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{personality}}` (Personality): Provide a concrete value for Personality, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{visual_metaphor}}` (Visual Metaphor): Describe the medium, era or aesthetic direction, emotional intensity, detail density, and 1–2 visible cues for Visual Metaphor.\n\n## Brief-resolution protocol\n- Treat every variable as a production decision. If a field is absent, request it before rendering; never silently substitute a generic product, statistic, brand claim, or identity.\n- Lock deliverable, audience, aspect ratio, focal subject, information density, and reference-preservation requirements before choosing style adjectives.\n- When exact copy, source assets, measurements, or legal claims are supplied, preserve them as controlled inputs rather than improvising replacements.\n\n## Core task\nCreate a coherent identity presentation for {{brand_name}}, a {{industry}} brand positioned around {{positioning}}. Translate {{personality}} through {{visual_metaphor}}. Show a primary mark, color and type direction, icon language, packaging or digital applications, and rules that keep the system consistent.\n\n## Output contract\n- Produce exactly one finished brand-identity deliverable. Do not create a moodboard, multi-option presentation board, contact sheet, process diagram, mockup collage, or unexplained variants.\n- Establish a primary focal point, secondary information layer, and deliberate negative space before adding visual detail.\n- Keep all named objects, visual relationships, camera/perspective logic, and material behavior internally consistent.\n\n## Production structure\n- Use a clear, deliberate layout and a controlled visual hierarchy.\n\n## Quality gates\n- 标志能在小尺寸识别\n- 色彩有主次层级\n- 应用场景共享同一视觉语法\n- Review at thumbnail size first, then inspect factual accuracy, legibility, geometry, material behavior, and any reference-preservation requirement at full size.\n\n## Non-negotiable constraints\n- Respect the requested model compatibility, but prioritize the brief over any model-specific ornament.\n- Use short, exact text only when the brief provides it; never invent a real brand, a trademark, unsupported statistics, or filler copy.\n- Check for duplicate subjects, impossible geometry, incoherent shadows, broken anatomy, unreadable micro-text, and accidental watermarks before finalizing.\n\n## Avoid\n- 不要把品牌名做成复杂插画\n- 不要让每个触点使用不同风格"
+      "zh": "## 角色\n你是一名资深图像艺术总监与制作设计师。请把需求转化为一个受控的最终视觉交付物，而不是松散的灵感板。\n\n## 模板目标\n品牌识别套件：将品牌定位转成标志、色彩、字体和应用触点的统一系统。\n\n## 必填需求字段\n- `{{brand_name}}`（品牌名称）：请提供「品牌名称」的准确文字；如不需要可读文字，请明确写“无文字”，不要让模型自行编写。\n- `{{industry}}`（行业）：请填写「行业」的具体内容，至少包含对象或取值范围、一个可见特征，以及它对构图、信息层级或生成结果的影响。\n- `{{positioning}}`（定位）：请填写「定位」的具体内容，至少包含对象或取值范围、一个可见特征，以及它对构图、信息层级或生成结果的影响。\n- `{{personality}}`（个性）：请填写「个性」的具体内容，至少包含对象或取值范围、一个可见特征，以及它对构图、信息层级或生成结果的影响。\n- `{{visual_metaphor}}`（视觉隐喻）：请说明「视觉隐喻」的媒介、时代或审美方向、情绪强度与细节密度，并给出 1–2 个可见特征。\n\n## 需求解析协议\n- 每个变量都是生产决策。缺失字段必须先向需求方确认；不得静默替换为泛化商品、统计数据、品牌主张或人物身份。\n- 在选择风格词前，先锁定交付类型、受众、画幅比例、焦点主体、信息密度和参考图保留要求。\n- 如需求给出精确文案、源素材、尺寸或合规主张，将其作为受控输入保留，不得即兴改写。\n\n## 输出契约\n- 只生成一张完成的 brand-identity 成品；不要生成情绪板、多方案展示板、联系表、过程图、样机拼贴或没有解释的变体。\n- 在添加视觉细节前，先建立主焦点、次级信息层与有意识的留白。\n- 所有命名对象、视觉关系、镜头/透视逻辑和材质行为必须内部一致。\n\n## 制作结构\n- 使用清晰、刻意的版式与受控的视觉层级。\n\n## 质量门槛\n- 标志能在小尺寸识别\n- 色彩有主次层级\n- 应用场景共享同一视觉语法\n- 先在缩略图尺度检查层级，再在完整尺寸检查事实准确性、文字可读性、几何、材质行为与参考图保留要求。\n\n## 不可违反的约束\n- 兼顾声明的模型兼容性，但始终以需求本身为最高优先级。\n- 仅在需求提供精确短文案时才渲染文字；绝不虚构真实品牌、商标、没有来源的数据或填充文案。\n- 输出前检查重复主体、不可能几何、冲突阴影、错误肢体、不可读微型文字与意外水印。\n\n## 避免\n- 不要把品牌名做成复杂插画\n- 不要让每个触点使用不同风格",
+      "en": "## Role\nAct as a senior image art director and production designer. Convert the supplied brief into one controlled visual deliverable, not a loose inspiration board.\n\n## Required brief fields\n- `{{brand_name}}` (Brand Name): Provide the exact copy for Brand Name; if readable copy is not needed, explicitly state “no text” rather than letting the model invent it.\n- `{{industry}}` (Industry): Provide a concrete value for Industry, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{positioning}}` (Positioning): Provide a concrete value for Positioning, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{personality}}` (Personality): Provide a concrete value for Personality, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{visual_metaphor}}` (Visual Metaphor): Describe the medium, era or aesthetic direction, emotional intensity, detail density, and 1–2 visible cues for Visual Metaphor.\n\n## Brief-resolution protocol\n- Treat every variable as a production decision. If a field is absent, request it before rendering; never silently substitute a generic product, statistic, brand claim, or identity.\n- Lock deliverable, audience, aspect ratio, focal subject, information density, and reference-preservation requirements before choosing style adjectives.\n- When exact copy, source assets, measurements, or legal claims are supplied, preserve them as controlled inputs rather than improvising replacements.\n\n## Core task\nCreate a coherent identity presentation for {{brand_name}}, a {{industry}} brand positioned around {{positioning}}. Translate {{personality}} through {{visual_metaphor}}. Show a primary mark, color and type direction, icon language, packaging or digital applications, and rules that keep the system consistent.\n\n## Output contract\n- Produce exactly one finished brand-identity deliverable. Do not create a moodboard, multi-option presentation board, contact sheet, process diagram, mockup collage, or unexplained variants.\n- Establish a primary focal point, secondary information layer, and deliberate negative space before adding visual detail.\n- Keep all named objects, visual relationships, camera/perspective logic, and material behavior internally consistent.\n\n## Production structure\n- Use a clear, deliberate layout and a controlled visual hierarchy.\n\n## Quality gates\n- Every required field is represented by a concrete, reviewable production decision.\n- The Brand Identity output has one clear focal hierarchy and remains readable at thumbnail size.\n- Supplied copy, facts, geometry, subject identity, materials, and spatial relationships remain internally consistent.\n- Review at thumbnail size first, then inspect factual accuracy, legibility, geometry, material behavior, and any reference-preservation requirement at full size.\n\n## Non-negotiable constraints\n- Respect the requested model compatibility, but prioritize the brief over any model-specific ornament.\n- Use short, exact text only when the brief provides it; never invent a real brand, a trademark, unsupported statistics, or filler copy.\n- Check for duplicate subjects, impossible geometry, incoherent shadows, broken anatomy, unreadable micro-text, and accidental watermarks before finalizing.\n\n## Avoid\n- Do not replace missing Text To Image inputs with invented brands, statistics, identities, or filler copy.\n- Do not add unrelated objects, competing layouts, unexplained variants, or decorative structure that weakens the requested outcome.\n- Do not trade factual accuracy, legibility, physical plausibility, or subject consistency for surface-level style effects."
     },
-    "checklist": [
-      "标志能在小尺寸识别",
-      "色彩有主次层级",
-      "应用场景共享同一视觉语法"
-    ],
-    "pitfalls": [
-      "不要把品牌名做成复杂插画",
-      "不要让每个触点使用不同风格"
-    ],
     "variable_labels": [
       {
         "id": "brand_name",
@@ -15491,14 +15608,37 @@ export const templates = [
       },
       {
         "id": "visual_metaphor",
-        "zh": "视觉视觉隐喻",
+        "zh": "视觉隐喻",
         "en": "Visual Metaphor",
         "description": {
-          "zh": "请说明「视觉视觉隐喻」的媒介、时代或审美方向、情绪强度与细节密度，并给出 1–2 个可见特征。",
+          "zh": "请说明「视觉隐喻」的媒介、时代或审美方向、情绪强度与细节密度，并给出 1–2 个可见特征。",
           "en": "Describe the medium, era or aesthetic direction, emotional intensity, detail density, and 1–2 visible cues for Visual Metaphor."
         }
       }
     ],
+    "checklist": {
+      "zh": [
+        "标志能在小尺寸识别",
+        "色彩有主次层级",
+        "应用场景共享同一视觉语法"
+      ],
+      "en": [
+        "Every required field is represented by a concrete, reviewable production decision.",
+        "The Brand Identity output has one clear focal hierarchy and remains readable at thumbnail size.",
+        "Supplied copy, facts, geometry, subject identity, materials, and spatial relationships remain internally consistent."
+      ]
+    },
+    "pitfalls": {
+      "zh": [
+        "不要把品牌名做成复杂插画",
+        "不要让每个触点使用不同风格"
+      ],
+      "en": [
+        "Do not replace missing Text To Image inputs with invented brands, statistics, identities, or filler copy.",
+        "Do not add unrelated objects, competing layouts, unexplained variants, or decorative structure that weakens the requested outcome.",
+        "Do not trade factual accuracy, legibility, physical plausibility, or subject consistency for surface-level style effects."
+      ]
+    },
     "execution": {
       "zh": {
         "input_policy": "缺失的必填变量必须先向需求方确认；不得用虚构品牌、数据、人物身份或文字补齐。",
@@ -15577,17 +15717,8 @@ export const templates = [
     ],
     "prompt": {
       "zh": "## 角色\n你是一名资深图像艺术总监与制作设计师。请把需求转化为一个受控的最终视觉交付物，而不是松散的灵感板。\n\n## 模板目标\n商品对比说明页：用同一尺度、同一证据标准呈现多款商品差异，帮助用户快速做购买选择。\n\n## 必填需求字段\n- `{{product_category}}`（产品品类）：请给出「产品品类」的具体对象、外形或功能、关键材质与不可改变的识别特征。\n- `{{products}}`（产品组）：请填写「产品组」的具体内容，至少包含对象或取值范围、一个可见特征，以及它对构图、信息层级或生成结果的影响。\n- `{{comparison_criteria}}`（对比标准）：请列出「对比标准」中必须呈现的具体项目、数量范围和优先顺序；不得用虚构数据补全。\n- `{{customer_goal}}`（客户目标）：请说明「客户目标」对应的人群、使用情境和关注重点，使内容密度与表达方式可被准确判断。\n- `{{visual_style}}`（视觉风格）：请说明「视觉风格」的媒介、时代或审美方向、情绪强度与细节密度，并给出 1–2 个可见特征。\n\n## 需求解析协议\n- 每个变量都是生产决策。缺失字段必须先向需求方确认；不得静默替换为泛化商品、统计数据、品牌主张或人物身份。\n- 在选择风格词前，先锁定交付类型、受众、画幅比例、焦点主体、信息密度和参考图保留要求。\n- 如需求给出精确文案、源素材、尺寸或合规主张，将其作为受控输入保留，不得即兴改写。\n\n## 输出契约\n- 只生成一张完成的 product-commerce 成品；不要生成情绪板、多方案展示板、联系表、过程图、样机拼贴或没有解释的变体。\n- 在添加视觉细节前，先建立主焦点、次级信息层与有意识的留白。\n- 所有命名对象、视觉关系、镜头/透视逻辑和材质行为必须内部一致。\n\n## 制作结构\n- 保持商品几何、材质和尺度可信；商品必须是唯一焦点，用可控布光、接触阴影和文案留白替代无关道具。\n- 编辑工作流只改动指定区域或属性；保留未改动主体、透视、机位、光向、阴影、纹理和颗粒，不能引入无关对象。\n\n## 质量门槛\n- 所有产品以同一尺度和视角展示\n- 对比维度有统一单位或定性规则\n- 推荐结论说明适用条件\n- 先在缩略图尺度检查层级，再在完整尺寸检查事实准确性、文字可读性、几何、材质行为与参考图保留要求。\n\n## 不可违反的约束\n- 兼顾声明的模型兼容性，但始终以需求本身为最高优先级。\n- 仅在需求提供精确短文案时才渲染文字；绝不虚构真实品牌、商标、没有来源的数据或填充文案。\n- 输出前检查重复主体、不可能几何、冲突阴影、错误肢体、不可读微型文字与意外水印。\n\n## 避免\n- 不要伪造参数或评分\n- 不要让价格角标和促销元素遮住产品结构",
-      "en": "## Role\nAct as a senior image art director and production designer. Convert the supplied brief into one controlled visual deliverable, not a loose inspiration board.\n\n## Required brief fields\n- `{{product_category}}` (Product Category): Provide the specific object, form or function, key materials, and non-negotiable identity features for Product Category.\n- `{{products}}` (Products): Provide a concrete value for Products, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{comparison_criteria}}` (Comparison Criteria): List the concrete items, quantity range, and priority order required for Comparison Criteria; do not fill gaps with fabricated data.\n- `{{customer_goal}}` (Customer Goal): Define the people, usage context, and priority for Customer Goal so information density and tone can be chosen deliberately.\n- `{{visual_style}}` (Visual Style): Describe the medium, era or aesthetic direction, emotional intensity, detail density, and 1–2 visible cues for Visual Style.\n\n## Brief-resolution protocol\n- Treat every variable as a production decision. If a field is absent, request it before rendering; never silently substitute a generic product, statistic, brand claim, or identity.\n- Lock deliverable, audience, aspect ratio, focal subject, information density, and reference-preservation requirements before choosing style adjectives.\n- When exact copy, source assets, measurements, or legal claims are supplied, preserve them as controlled inputs rather than improvising replacements.\n\n## Core task\nCreate a mobile-first comparison page for {{product_category}} that helps a customer achieve {{customer_goal}}. Present {{products}} at matched scale, camera angle, and lighting, then compare them only through {{comparison_criteria}}. Build a clear recommendation hierarchy: decision headline, compact comparison matrix, product evidence images, and one selected best-fit option with the condition that makes it appropriate. Use {{visual_style}} with copy-safe spacing and short verifiable labels. Preserve product geometry and supplied claims exactly; if a specification is unknown, leave it as a controlled placeholder instead of inventing it.\n\n## Output contract\n- Produce exactly one finished product-commerce deliverable. Do not create a moodboard, multi-option presentation board, contact sheet, process diagram, mockup collage, or unexplained variants.\n- Establish a primary focal point, secondary information layer, and deliberate negative space before adding visual detail.\n- Keep all named objects, visual relationships, camera/perspective logic, and material behavior internally consistent.\n\n## Production structure\n- Preserve product geometry, material, and believable scale. Make the product the unambiguous hero; support it with controlled lighting, contact shadow, and copy-safe space rather than unrelated props.\n- For edit workflows, change only the requested region or attribute. Preserve untouched subjects, perspective, camera angle, lighting direction, shadows, texture, and grain. Do not introduce unrelated objects.\n\n## Quality gates\n- 所有产品以同一尺度和视角展示\n- 对比维度有统一单位或定性规则\n- 推荐结论说明适用条件\n- Review at thumbnail size first, then inspect factual accuracy, legibility, geometry, material behavior, and any reference-preservation requirement at full size.\n\n## Non-negotiable constraints\n- Respect the requested model compatibility, but prioritize the brief over any model-specific ornament.\n- Use short, exact text only when the brief provides it; never invent a real brand, a trademark, unsupported statistics, or filler copy.\n- Check for duplicate subjects, impossible geometry, incoherent shadows, broken anatomy, unreadable micro-text, and accidental watermarks before finalizing.\n\n## Avoid\n- 不要伪造参数或评分\n- 不要让价格角标和促销元素遮住产品结构"
+      "en": "## Role\nAct as a senior image art director and production designer. Convert the supplied brief into one controlled visual deliverable, not a loose inspiration board.\n\n## Required brief fields\n- `{{product_category}}` (Product Category): Provide the specific object, form or function, key materials, and non-negotiable identity features for Product Category.\n- `{{products}}` (Products): Provide a concrete value for Products, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{comparison_criteria}}` (Comparison Criteria): List the concrete items, quantity range, and priority order required for Comparison Criteria; do not fill gaps with fabricated data.\n- `{{customer_goal}}` (Customer Goal): Define the people, usage context, and priority for Customer Goal so information density and tone can be chosen deliberately.\n- `{{visual_style}}` (Visual Style): Describe the medium, era or aesthetic direction, emotional intensity, detail density, and 1–2 visible cues for Visual Style.\n\n## Brief-resolution protocol\n- Treat every variable as a production decision. If a field is absent, request it before rendering; never silently substitute a generic product, statistic, brand claim, or identity.\n- Lock deliverable, audience, aspect ratio, focal subject, information density, and reference-preservation requirements before choosing style adjectives.\n- When exact copy, source assets, measurements, or legal claims are supplied, preserve them as controlled inputs rather than improvising replacements.\n\n## Core task\nCreate a mobile-first comparison page for {{product_category}} that helps a customer achieve {{customer_goal}}. Present {{products}} at matched scale, camera angle, and lighting, then compare them only through {{comparison_criteria}}. Build a clear recommendation hierarchy: decision headline, compact comparison matrix, product evidence images, and one selected best-fit option with the condition that makes it appropriate. Use {{visual_style}} with copy-safe spacing and short verifiable labels. Preserve product geometry and supplied claims exactly; if a specification is unknown, leave it as a controlled placeholder instead of inventing it.\n\n## Output contract\n- Produce exactly one finished product-commerce deliverable. Do not create a moodboard, multi-option presentation board, contact sheet, process diagram, mockup collage, or unexplained variants.\n- Establish a primary focal point, secondary information layer, and deliberate negative space before adding visual detail.\n- Keep all named objects, visual relationships, camera/perspective logic, and material behavior internally consistent.\n\n## Production structure\n- Preserve product geometry, material, and believable scale. Make the product the unambiguous hero; support it with controlled lighting, contact shadow, and copy-safe space rather than unrelated props.\n- For edit workflows, change only the requested region or attribute. Preserve untouched subjects, perspective, camera angle, lighting direction, shadows, texture, and grain. Do not introduce unrelated objects.\n\n## Quality gates\n- Every required field is represented by a concrete, reviewable production decision.\n- The Product Commerce output has one clear focal hierarchy and remains readable at thumbnail size.\n- Supplied copy, facts, geometry, subject identity, materials, and spatial relationships remain internally consistent.\n- Review at thumbnail size first, then inspect factual accuracy, legibility, geometry, material behavior, and any reference-preservation requirement at full size.\n\n## Non-negotiable constraints\n- Respect the requested model compatibility, but prioritize the brief over any model-specific ornament.\n- Use short, exact text only when the brief provides it; never invent a real brand, a trademark, unsupported statistics, or filler copy.\n- Check for duplicate subjects, impossible geometry, incoherent shadows, broken anatomy, unreadable micro-text, and accidental watermarks before finalizing.\n\n## Avoid\n- Do not replace missing Text To Image / Image To Image inputs with invented brands, statistics, identities, or filler copy.\n- Do not add unrelated objects, competing layouts, unexplained variants, or decorative structure that weakens the requested outcome.\n- Do not trade factual accuracy, legibility, physical plausibility, or subject consistency for surface-level style effects."
     },
-    "checklist": [
-      "所有产品以同一尺度和视角展示",
-      "对比维度有统一单位或定性规则",
-      "推荐结论说明适用条件"
-    ],
-    "pitfalls": [
-      "不要伪造参数或评分",
-      "不要让价格角标和促销元素遮住产品结构"
-    ],
     "variable_labels": [
       {
         "id": "product_category",
@@ -15635,6 +15766,29 @@ export const templates = [
         }
       }
     ],
+    "checklist": {
+      "zh": [
+        "所有产品以同一尺度和视角展示",
+        "对比维度有统一单位或定性规则",
+        "推荐结论说明适用条件"
+      ],
+      "en": [
+        "Every required field is represented by a concrete, reviewable production decision.",
+        "The Product Commerce output has one clear focal hierarchy and remains readable at thumbnail size.",
+        "Supplied copy, facts, geometry, subject identity, materials, and spatial relationships remain internally consistent."
+      ]
+    },
+    "pitfalls": {
+      "zh": [
+        "不要伪造参数或评分",
+        "不要让价格角标和促销元素遮住产品结构"
+      ],
+      "en": [
+        "Do not replace missing Text To Image / Image To Image inputs with invented brands, statistics, identities, or filler copy.",
+        "Do not add unrelated objects, competing layouts, unexplained variants, or decorative structure that weakens the requested outcome.",
+        "Do not trade factual accuracy, legibility, physical plausibility, or subject consistency for surface-level style effects."
+      ]
+    },
     "execution": {
       "zh": {
         "input_policy": "缺失的必填变量必须先向需求方确认；不得用虚构品牌、数据、人物身份或文字补齐。",
@@ -15713,17 +15867,8 @@ export const templates = [
     ],
     "prompt": {
       "zh": "## 角色\n你是一名资深图像艺术总监与制作设计师。请把需求转化为一个受控的最终视觉交付物，而不是松散的灵感板。\n\n## 模板目标\n商品英雄图：强化材质、卖点和留白的高转化商品主图结构。\n\n## 必填需求字段\n- `{{product}}`（产品）：请给出「产品」的具体对象、外形或功能、关键材质与不可改变的识别特征。\n- `{{hero_feature}}`（主视觉卖点）：请填写「主视觉卖点」的具体内容，至少包含对象或取值范围、一个可见特征，以及它对构图、信息层级或生成结果的影响。\n- `{{material}}`（材质）：请写清「材质」的主要材质、表面状态、磨损或反射特征，以及它在画面中的重点部位。\n- `{{audience}}`（受众）：请说明「受众」对应的人群、使用情境和关注重点，使内容密度与表达方式可被准确判断。\n- `{{setting}}`（场景）：请明确「场景」的地点、时间、空间尺度、关键环境元素及其与主体的关系。\n\n## 需求解析协议\n- 每个变量都是生产决策。缺失字段必须先向需求方确认；不得静默替换为泛化商品、统计数据、品牌主张或人物身份。\n- 在选择风格词前，先锁定交付类型、受众、画幅比例、焦点主体、信息密度和参考图保留要求。\n- 如需求给出精确文案、源素材、尺寸或合规主张，将其作为受控输入保留，不得即兴改写。\n\n## 输出契约\n- 只生成一张完成的 product-commerce 成品；不要生成情绪板、多方案展示板、联系表、过程图、样机拼贴或没有解释的变体。\n- 在添加视觉细节前，先建立主焦点、次级信息层与有意识的留白。\n- 所有命名对象、视觉关系、镜头/透视逻辑和材质行为必须内部一致。\n\n## 制作结构\n- 保持商品几何、材质和尺度可信；商品必须是唯一焦点，用可控布光、接触阴影和文案留白替代无关道具。\n- 编辑工作流只改动指定区域或属性；保留未改动主体、透视、机位、光向、阴影、纹理和颗粒，不能引入无关对象。\n\n## 质量门槛\n- 产品形态和标识准确\n- 材质反射符合光源\n- 留白可放标题与价格\n- 先在缩略图尺度检查层级，再在完整尺寸检查事实准确性、文字可读性、几何、材质行为与参考图保留要求。\n\n## 不可违反的约束\n- 兼顾声明的模型兼容性，但始终以需求本身为最高优先级。\n- 仅在需求提供精确短文案时才渲染文字；绝不虚构真实品牌、商标、没有来源的数据或填充文案。\n- 输出前检查重复主体、不可能几何、冲突阴影、错误肢体、不可读微型文字与意外水印。\n\n## 避免\n- 不要让道具抢走产品焦点\n- 不要改变产品关键结构",
-      "en": "## Role\nAct as a senior image art director and production designer. Convert the supplied brief into one controlled visual deliverable, not a loose inspiration board.\n\n## Required brief fields\n- `{{product}}` (Product): Provide the specific object, form or function, key materials, and non-negotiable identity features for Product.\n- `{{hero_feature}}` (Hero Feature): Provide a concrete value for Hero Feature, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{material}}` (Material): State the main materials, surface condition, wear or reflectance, and the focal placement of Material.\n- `{{audience}}` (Audience): Define the people, usage context, and priority for Audience so information density and tone can be chosen deliberately.\n- `{{setting}}` (Setting): Specify the place, time, scale, key environmental elements, and their relationship to the subject for Setting.\n\n## Brief-resolution protocol\n- Treat every variable as a production decision. If a field is absent, request it before rendering; never silently substitute a generic product, statistic, brand claim, or identity.\n- Lock deliverable, audience, aspect ratio, focal subject, information density, and reference-preservation requirements before choosing style adjectives.\n- When exact copy, source assets, measurements, or legal claims are supplied, preserve them as controlled inputs rather than improvising replacements.\n\n## Core task\nCreate a premium commercial hero image for {{product}}. Showcase {{hero_feature}} and preserve the exact {{material}} details. Place it in {{setting}} for {{audience}}, with controlled studio lighting, a clean silhouette, believable scale, and protected negative space for campaign copy.\n\n## Output contract\n- Produce exactly one finished product-commerce deliverable. Do not create a moodboard, multi-option presentation board, contact sheet, process diagram, mockup collage, or unexplained variants.\n- Establish a primary focal point, secondary information layer, and deliberate negative space before adding visual detail.\n- Keep all named objects, visual relationships, camera/perspective logic, and material behavior internally consistent.\n\n## Production structure\n- Preserve product geometry, material, and believable scale. Make the product the unambiguous hero; support it with controlled lighting, contact shadow, and copy-safe space rather than unrelated props.\n- For edit workflows, change only the requested region or attribute. Preserve untouched subjects, perspective, camera angle, lighting direction, shadows, texture, and grain. Do not introduce unrelated objects.\n\n## Quality gates\n- 产品形态和标识准确\n- 材质反射符合光源\n- 留白可放标题与价格\n- Review at thumbnail size first, then inspect factual accuracy, legibility, geometry, material behavior, and any reference-preservation requirement at full size.\n\n## Non-negotiable constraints\n- Respect the requested model compatibility, but prioritize the brief over any model-specific ornament.\n- Use short, exact text only when the brief provides it; never invent a real brand, a trademark, unsupported statistics, or filler copy.\n- Check for duplicate subjects, impossible geometry, incoherent shadows, broken anatomy, unreadable micro-text, and accidental watermarks before finalizing.\n\n## Avoid\n- 不要让道具抢走产品焦点\n- 不要改变产品关键结构"
+      "en": "## Role\nAct as a senior image art director and production designer. Convert the supplied brief into one controlled visual deliverable, not a loose inspiration board.\n\n## Required brief fields\n- `{{product}}` (Product): Provide the specific object, form or function, key materials, and non-negotiable identity features for Product.\n- `{{hero_feature}}` (Hero Feature): Provide a concrete value for Hero Feature, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{material}}` (Material): State the main materials, surface condition, wear or reflectance, and the focal placement of Material.\n- `{{audience}}` (Audience): Define the people, usage context, and priority for Audience so information density and tone can be chosen deliberately.\n- `{{setting}}` (Setting): Specify the place, time, scale, key environmental elements, and their relationship to the subject for Setting.\n\n## Brief-resolution protocol\n- Treat every variable as a production decision. If a field is absent, request it before rendering; never silently substitute a generic product, statistic, brand claim, or identity.\n- Lock deliverable, audience, aspect ratio, focal subject, information density, and reference-preservation requirements before choosing style adjectives.\n- When exact copy, source assets, measurements, or legal claims are supplied, preserve them as controlled inputs rather than improvising replacements.\n\n## Core task\nCreate a premium commercial hero image for {{product}}. Showcase {{hero_feature}} and preserve the exact {{material}} details. Place it in {{setting}} for {{audience}}, with controlled studio lighting, a clean silhouette, believable scale, and protected negative space for campaign copy.\n\n## Output contract\n- Produce exactly one finished product-commerce deliverable. Do not create a moodboard, multi-option presentation board, contact sheet, process diagram, mockup collage, or unexplained variants.\n- Establish a primary focal point, secondary information layer, and deliberate negative space before adding visual detail.\n- Keep all named objects, visual relationships, camera/perspective logic, and material behavior internally consistent.\n\n## Production structure\n- Preserve product geometry, material, and believable scale. Make the product the unambiguous hero; support it with controlled lighting, contact shadow, and copy-safe space rather than unrelated props.\n- For edit workflows, change only the requested region or attribute. Preserve untouched subjects, perspective, camera angle, lighting direction, shadows, texture, and grain. Do not introduce unrelated objects.\n\n## Quality gates\n- Every required field is represented by a concrete, reviewable production decision.\n- The Product Commerce output has one clear focal hierarchy and remains readable at thumbnail size.\n- Supplied copy, facts, geometry, subject identity, materials, and spatial relationships remain internally consistent.\n- Review at thumbnail size first, then inspect factual accuracy, legibility, geometry, material behavior, and any reference-preservation requirement at full size.\n\n## Non-negotiable constraints\n- Respect the requested model compatibility, but prioritize the brief over any model-specific ornament.\n- Use short, exact text only when the brief provides it; never invent a real brand, a trademark, unsupported statistics, or filler copy.\n- Check for duplicate subjects, impossible geometry, incoherent shadows, broken anatomy, unreadable micro-text, and accidental watermarks before finalizing.\n\n## Avoid\n- Do not replace missing Text To Image / Image To Image inputs with invented brands, statistics, identities, or filler copy.\n- Do not add unrelated objects, competing layouts, unexplained variants, or decorative structure that weakens the requested outcome.\n- Do not trade factual accuracy, legibility, physical plausibility, or subject consistency for surface-level style effects."
     },
-    "checklist": [
-      "产品形态和标识准确",
-      "材质反射符合光源",
-      "留白可放标题与价格"
-    ],
-    "pitfalls": [
-      "不要让道具抢走产品焦点",
-      "不要改变产品关键结构"
-    ],
     "variable_labels": [
       {
         "id": "product",
@@ -15771,6 +15916,29 @@ export const templates = [
         }
       }
     ],
+    "checklist": {
+      "zh": [
+        "产品形态和标识准确",
+        "材质反射符合光源",
+        "留白可放标题与价格"
+      ],
+      "en": [
+        "Every required field is represented by a concrete, reviewable production decision.",
+        "The Product Commerce output has one clear focal hierarchy and remains readable at thumbnail size.",
+        "Supplied copy, facts, geometry, subject identity, materials, and spatial relationships remain internally consistent."
+      ]
+    },
+    "pitfalls": {
+      "zh": [
+        "不要让道具抢走产品焦点",
+        "不要改变产品关键结构"
+      ],
+      "en": [
+        "Do not replace missing Text To Image / Image To Image inputs with invented brands, statistics, identities, or filler copy.",
+        "Do not add unrelated objects, competing layouts, unexplained variants, or decorative structure that weakens the requested outcome.",
+        "Do not trade factual accuracy, legibility, physical plausibility, or subject consistency for surface-level style effects."
+      ]
+    },
     "execution": {
       "zh": {
         "input_policy": "缺失的必填变量必须先向需求方确认；不得用虚构品牌、数据、人物身份或文字补齐。",
@@ -15849,17 +16017,8 @@ export const templates = [
     ],
     "prompt": {
       "zh": "## 角色\n你是一名资深图像艺术总监与制作设计师。请把需求转化为一个受控的最终视觉交付物，而不是松散的灵感板。\n\n## 模板目标\n图像编辑执行单：面向局部重绘和合成的低歧义编辑说明模板。\n\n## 必填需求字段\n- `{{source_image}}`（源图图像）：请填写「源图图像」的具体内容，至少包含对象或取值范围、一个可见特征，以及它对构图、信息层级或生成结果的影响。\n- `{{edit_region}}`（编辑区域）：请填写「编辑区域」的具体内容，至少包含对象或取值范围、一个可见特征，以及它对构图、信息层级或生成结果的影响。\n- `{{desired_change}}`（期望改变）：请填写「期望改变」的具体内容，至少包含对象或取值范围、一个可见特征，以及它对构图、信息层级或生成结果的影响。\n- `{{preserve}}`（保留）：请填写「保留」的具体内容，至少包含对象或取值范围、一个可见特征，以及它对构图、信息层级或生成结果的影响。\n- `{{output_constraints}}`（输出约束）：请填写「输出约束」的具体内容，至少包含对象或取值范围、一个可见特征，以及它对构图、信息层级或生成结果的影响。\n\n## 需求解析协议\n- 每个变量都是生产决策。缺失字段必须先向需求方确认；不得静默替换为泛化商品、统计数据、品牌主张或人物身份。\n- 在选择风格词前，先锁定交付类型、受众、画幅比例、焦点主体、信息密度和参考图保留要求。\n- 如需求给出精确文案、源素材、尺寸或合规主张，将其作为受控输入保留，不得即兴改写。\n\n## 输出契约\n- 只生成一张完成的 product-commerce 成品；不要生成情绪板、多方案展示板、联系表、过程图、样机拼贴或没有解释的变体。\n- 在添加视觉细节前，先建立主焦点、次级信息层与有意识的留白。\n- 所有命名对象、视觉关系、镜头/透视逻辑和材质行为必须内部一致。\n\n## 制作结构\n- 保持商品几何、材质和尺度可信；商品必须是唯一焦点，用可控布光、接触阴影和文案留白替代无关道具。\n- 编辑工作流只改动指定区域或属性；保留未改动主体、透视、机位、光向、阴影、纹理和颗粒，不能引入无关对象。\n\n## 质量门槛\n- 编辑范围明确\n- 保留项逐项列出\n- 输出尺寸和格式已指定\n- 先在缩略图尺度检查层级，再在完整尺寸检查事实准确性、文字可读性、几何、材质行为与参考图保留要求。\n\n## 不可违反的约束\n- 兼顾声明的模型兼容性，但始终以需求本身为最高优先级。\n- 仅在需求提供精确短文案时才渲染文字；绝不虚构真实品牌、商标、没有来源的数据或填充文案。\n- 输出前检查重复主体、不可能几何、冲突阴影、错误肢体、不可读微型文字与意外水印。\n\n## 避免\n- 不要同时提出互相冲突的改动\n- 不要遗漏需要锁定的主体特征",
-      "en": "## Role\nAct as a senior image art director and production designer. Convert the supplied brief into one controlled visual deliverable, not a loose inspiration board.\n\n## Required brief fields\n- `{{source_image}}` (Source Image): Provide a concrete value for Source Image, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{edit_region}}` (Edit Region): Provide a concrete value for Edit Region, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{desired_change}}` (Desired Change): Provide a concrete value for Desired Change, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{preserve}}` (Preserve): Provide a concrete value for Preserve, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{output_constraints}}` (Output Constraints): Provide a concrete value for Output Constraints, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n\n## Brief-resolution protocol\n- Treat every variable as a production decision. If a field is absent, request it before rendering; never silently substitute a generic product, statistic, brand claim, or identity.\n- Lock deliverable, audience, aspect ratio, focal subject, information density, and reference-preservation requirements before choosing style adjectives.\n- When exact copy, source assets, measurements, or legal claims are supplied, preserve them as controlled inputs rather than improvising replacements.\n\n## Core task\nUsing {{source_image}}, edit only {{edit_region}}. Apply {{desired_change}} while preserving {{preserve}} exactly. Match the original perspective, camera angle, lighting direction, shadows, material texture, and grain. Output constraints: {{output_constraints}}. Do not introduce unrelated objects or alter untouched regions.\n\n## Output contract\n- Produce exactly one finished product-commerce deliverable. Do not create a moodboard, multi-option presentation board, contact sheet, process diagram, mockup collage, or unexplained variants.\n- Establish a primary focal point, secondary information layer, and deliberate negative space before adding visual detail.\n- Keep all named objects, visual relationships, camera/perspective logic, and material behavior internally consistent.\n\n## Production structure\n- Preserve product geometry, material, and believable scale. Make the product the unambiguous hero; support it with controlled lighting, contact shadow, and copy-safe space rather than unrelated props.\n- For edit workflows, change only the requested region or attribute. Preserve untouched subjects, perspective, camera angle, lighting direction, shadows, texture, and grain. Do not introduce unrelated objects.\n\n## Quality gates\n- 编辑范围明确\n- 保留项逐项列出\n- 输出尺寸和格式已指定\n- Review at thumbnail size first, then inspect factual accuracy, legibility, geometry, material behavior, and any reference-preservation requirement at full size.\n\n## Non-negotiable constraints\n- Respect the requested model compatibility, but prioritize the brief over any model-specific ornament.\n- Use short, exact text only when the brief provides it; never invent a real brand, a trademark, unsupported statistics, or filler copy.\n- Check for duplicate subjects, impossible geometry, incoherent shadows, broken anatomy, unreadable micro-text, and accidental watermarks before finalizing.\n\n## Avoid\n- 不要同时提出互相冲突的改动\n- 不要遗漏需要锁定的主体特征"
+      "en": "## Role\nAct as a senior image art director and production designer. Convert the supplied brief into one controlled visual deliverable, not a loose inspiration board.\n\n## Required brief fields\n- `{{source_image}}` (Source Image): Provide a concrete value for Source Image, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{edit_region}}` (Edit Region): Provide a concrete value for Edit Region, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{desired_change}}` (Desired Change): Provide a concrete value for Desired Change, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{preserve}}` (Preserve): Provide a concrete value for Preserve, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{output_constraints}}` (Output Constraints): Provide a concrete value for Output Constraints, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n\n## Brief-resolution protocol\n- Treat every variable as a production decision. If a field is absent, request it before rendering; never silently substitute a generic product, statistic, brand claim, or identity.\n- Lock deliverable, audience, aspect ratio, focal subject, information density, and reference-preservation requirements before choosing style adjectives.\n- When exact copy, source assets, measurements, or legal claims are supplied, preserve them as controlled inputs rather than improvising replacements.\n\n## Core task\nUsing {{source_image}}, edit only {{edit_region}}. Apply {{desired_change}} while preserving {{preserve}} exactly. Match the original perspective, camera angle, lighting direction, shadows, material texture, and grain. Output constraints: {{output_constraints}}. Do not introduce unrelated objects or alter untouched regions.\n\n## Output contract\n- Produce exactly one finished product-commerce deliverable. Do not create a moodboard, multi-option presentation board, contact sheet, process diagram, mockup collage, or unexplained variants.\n- Establish a primary focal point, secondary information layer, and deliberate negative space before adding visual detail.\n- Keep all named objects, visual relationships, camera/perspective logic, and material behavior internally consistent.\n\n## Production structure\n- Preserve product geometry, material, and believable scale. Make the product the unambiguous hero; support it with controlled lighting, contact shadow, and copy-safe space rather than unrelated props.\n- For edit workflows, change only the requested region or attribute. Preserve untouched subjects, perspective, camera angle, lighting direction, shadows, texture, and grain. Do not introduce unrelated objects.\n\n## Quality gates\n- Every required field is represented by a concrete, reviewable production decision.\n- The Product Commerce output has one clear focal hierarchy and remains readable at thumbnail size.\n- Supplied copy, facts, geometry, subject identity, materials, and spatial relationships remain internally consistent.\n- Review at thumbnail size first, then inspect factual accuracy, legibility, geometry, material behavior, and any reference-preservation requirement at full size.\n\n## Non-negotiable constraints\n- Respect the requested model compatibility, but prioritize the brief over any model-specific ornament.\n- Use short, exact text only when the brief provides it; never invent a real brand, a trademark, unsupported statistics, or filler copy.\n- Check for duplicate subjects, impossible geometry, incoherent shadows, broken anatomy, unreadable micro-text, and accidental watermarks before finalizing.\n\n## Avoid\n- Do not replace missing Inpainting / Compositing inputs with invented brands, statistics, identities, or filler copy.\n- Do not add unrelated objects, competing layouts, unexplained variants, or decorative structure that weakens the requested outcome.\n- Do not trade factual accuracy, legibility, physical plausibility, or subject consistency for surface-level style effects."
     },
-    "checklist": [
-      "编辑范围明确",
-      "保留项逐项列出",
-      "输出尺寸和格式已指定"
-    ],
-    "pitfalls": [
-      "不要同时提出互相冲突的改动",
-      "不要遗漏需要锁定的主体特征"
-    ],
     "variable_labels": [
       {
         "id": "source_image",
@@ -15907,6 +16066,29 @@ export const templates = [
         }
       }
     ],
+    "checklist": {
+      "zh": [
+        "编辑范围明确",
+        "保留项逐项列出",
+        "输出尺寸和格式已指定"
+      ],
+      "en": [
+        "Every required field is represented by a concrete, reviewable production decision.",
+        "The Product Commerce output has one clear focal hierarchy and remains readable at thumbnail size.",
+        "Supplied copy, facts, geometry, subject identity, materials, and spatial relationships remain internally consistent."
+      ]
+    },
+    "pitfalls": {
+      "zh": [
+        "不要同时提出互相冲突的改动",
+        "不要遗漏需要锁定的主体特征"
+      ],
+      "en": [
+        "Do not replace missing Inpainting / Compositing inputs with invented brands, statistics, identities, or filler copy.",
+        "Do not add unrelated objects, competing layouts, unexplained variants, or decorative structure that weakens the requested outcome.",
+        "Do not trade factual accuracy, legibility, physical plausibility, or subject consistency for surface-level style effects."
+      ]
+    },
     "execution": {
       "zh": {
         "input_policy": "缺失的必填变量必须先向需求方确认；不得用虚构品牌、数据、人物身份或文字补齐。",
@@ -15983,18 +16165,9 @@ export const templates = [
       "palette"
     ],
     "prompt": {
-      "zh": "## 角色\n你是一名资深图像艺术总监与制作设计师。请把需求转化为一个受控的最终视觉交付物，而不是松散的灵感板。\n\n## 模板目标\n字体主导活动海报：用可读标题作为主视觉骨架，让图像、材料和留白共同服务一个清晰主题。\n\n## 必填需求字段\n- `{{headline}}`（主标题）：请提供「主标题」的准确文字；如不需要可读文字，请明确写“无文字”，不要让模型自行编写。\n- `{{event_name}}`（活动名称）：请提供「活动名称」的准确文字；如不需要可读文字，请明确写“无文字”，不要让模型自行编写。\n- `{{date_location}}`（日期地点）：请明确「日期地点」的地点、时间、空间尺度、关键环境元素及其与主体的关系。\n- `{{visual_metaphor}}`（视觉视觉隐喻）：请说明「视觉视觉隐喻」的媒介、时代或审美方向、情绪强度与细节密度，并给出 1–2 个可见特征。\n- `{{palette}}`（色板）：请给出「色板」的 2–4 个明确色名、主辅比例和使用位置；不要只写“高级”或“有氛围”。\n\n## 需求解析协议\n- 每个变量都是生产决策。缺失字段必须先向需求方确认；不得静默替换为泛化商品、统计数据、品牌主张或人物身份。\n- 在选择风格词前，先锁定交付类型、受众、画幅比例、焦点主体、信息密度和参考图保留要求。\n- 如需求给出精确文案、源素材、尺寸或合规主张，将其作为受控输入保留，不得即兴改写。\n\n## 输出契约\n- 只生成一张完成的 poster-editorial 成品；不要生成情绪板、多方案展示板、联系表、过程图、样机拼贴或没有解释的变体。\n- 在添加视觉细节前，先建立主焦点、次级信息层与有意识的留白。\n- 所有命名对象、视觉关系、镜头/透视逻辑和材质行为必须内部一致。\n\n## 制作结构\n- 建立一个主视觉或标题区、一个次级信息区与有意识的留白；缩略图状态下也必须先读出层级。\n\n## 质量门槛\n- 标题在缩略图中仍完整可读\n- 图像与标题发生明确空间关系\n- 日期地点在稳定的次级层级\n- 先在缩略图尺度检查层级，再在完整尺寸检查事实准确性、文字可读性、几何、材质行为与参考图保留要求。\n\n## 不可违反的约束\n- 兼顾声明的模型兼容性，但始终以需求本身为最高优先级。\n- 仅在需求提供精确短文案时才渲染文字；绝不虚构真实品牌、商标、没有来源的数据或填充文案。\n- 输出前检查重复主体、不可能几何、冲突阴影、错误肢体、不可读微型文字与意外水印。\n\n## 避免\n- 不要生成多张海报或展示板\n- 不要用通用光泽字效和无关口号",
-      "en": "## Role\nAct as a senior image art director and production designer. Convert the supplied brief into one controlled visual deliverable, not a loose inspiration board.\n\n## Required brief fields\n- `{{headline}}` (Headline): Provide the exact copy for Headline; if readable copy is not needed, explicitly state “no text” rather than letting the model invent it.\n- `{{event_name}}` (Event Name): Provide the exact copy for Event Name; if readable copy is not needed, explicitly state “no text” rather than letting the model invent it.\n- `{{date_location}}` (Date Location): Specify the place, time, scale, key environmental elements, and their relationship to the subject for Date Location.\n- `{{visual_metaphor}}` (Visual Metaphor): Describe the medium, era or aesthetic direction, emotional intensity, detail density, and 1–2 visible cues for Visual Metaphor.\n- `{{palette}}` (Palette): Specify 2–4 named colors, their primary/secondary balance, and where Palette appears; avoid vague terms such as “premium” or “atmospheric”.\n\n## Brief-resolution protocol\n- Treat every variable as a production decision. If a field is absent, request it before rendering; never silently substitute a generic product, statistic, brand claim, or identity.\n- Lock deliverable, audience, aspect ratio, focal subject, information density, and reference-preservation requirements before choosing style adjectives.\n- When exact copy, source assets, measurements, or legal claims are supplied, preserve them as controlled inputs rather than improvising replacements.\n\n## Core task\nArt-direct one finished vertical event poster for {{event_name}}. Set the exact headline {{headline}} as the largest and most readable visual structure, then express its meaning through {{visual_metaphor}}. Use {{palette}} as a controlled four-color system with one dominant background field, one type color, one image or material color, and one accent. Place {{date_location}} in a stable secondary information zone with generous clear space. The image, object, or figure must physically interact with the headline through overlap, cropping, shadow, or negative space rather than sitting beside it. Use refined editorial scale and print-aware margins; do not add unrequested copy.\n\n## Output contract\n- Produce exactly one finished poster-editorial deliverable. Do not create a moodboard, multi-option presentation board, contact sheet, process diagram, mockup collage, or unexplained variants.\n- Establish a primary focal point, secondary information layer, and deliberate negative space before adding visual detail.\n- Keep all named objects, visual relationships, camera/perspective logic, and material behavior internally consistent.\n\n## Production structure\n- Establish one dominant visual or title zone, a secondary information zone, and intentional negative space. The composition must read at thumbnail size before adding detail.\n\n## Quality gates\n- 标题在缩略图中仍完整可读\n- 图像与标题发生明确空间关系\n- 日期地点在稳定的次级层级\n- Review at thumbnail size first, then inspect factual accuracy, legibility, geometry, material behavior, and any reference-preservation requirement at full size.\n\n## Non-negotiable constraints\n- Respect the requested model compatibility, but prioritize the brief over any model-specific ornament.\n- Use short, exact text only when the brief provides it; never invent a real brand, a trademark, unsupported statistics, or filler copy.\n- Check for duplicate subjects, impossible geometry, incoherent shadows, broken anatomy, unreadable micro-text, and accidental watermarks before finalizing.\n\n## Avoid\n- 不要生成多张海报或展示板\n- 不要用通用光泽字效和无关口号"
+      "zh": "## 角色\n你是一名资深图像艺术总监与制作设计师。请把需求转化为一个受控的最终视觉交付物，而不是松散的灵感板。\n\n## 模板目标\n字体主导活动海报：用可读标题作为主视觉骨架，让图像、材料和留白共同服务一个清晰主题。\n\n## 必填需求字段\n- `{{headline}}`（主标题）：请提供「主标题」的准确文字；如不需要可读文字，请明确写“无文字”，不要让模型自行编写。\n- `{{event_name}}`（活动名称）：请提供「活动名称」的准确文字；如不需要可读文字，请明确写“无文字”，不要让模型自行编写。\n- `{{date_location}}`（日期地点）：请明确「日期地点」的地点、时间、空间尺度、关键环境元素及其与主体的关系。\n- `{{visual_metaphor}}`（视觉隐喻）：请说明「视觉隐喻」的媒介、时代或审美方向、情绪强度与细节密度，并给出 1–2 个可见特征。\n- `{{palette}}`（色板）：请给出「色板」的 2–4 个明确色名、主辅比例和使用位置；不要只写“高级”或“有氛围”。\n\n## 需求解析协议\n- 每个变量都是生产决策。缺失字段必须先向需求方确认；不得静默替换为泛化商品、统计数据、品牌主张或人物身份。\n- 在选择风格词前，先锁定交付类型、受众、画幅比例、焦点主体、信息密度和参考图保留要求。\n- 如需求给出精确文案、源素材、尺寸或合规主张，将其作为受控输入保留，不得即兴改写。\n\n## 输出契约\n- 只生成一张完成的 poster-editorial 成品；不要生成情绪板、多方案展示板、联系表、过程图、样机拼贴或没有解释的变体。\n- 在添加视觉细节前，先建立主焦点、次级信息层与有意识的留白。\n- 所有命名对象、视觉关系、镜头/透视逻辑和材质行为必须内部一致。\n\n## 制作结构\n- 建立一个主视觉或标题区、一个次级信息区与有意识的留白；缩略图状态下也必须先读出层级。\n\n## 质量门槛\n- 标题在缩略图中仍完整可读\n- 图像与标题发生明确空间关系\n- 日期地点在稳定的次级层级\n- 先在缩略图尺度检查层级，再在完整尺寸检查事实准确性、文字可读性、几何、材质行为与参考图保留要求。\n\n## 不可违反的约束\n- 兼顾声明的模型兼容性，但始终以需求本身为最高优先级。\n- 仅在需求提供精确短文案时才渲染文字；绝不虚构真实品牌、商标、没有来源的数据或填充文案。\n- 输出前检查重复主体、不可能几何、冲突阴影、错误肢体、不可读微型文字与意外水印。\n\n## 避免\n- 不要生成多张海报或展示板\n- 不要用通用光泽字效和无关口号",
+      "en": "## Role\nAct as a senior image art director and production designer. Convert the supplied brief into one controlled visual deliverable, not a loose inspiration board.\n\n## Required brief fields\n- `{{headline}}` (Headline): Provide the exact copy for Headline; if readable copy is not needed, explicitly state “no text” rather than letting the model invent it.\n- `{{event_name}}` (Event Name): Provide the exact copy for Event Name; if readable copy is not needed, explicitly state “no text” rather than letting the model invent it.\n- `{{date_location}}` (Date Location): Specify the place, time, scale, key environmental elements, and their relationship to the subject for Date Location.\n- `{{visual_metaphor}}` (Visual Metaphor): Describe the medium, era or aesthetic direction, emotional intensity, detail density, and 1–2 visible cues for Visual Metaphor.\n- `{{palette}}` (Palette): Specify 2–4 named colors, their primary/secondary balance, and where Palette appears; avoid vague terms such as “premium” or “atmospheric”.\n\n## Brief-resolution protocol\n- Treat every variable as a production decision. If a field is absent, request it before rendering; never silently substitute a generic product, statistic, brand claim, or identity.\n- Lock deliverable, audience, aspect ratio, focal subject, information density, and reference-preservation requirements before choosing style adjectives.\n- When exact copy, source assets, measurements, or legal claims are supplied, preserve them as controlled inputs rather than improvising replacements.\n\n## Core task\nArt-direct one finished vertical event poster for {{event_name}}. Set the exact headline {{headline}} as the largest and most readable visual structure, then express its meaning through {{visual_metaphor}}. Use {{palette}} as a controlled four-color system with one dominant background field, one type color, one image or material color, and one accent. Place {{date_location}} in a stable secondary information zone with generous clear space. The image, object, or figure must physically interact with the headline through overlap, cropping, shadow, or negative space rather than sitting beside it. Use refined editorial scale and print-aware margins; do not add unrequested copy.\n\n## Output contract\n- Produce exactly one finished poster-editorial deliverable. Do not create a moodboard, multi-option presentation board, contact sheet, process diagram, mockup collage, or unexplained variants.\n- Establish a primary focal point, secondary information layer, and deliberate negative space before adding visual detail.\n- Keep all named objects, visual relationships, camera/perspective logic, and material behavior internally consistent.\n\n## Production structure\n- Establish one dominant visual or title zone, a secondary information zone, and intentional negative space. The composition must read at thumbnail size before adding detail.\n\n## Quality gates\n- Every required field is represented by a concrete, reviewable production decision.\n- The Poster Editorial output has one clear focal hierarchy and remains readable at thumbnail size.\n- Supplied copy, facts, geometry, subject identity, materials, and spatial relationships remain internally consistent.\n- Review at thumbnail size first, then inspect factual accuracy, legibility, geometry, material behavior, and any reference-preservation requirement at full size.\n\n## Non-negotiable constraints\n- Respect the requested model compatibility, but prioritize the brief over any model-specific ornament.\n- Use short, exact text only when the brief provides it; never invent a real brand, a trademark, unsupported statistics, or filler copy.\n- Check for duplicate subjects, impossible geometry, incoherent shadows, broken anatomy, unreadable micro-text, and accidental watermarks before finalizing.\n\n## Avoid\n- Do not replace missing Text To Image inputs with invented brands, statistics, identities, or filler copy.\n- Do not add unrelated objects, competing layouts, unexplained variants, or decorative structure that weakens the requested outcome.\n- Do not trade factual accuracy, legibility, physical plausibility, or subject consistency for surface-level style effects."
     },
-    "checklist": [
-      "标题在缩略图中仍完整可读",
-      "图像与标题发生明确空间关系",
-      "日期地点在稳定的次级层级"
-    ],
-    "pitfalls": [
-      "不要生成多张海报或展示板",
-      "不要用通用光泽字效和无关口号"
-    ],
     "variable_labels": [
       {
         "id": "headline",
@@ -16025,10 +16198,10 @@ export const templates = [
       },
       {
         "id": "visual_metaphor",
-        "zh": "视觉视觉隐喻",
+        "zh": "视觉隐喻",
         "en": "Visual Metaphor",
         "description": {
-          "zh": "请说明「视觉视觉隐喻」的媒介、时代或审美方向、情绪强度与细节密度，并给出 1–2 个可见特征。",
+          "zh": "请说明「视觉隐喻」的媒介、时代或审美方向、情绪强度与细节密度，并给出 1–2 个可见特征。",
           "en": "Describe the medium, era or aesthetic direction, emotional intensity, detail density, and 1–2 visible cues for Visual Metaphor."
         }
       },
@@ -16042,6 +16215,29 @@ export const templates = [
         }
       }
     ],
+    "checklist": {
+      "zh": [
+        "标题在缩略图中仍完整可读",
+        "图像与标题发生明确空间关系",
+        "日期地点在稳定的次级层级"
+      ],
+      "en": [
+        "Every required field is represented by a concrete, reviewable production decision.",
+        "The Poster Editorial output has one clear focal hierarchy and remains readable at thumbnail size.",
+        "Supplied copy, facts, geometry, subject identity, materials, and spatial relationships remain internally consistent."
+      ]
+    },
+    "pitfalls": {
+      "zh": [
+        "不要生成多张海报或展示板",
+        "不要用通用光泽字效和无关口号"
+      ],
+      "en": [
+        "Do not replace missing Text To Image inputs with invented brands, statistics, identities, or filler copy.",
+        "Do not add unrelated objects, competing layouts, unexplained variants, or decorative structure that weakens the requested outcome.",
+        "Do not trade factual accuracy, legibility, physical plausibility, or subject consistency for surface-level style effects."
+      ]
+    },
     "execution": {
       "zh": {
         "input_policy": "缺失的必填变量必须先向需求方确认；不得用虚构品牌、数据、人物身份或文字补齐。",
@@ -16120,17 +16316,8 @@ export const templates = [
     ],
     "prompt": {
       "zh": "## 角色\n你是一名资深图像艺术总监与制作设计师。请把需求转化为一个受控的最终视觉交付物，而不是松散的灵感板。\n\n## 模板目标\n室内空间提案：通过动线、材质和自然光呈现可感知的室内方案。\n\n## 必填需求字段\n- `{{space_type}}`（空间类型）：请明确「空间类型」的地点、时间、空间尺度、关键环境元素及其与主体的关系。\n- `{{users}}`（用户群体）：请填写「用户群体」的具体内容，至少包含对象或取值范围、一个可见特征，以及它对构图、信息层级或生成结果的影响。\n- `{{design_concept}}`（设计概念）：请填写「设计概念」的具体内容，至少包含对象或取值范围、一个可见特征，以及它对构图、信息层级或生成结果的影响。\n- `{{materials}}`（材质）：请填写「材质」的具体内容，至少包含对象或取值范围、一个可见特征，以及它对构图、信息层级或生成结果的影响。\n- `{{light_condition}}`（光线条件）：请填写「光线条件」的具体内容，至少包含对象或取值范围、一个可见特征，以及它对构图、信息层级或生成结果的影响。\n\n## 需求解析协议\n- 每个变量都是生产决策。缺失字段必须先向需求方确认；不得静默替换为泛化商品、统计数据、品牌主张或人物身份。\n- 在选择风格词前，先锁定交付类型、受众、画幅比例、焦点主体、信息密度和参考图保留要求。\n- 如需求给出精确文案、源素材、尺寸或合规主张，将其作为受控输入保留，不得即兴改写。\n\n## 输出契约\n- 只生成一张完成的 architecture-space 成品；不要生成情绪板、多方案展示板、联系表、过程图、样机拼贴或没有解释的变体。\n- 在添加视觉细节前，先建立主焦点、次级信息层与有意识的留白。\n- 所有命名对象、视觉关系、镜头/透视逻辑和材质行为必须内部一致。\n\n## 制作结构\n- 透视、动线、光向、家具尺度和材质交界必须可信；加入必要的人尺度线索，但不要把空间做成拼贴式生活方式图。\n- 编辑工作流只改动指定区域或属性；保留未改动主体、透视、机位、光向、阴影、纹理和颗粒，不能引入无关对象。\n\n## 质量门槛\n- 透视与家具尺度可信\n- 出入口和动线明确\n- 材质边界可辨认\n- 先在缩略图尺度检查层级，再在完整尺寸检查事实准确性、文字可读性、几何、材质行为与参考图保留要求。\n\n## 不可违反的约束\n- 兼顾声明的模型兼容性，但始终以需求本身为最高优先级。\n- 仅在需求提供精确短文案时才渲染文字；绝不虚构真实品牌、商标、没有来源的数据或填充文案。\n- 输出前检查重复主体、不可能几何、冲突阴影、错误肢体、不可读微型文字与意外水印。\n\n## 避免\n- 不要让空间缺少功能线索\n- 不要制造不可能的镜面或悬浮结构",
-      "en": "## Role\nAct as a senior image art director and production designer. Convert the supplied brief into one controlled visual deliverable, not a loose inspiration board.\n\n## Required brief fields\n- `{{space_type}}` (Space Type): Specify the place, time, scale, key environmental elements, and their relationship to the subject for Space Type.\n- `{{users}}` (Users): Provide a concrete value for Users, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{design_concept}}` (Design Concept): Provide a concrete value for Design Concept, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{materials}}` (Materials): Provide a concrete value for Materials, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{light_condition}}` (Light Condition): Provide a concrete value for Light Condition, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n\n## Brief-resolution protocol\n- Treat every variable as a production decision. If a field is absent, request it before rendering; never silently substitute a generic product, statistic, brand claim, or identity.\n- Lock deliverable, audience, aspect ratio, focal subject, information density, and reference-preservation requirements before choosing style adjectives.\n- When exact copy, source assets, measurements, or legal claims are supplied, preserve them as controlled inputs rather than improvising replacements.\n\n## Core task\nVisualize a {{space_type}} for {{users}} guided by {{design_concept}}. Use {{materials}} and {{light_condition}}. Show a believable circulation path, human-scale furniture, correct perspective, layered lighting, and details that reveal how the space is used.\n\n## Output contract\n- Produce exactly one finished architecture-space deliverable. Do not create a moodboard, multi-option presentation board, contact sheet, process diagram, mockup collage, or unexplained variants.\n- Establish a primary focal point, secondary information layer, and deliberate negative space before adding visual detail.\n- Keep all named objects, visual relationships, camera/perspective logic, and material behavior internally consistent.\n\n## Production structure\n- Keep perspective, circulation, light direction, furniture scale, and material transitions physically believable. Include human-scale cues without turning the space into a lifestyle collage.\n- For edit workflows, change only the requested region or attribute. Preserve untouched subjects, perspective, camera angle, lighting direction, shadows, texture, and grain. Do not introduce unrelated objects.\n\n## Quality gates\n- 透视与家具尺度可信\n- 出入口和动线明确\n- 材质边界可辨认\n- Review at thumbnail size first, then inspect factual accuracy, legibility, geometry, material behavior, and any reference-preservation requirement at full size.\n\n## Non-negotiable constraints\n- Respect the requested model compatibility, but prioritize the brief over any model-specific ornament.\n- Use short, exact text only when the brief provides it; never invent a real brand, a trademark, unsupported statistics, or filler copy.\n- Check for duplicate subjects, impossible geometry, incoherent shadows, broken anatomy, unreadable micro-text, and accidental watermarks before finalizing.\n\n## Avoid\n- 不要让空间缺少功能线索\n- 不要制造不可能的镜面或悬浮结构"
+      "en": "## Role\nAct as a senior image art director and production designer. Convert the supplied brief into one controlled visual deliverable, not a loose inspiration board.\n\n## Required brief fields\n- `{{space_type}}` (Space Type): Specify the place, time, scale, key environmental elements, and their relationship to the subject for Space Type.\n- `{{users}}` (Users): Provide a concrete value for Users, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{design_concept}}` (Design Concept): Provide a concrete value for Design Concept, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{materials}}` (Materials): Provide a concrete value for Materials, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{light_condition}}` (Light Condition): Provide a concrete value for Light Condition, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n\n## Brief-resolution protocol\n- Treat every variable as a production decision. If a field is absent, request it before rendering; never silently substitute a generic product, statistic, brand claim, or identity.\n- Lock deliverable, audience, aspect ratio, focal subject, information density, and reference-preservation requirements before choosing style adjectives.\n- When exact copy, source assets, measurements, or legal claims are supplied, preserve them as controlled inputs rather than improvising replacements.\n\n## Core task\nVisualize a {{space_type}} for {{users}} guided by {{design_concept}}. Use {{materials}} and {{light_condition}}. Show a believable circulation path, human-scale furniture, correct perspective, layered lighting, and details that reveal how the space is used.\n\n## Output contract\n- Produce exactly one finished architecture-space deliverable. Do not create a moodboard, multi-option presentation board, contact sheet, process diagram, mockup collage, or unexplained variants.\n- Establish a primary focal point, secondary information layer, and deliberate negative space before adding visual detail.\n- Keep all named objects, visual relationships, camera/perspective logic, and material behavior internally consistent.\n\n## Production structure\n- Keep perspective, circulation, light direction, furniture scale, and material transitions physically believable. Include human-scale cues without turning the space into a lifestyle collage.\n- For edit workflows, change only the requested region or attribute. Preserve untouched subjects, perspective, camera angle, lighting direction, shadows, texture, and grain. Do not introduce unrelated objects.\n\n## Quality gates\n- Every required field is represented by a concrete, reviewable production decision.\n- The Architecture Space output has one clear focal hierarchy and remains readable at thumbnail size.\n- Supplied copy, facts, geometry, subject identity, materials, and spatial relationships remain internally consistent.\n- Review at thumbnail size first, then inspect factual accuracy, legibility, geometry, material behavior, and any reference-preservation requirement at full size.\n\n## Non-negotiable constraints\n- Respect the requested model compatibility, but prioritize the brief over any model-specific ornament.\n- Use short, exact text only when the brief provides it; never invent a real brand, a trademark, unsupported statistics, or filler copy.\n- Check for duplicate subjects, impossible geometry, incoherent shadows, broken anatomy, unreadable micro-text, and accidental watermarks before finalizing.\n\n## Avoid\n- Do not replace missing Text To Image / Image To Image inputs with invented brands, statistics, identities, or filler copy.\n- Do not add unrelated objects, competing layouts, unexplained variants, or decorative structure that weakens the requested outcome.\n- Do not trade factual accuracy, legibility, physical plausibility, or subject consistency for surface-level style effects."
     },
-    "checklist": [
-      "透视与家具尺度可信",
-      "出入口和动线明确",
-      "材质边界可辨认"
-    ],
-    "pitfalls": [
-      "不要让空间缺少功能线索",
-      "不要制造不可能的镜面或悬浮结构"
-    ],
     "variable_labels": [
       {
         "id": "space_type",
@@ -16178,6 +16365,29 @@ export const templates = [
         }
       }
     ],
+    "checklist": {
+      "zh": [
+        "透视与家具尺度可信",
+        "出入口和动线明确",
+        "材质边界可辨认"
+      ],
+      "en": [
+        "Every required field is represented by a concrete, reviewable production decision.",
+        "The Architecture Space output has one clear focal hierarchy and remains readable at thumbnail size.",
+        "Supplied copy, facts, geometry, subject identity, materials, and spatial relationships remain internally consistent."
+      ]
+    },
+    "pitfalls": {
+      "zh": [
+        "不要让空间缺少功能线索",
+        "不要制造不可能的镜面或悬浮结构"
+      ],
+      "en": [
+        "Do not replace missing Text To Image / Image To Image inputs with invented brands, statistics, identities, or filler copy.",
+        "Do not add unrelated objects, competing layouts, unexplained variants, or decorative structure that weakens the requested outcome.",
+        "Do not trade factual accuracy, legibility, physical plausibility, or subject consistency for surface-level style effects."
+      ]
+    },
     "execution": {
       "zh": {
         "input_policy": "缺失的必填变量必须先向需求方确认；不得用虚构品牌、数据、人物身份或文字补齐。",
@@ -16255,17 +16465,8 @@ export const templates = [
     ],
     "prompt": {
       "zh": "## 角色\n你是一名资深图像艺术总监与制作设计师。请把需求转化为一个受控的最终视觉交付物，而不是松散的灵感板。\n\n## 模板目标\n报告与白皮书封面：面向研究、咨询和企业沟通的正式出版物封面模板。\n\n## 必填需求字段\n- `{{report_title}}`（报告标题）：请提供「报告标题」的准确文字；如不需要可读文字，请明确写“无文字”，不要让模型自行编写。\n- `{{organization}}`（组织）：请填写「组织」的具体内容，至少包含对象或取值范围、一个可见特征，以及它对构图、信息层级或生成结果的影响。\n- `{{topic}}`（主题）：请填写「主题」的具体内容，至少包含对象或取值范围、一个可见特征，以及它对构图、信息层级或生成结果的影响。\n- `{{year}}`（年份）：请提供「年份」的明确时间、周期或范围，并说明它如何影响场景、信息层级或输出格式。\n- `{{graphic_motif}}`（图形图案）：请填写「图形图案」的具体内容，至少包含对象或取值范围、一个可见特征，以及它对构图、信息层级或生成结果的影响。\n\n## 需求解析协议\n- 每个变量都是生产决策。缺失字段必须先向需求方确认；不得静默替换为泛化商品、统计数据、品牌主张或人物身份。\n- 在选择风格词前，先锁定交付类型、受众、画幅比例、焦点主体、信息密度和参考图保留要求。\n- 如需求给出精确文案、源素材、尺寸或合规主张，将其作为受控输入保留，不得即兴改写。\n\n## 输出契约\n- 只生成一张完成的 document-publishing 成品；不要生成情绪板、多方案展示板、联系表、过程图、样机拼贴或没有解释的变体。\n- 在添加视觉细节前，先建立主焦点、次级信息层与有意识的留白。\n- 所有命名对象、视觉关系、镜头/透视逻辑和材质行为必须内部一致。\n\n## 制作结构\n- 建立一个主视觉或标题区、一个次级信息区与有意识的留白；缩略图状态下也必须先读出层级。\n\n## 质量门槛\n- 标题优先于装饰\n- 组织信息位置稳定\n- 封面可延展为完整报告系统\n- 先在缩略图尺度检查层级，再在完整尺寸检查事实准确性、文字可读性、几何、材质行为与参考图保留要求。\n\n## 不可违反的约束\n- 兼顾声明的模型兼容性，但始终以需求本身为最高优先级。\n- 仅在需求提供精确短文案时才渲染文字；绝不虚构真实品牌、商标、没有来源的数据或填充文案。\n- 输出前检查重复主体、不可能几何、冲突阴影、错误肢体、不可读微型文字与意外水印。\n\n## 避免\n- 不要让抽象图形掩盖报告主题\n- 不要使用难读的细字",
-      "en": "## Role\nAct as a senior image art director and production designer. Convert the supplied brief into one controlled visual deliverable, not a loose inspiration board.\n\n## Required brief fields\n- `{{report_title}}` (Report Title): Provide the exact copy for Report Title; if readable copy is not needed, explicitly state “no text” rather than letting the model invent it.\n- `{{organization}}` (Organization): Provide a concrete value for Organization, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{topic}}` (Topic): Provide a concrete value for Topic, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{year}}` (Year): Provide the exact time, duration, or range for Year and explain how it affects the scene, information hierarchy, or output format.\n- `{{graphic_motif}}` (Graphic Motif): Provide a concrete value for Graphic Motif, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n\n## Brief-resolution protocol\n- Treat every variable as a production decision. If a field is absent, request it before rendering; never silently substitute a generic product, statistic, brand claim, or identity.\n- Lock deliverable, audience, aspect ratio, focal subject, information density, and reference-preservation requirements before choosing style adjectives.\n- When exact copy, source assets, measurements, or legal claims are supplied, preserve them as controlled inputs rather than improvising replacements.\n\n## Core task\nDesign a credible report cover for {{organization}} titled {{report_title}} about {{topic}}. Include {{year}} and express the theme with {{graphic_motif}}. Use a formal grid, clear title hierarchy, ample margins, and a system that can extend to section dividers and charts.\n\n## Output contract\n- Produce exactly one finished document-publishing deliverable. Do not create a moodboard, multi-option presentation board, contact sheet, process diagram, mockup collage, or unexplained variants.\n- Establish a primary focal point, secondary information layer, and deliberate negative space before adding visual detail.\n- Keep all named objects, visual relationships, camera/perspective logic, and material behavior internally consistent.\n\n## Production structure\n- Establish one dominant visual or title zone, a secondary information zone, and intentional negative space. The composition must read at thumbnail size before adding detail.\n\n## Quality gates\n- 标题优先于装饰\n- 组织信息位置稳定\n- 封面可延展为完整报告系统\n- Review at thumbnail size first, then inspect factual accuracy, legibility, geometry, material behavior, and any reference-preservation requirement at full size.\n\n## Non-negotiable constraints\n- Respect the requested model compatibility, but prioritize the brief over any model-specific ornament.\n- Use short, exact text only when the brief provides it; never invent a real brand, a trademark, unsupported statistics, or filler copy.\n- Check for duplicate subjects, impossible geometry, incoherent shadows, broken anatomy, unreadable micro-text, and accidental watermarks before finalizing.\n\n## Avoid\n- 不要让抽象图形掩盖报告主题\n- 不要使用难读的细字"
+      "en": "## Role\nAct as a senior image art director and production designer. Convert the supplied brief into one controlled visual deliverable, not a loose inspiration board.\n\n## Required brief fields\n- `{{report_title}}` (Report Title): Provide the exact copy for Report Title; if readable copy is not needed, explicitly state “no text” rather than letting the model invent it.\n- `{{organization}}` (Organization): Provide a concrete value for Organization, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{topic}}` (Topic): Provide a concrete value for Topic, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{year}}` (Year): Provide the exact time, duration, or range for Year and explain how it affects the scene, information hierarchy, or output format.\n- `{{graphic_motif}}` (Graphic Motif): Provide a concrete value for Graphic Motif, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n\n## Brief-resolution protocol\n- Treat every variable as a production decision. If a field is absent, request it before rendering; never silently substitute a generic product, statistic, brand claim, or identity.\n- Lock deliverable, audience, aspect ratio, focal subject, information density, and reference-preservation requirements before choosing style adjectives.\n- When exact copy, source assets, measurements, or legal claims are supplied, preserve them as controlled inputs rather than improvising replacements.\n\n## Core task\nDesign a credible report cover for {{organization}} titled {{report_title}} about {{topic}}. Include {{year}} and express the theme with {{graphic_motif}}. Use a formal grid, clear title hierarchy, ample margins, and a system that can extend to section dividers and charts.\n\n## Output contract\n- Produce exactly one finished document-publishing deliverable. Do not create a moodboard, multi-option presentation board, contact sheet, process diagram, mockup collage, or unexplained variants.\n- Establish a primary focal point, secondary information layer, and deliberate negative space before adding visual detail.\n- Keep all named objects, visual relationships, camera/perspective logic, and material behavior internally consistent.\n\n## Production structure\n- Establish one dominant visual or title zone, a secondary information zone, and intentional negative space. The composition must read at thumbnail size before adding detail.\n\n## Quality gates\n- Every required field is represented by a concrete, reviewable production decision.\n- The Document Publishing output has one clear focal hierarchy and remains readable at thumbnail size.\n- Supplied copy, facts, geometry, subject identity, materials, and spatial relationships remain internally consistent.\n- Review at thumbnail size first, then inspect factual accuracy, legibility, geometry, material behavior, and any reference-preservation requirement at full size.\n\n## Non-negotiable constraints\n- Respect the requested model compatibility, but prioritize the brief over any model-specific ornament.\n- Use short, exact text only when the brief provides it; never invent a real brand, a trademark, unsupported statistics, or filler copy.\n- Check for duplicate subjects, impossible geometry, incoherent shadows, broken anatomy, unreadable micro-text, and accidental watermarks before finalizing.\n\n## Avoid\n- Do not replace missing Text To Image inputs with invented brands, statistics, identities, or filler copy.\n- Do not add unrelated objects, competing layouts, unexplained variants, or decorative structure that weakens the requested outcome.\n- Do not trade factual accuracy, legibility, physical plausibility, or subject consistency for surface-level style effects."
     },
-    "checklist": [
-      "标题优先于装饰",
-      "组织信息位置稳定",
-      "封面可延展为完整报告系统"
-    ],
-    "pitfalls": [
-      "不要让抽象图形掩盖报告主题",
-      "不要使用难读的细字"
-    ],
     "variable_labels": [
       {
         "id": "report_title",
@@ -16313,6 +16514,29 @@ export const templates = [
         }
       }
     ],
+    "checklist": {
+      "zh": [
+        "标题优先于装饰",
+        "组织信息位置稳定",
+        "封面可延展为完整报告系统"
+      ],
+      "en": [
+        "Every required field is represented by a concrete, reviewable production decision.",
+        "The Document Publishing output has one clear focal hierarchy and remains readable at thumbnail size.",
+        "Supplied copy, facts, geometry, subject identity, materials, and spatial relationships remain internally consistent."
+      ]
+    },
+    "pitfalls": {
+      "zh": [
+        "不要让抽象图形掩盖报告主题",
+        "不要使用难读的细字"
+      ],
+      "en": [
+        "Do not replace missing Text To Image inputs with invented brands, statistics, identities, or filler copy.",
+        "Do not add unrelated objects, competing layouts, unexplained variants, or decorative structure that weakens the requested outcome.",
+        "Do not trade factual accuracy, legibility, physical plausibility, or subject consistency for surface-level style effects."
+      ]
+    },
     "execution": {
       "zh": {
         "input_policy": "缺失的必填变量必须先向需求方确认；不得用虚构品牌、数据、人物身份或文字补齐。",
@@ -16391,17 +16615,8 @@ export const templates = [
     ],
     "prompt": {
       "zh": "## 角色\n你是一名资深图像艺术总监与制作设计师。请把需求转化为一个受控的最终视觉交付物，而不是松散的灵感板。\n\n## 模板目标\n插画风格帧：快速锁定插画媒介、构图和情绪，为后续系列统一风格。\n\n## 必填需求字段\n- `{{subject}}`（主体）：请填写「主体」的具体内容，至少包含对象或取值范围、一个可见特征，以及它对构图、信息层级或生成结果的影响。\n- `{{mood}}`（氛围）：请说明「氛围」的媒介、时代或审美方向、情绪强度与细节密度，并给出 1–2 个可见特征。\n- `{{medium}}`（媒介）：请填写「媒介」的具体内容，至少包含对象或取值范围、一个可见特征，以及它对构图、信息层级或生成结果的影响。\n- `{{palette}}`（色板）：请给出「色板」的 2–4 个明确色名、主辅比例和使用位置；不要只写“高级”或“有氛围”。\n- `{{composition}}`（构图）：请填写「构图」的具体内容，至少包含对象或取值范围、一个可见特征，以及它对构图、信息层级或生成结果的影响。\n\n## 需求解析协议\n- 每个变量都是生产决策。缺失字段必须先向需求方确认；不得静默替换为泛化商品、统计数据、品牌主张或人物身份。\n- 在选择风格词前，先锁定交付类型、受众、画幅比例、焦点主体、信息密度和参考图保留要求。\n- 如需求给出精确文案、源素材、尺寸或合规主张，将其作为受控输入保留，不得即兴改写。\n\n## 输出契约\n- 只生成一张完成的 illustration-art 成品；不要生成情绪板、多方案展示板、联系表、过程图、样机拼贴或没有解释的变体。\n- 在添加视觉细节前，先建立主焦点、次级信息层与有意识的留白。\n- 所有命名对象、视觉关系、镜头/透视逻辑和材质行为必须内部一致。\n\n## 制作结构\n- 让媒介特征体现在笔触、纹理、深度和边缘处理上；使用克制色板与单一焦点，不做无方向的风格拼贴。\n- 系列工作流先锁定主体比例、色彩角色、镜头语言与版式语法，再变化场景内容；每张图都必须属于同一视觉系统。\n\n## 质量门槛\n- 媒介特征可被复用\n- 色彩关系明确\n- 焦点在缩略图中仍成立\n- 先在缩略图尺度检查层级，再在完整尺寸检查事实准确性、文字可读性、几何、材质行为与参考图保留要求。\n\n## 不可违反的约束\n- 兼顾声明的模型兼容性，但始终以需求本身为最高优先级。\n- 仅在需求提供精确短文案时才渲染文字；绝不虚构真实品牌、商标、没有来源的数据或填充文案。\n- 输出前检查重复主体、不可能几何、冲突阴影、错误肢体、不可读微型文字与意外水印。\n\n## 避免\n- 不要混用互相冲突的艺术媒介\n- 不要只写笼统的风格名称",
-      "en": "## Role\nAct as a senior image art director and production designer. Convert the supplied brief into one controlled visual deliverable, not a loose inspiration board.\n\n## Required brief fields\n- `{{subject}}` (Subject): Provide a concrete value for Subject, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{mood}}` (Mood): Describe the medium, era or aesthetic direction, emotional intensity, detail density, and 1–2 visible cues for Mood.\n- `{{medium}}` (Medium): Provide a concrete value for Medium, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{palette}}` (Palette): Specify 2–4 named colors, their primary/secondary balance, and where Palette appears; avoid vague terms such as “premium” or “atmospheric”.\n- `{{composition}}` (Composition): Provide a concrete value for Composition, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n\n## Brief-resolution protocol\n- Treat every variable as a production decision. If a field is absent, request it before rendering; never silently substitute a generic product, statistic, brand claim, or identity.\n- Lock deliverable, audience, aspect ratio, focal subject, information density, and reference-preservation requirements before choosing style adjectives.\n- When exact copy, source assets, measurements, or legal claims are supplied, preserve them as controlled inputs rather than improvising replacements.\n\n## Core task\nCreate an illustration styleframe of {{subject}} with a {{mood}} tone. Use {{medium}}, {{palette}}, and a {{composition}} composition. Make the mark-making, material texture, depth cues, and focal hierarchy specific enough to guide an entire campaign series.\n\n## Output contract\n- Produce exactly one finished illustration-art deliverable. Do not create a moodboard, multi-option presentation board, contact sheet, process diagram, mockup collage, or unexplained variants.\n- Establish a primary focal point, secondary information layer, and deliberate negative space before adding visual detail.\n- Keep all named objects, visual relationships, camera/perspective logic, and material behavior internally consistent.\n\n## Production structure\n- Make the chosen medium visible in mark-making, texture, depth, and edge treatment. Use a restrained palette and a single focal hierarchy rather than an undirected style collage.\n- For a series, lock the subject proportions, palette roles, lens language, and layout grammar before varying scene content. Every variation must remain recognizably in the same system.\n\n## Quality gates\n- 媒介特征可被复用\n- 色彩关系明确\n- 焦点在缩略图中仍成立\n- Review at thumbnail size first, then inspect factual accuracy, legibility, geometry, material behavior, and any reference-preservation requirement at full size.\n\n## Non-negotiable constraints\n- Respect the requested model compatibility, but prioritize the brief over any model-specific ornament.\n- Use short, exact text only when the brief provides it; never invent a real brand, a trademark, unsupported statistics, or filler copy.\n- Check for duplicate subjects, impossible geometry, incoherent shadows, broken anatomy, unreadable micro-text, and accidental watermarks before finalizing.\n\n## Avoid\n- 不要混用互相冲突的艺术媒介\n- 不要只写笼统的风格名称"
+      "en": "## Role\nAct as a senior image art director and production designer. Convert the supplied brief into one controlled visual deliverable, not a loose inspiration board.\n\n## Required brief fields\n- `{{subject}}` (Subject): Provide a concrete value for Subject, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{mood}}` (Mood): Describe the medium, era or aesthetic direction, emotional intensity, detail density, and 1–2 visible cues for Mood.\n- `{{medium}}` (Medium): Provide a concrete value for Medium, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{palette}}` (Palette): Specify 2–4 named colors, their primary/secondary balance, and where Palette appears; avoid vague terms such as “premium” or “atmospheric”.\n- `{{composition}}` (Composition): Provide a concrete value for Composition, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n\n## Brief-resolution protocol\n- Treat every variable as a production decision. If a field is absent, request it before rendering; never silently substitute a generic product, statistic, brand claim, or identity.\n- Lock deliverable, audience, aspect ratio, focal subject, information density, and reference-preservation requirements before choosing style adjectives.\n- When exact copy, source assets, measurements, or legal claims are supplied, preserve them as controlled inputs rather than improvising replacements.\n\n## Core task\nCreate an illustration styleframe of {{subject}} with a {{mood}} tone. Use {{medium}}, {{palette}}, and a {{composition}} composition. Make the mark-making, material texture, depth cues, and focal hierarchy specific enough to guide an entire campaign series.\n\n## Output contract\n- Produce exactly one finished illustration-art deliverable. Do not create a moodboard, multi-option presentation board, contact sheet, process diagram, mockup collage, or unexplained variants.\n- Establish a primary focal point, secondary information layer, and deliberate negative space before adding visual detail.\n- Keep all named objects, visual relationships, camera/perspective logic, and material behavior internally consistent.\n\n## Production structure\n- Make the chosen medium visible in mark-making, texture, depth, and edge treatment. Use a restrained palette and a single focal hierarchy rather than an undirected style collage.\n- For a series, lock the subject proportions, palette roles, lens language, and layout grammar before varying scene content. Every variation must remain recognizably in the same system.\n\n## Quality gates\n- Every required field is represented by a concrete, reviewable production decision.\n- The Illustration Art output has one clear focal hierarchy and remains readable at thumbnail size.\n- Supplied copy, facts, geometry, subject identity, materials, and spatial relationships remain internally consistent.\n- Review at thumbnail size first, then inspect factual accuracy, legibility, geometry, material behavior, and any reference-preservation requirement at full size.\n\n## Non-negotiable constraints\n- Respect the requested model compatibility, but prioritize the brief over any model-specific ornament.\n- Use short, exact text only when the brief provides it; never invent a real brand, a trademark, unsupported statistics, or filler copy.\n- Check for duplicate subjects, impossible geometry, incoherent shadows, broken anatomy, unreadable micro-text, and accidental watermarks before finalizing.\n\n## Avoid\n- Do not replace missing Text To Image / Series Consistency inputs with invented brands, statistics, identities, or filler copy.\n- Do not add unrelated objects, competing layouts, unexplained variants, or decorative structure that weakens the requested outcome.\n- Do not trade factual accuracy, legibility, physical plausibility, or subject consistency for surface-level style effects."
     },
-    "checklist": [
-      "媒介特征可被复用",
-      "色彩关系明确",
-      "焦点在缩略图中仍成立"
-    ],
-    "pitfalls": [
-      "不要混用互相冲突的艺术媒介",
-      "不要只写笼统的风格名称"
-    ],
     "variable_labels": [
       {
         "id": "subject",
@@ -16449,6 +16664,29 @@ export const templates = [
         }
       }
     ],
+    "checklist": {
+      "zh": [
+        "媒介特征可被复用",
+        "色彩关系明确",
+        "焦点在缩略图中仍成立"
+      ],
+      "en": [
+        "Every required field is represented by a concrete, reviewable production decision.",
+        "The Illustration Art output has one clear focal hierarchy and remains readable at thumbnail size.",
+        "Supplied copy, facts, geometry, subject identity, materials, and spatial relationships remain internally consistent."
+      ]
+    },
+    "pitfalls": {
+      "zh": [
+        "不要混用互相冲突的艺术媒介",
+        "不要只写笼统的风格名称"
+      ],
+      "en": [
+        "Do not replace missing Text To Image / Series Consistency inputs with invented brands, statistics, identities, or filler copy.",
+        "Do not add unrelated objects, competing layouts, unexplained variants, or decorative structure that weakens the requested outcome.",
+        "Do not trade factual accuracy, legibility, physical plausibility, or subject consistency for surface-level style effects."
+      ]
+    },
     "execution": {
       "zh": {
         "input_policy": "缺失的必填变量必须先向需求方确认；不得用虚构品牌、数据、人物身份或文字补齐。",
@@ -16526,17 +16764,8 @@ export const templates = [
     ],
     "prompt": {
       "zh": "## 角色\n你是一名资深图像艺术总监与制作设计师。请把需求转化为一个受控的最终视觉交付物，而不是松散的灵感板。\n\n## 模板目标\n教学知识图解：将定义、关系与步骤组合成可用于教学的清晰视觉图解。\n\n## 必填需求字段\n- `{{concept}}`（概念）：请填写「概念」的具体内容，至少包含对象或取值范围、一个可见特征，以及它对构图、信息层级或生成结果的影响。\n- `{{learner_level}}`（学习者级别）：请说明「学习者级别」对应的人群、使用情境和关注重点，使内容密度与表达方式可被准确判断。\n- `{{key_relationships}}`（关键关系）：请填写「关键关系」的具体内容，至少包含对象或取值范围、一个可见特征，以及它对构图、信息层级或生成结果的影响。\n- `{{examples}}`（示例）：请填写「示例」的具体内容，至少包含对象或取值范围、一个可见特征，以及它对构图、信息层级或生成结果的影响。\n- `{{visual_system}}`（视觉系统）：请说明「视觉系统」的媒介、时代或审美方向、情绪强度与细节密度，并给出 1–2 个可见特征。\n\n## 需求解析协议\n- 每个变量都是生产决策。缺失字段必须先向需求方确认；不得静默替换为泛化商品、统计数据、品牌主张或人物身份。\n- 在选择风格词前，先锁定交付类型、受众、画幅比例、焦点主体、信息密度和参考图保留要求。\n- 如需求给出精确文案、源素材、尺寸或合规主张，将其作为受控输入保留，不得即兴改写。\n\n## 输出契约\n- 只生成一张完成的 educational-visual 成品；不要生成情绪板、多方案展示板、联系表、过程图、样机拼贴或没有解释的变体。\n- 在添加视觉细节前，先建立主焦点、次级信息层与有意识的留白。\n- 所有命名对象、视觉关系、镜头/透视逻辑和材质行为必须内部一致。\n\n## 制作结构\n- 明确阅读路径：标题、3–5 个有顺序的模块、短标签与含义清晰的连接线。不能用装饰插画替代信息结构。\n\n## 质量门槛\n- 先解释核心概念再补例子\n- 连线方向一致\n- 术语数量受控\n- 先在缩略图尺度检查层级，再在完整尺寸检查事实准确性、文字可读性、几何、材质行为与参考图保留要求。\n\n## 不可违反的约束\n- 兼顾声明的模型兼容性，但始终以需求本身为最高优先级。\n- 仅在需求提供精确短文案时才渲染文字；绝不虚构真实品牌、商标、没有来源的数据或填充文案。\n- 输出前检查重复主体、不可能几何、冲突阴影、错误肢体、不可读微型文字与意外水印。\n\n## 避免\n- 不要把知识图做成装饰性海报\n- 不要省略关系的方向或条件",
-      "en": "## Role\nAct as a senior image art director and production designer. Convert the supplied brief into one controlled visual deliverable, not a loose inspiration board.\n\n## Required brief fields\n- `{{concept}}` (Concept): Provide a concrete value for Concept, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{learner_level}}` (Learner Level): Define the people, usage context, and priority for Learner Level so information density and tone can be chosen deliberately.\n- `{{key_relationships}}` (Key Relationships): Provide a concrete value for Key Relationships, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{examples}}` (Examples): Provide a concrete value for Examples, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{visual_system}}` (Visual System): Describe the medium, era or aesthetic direction, emotional intensity, detail density, and 1–2 visible cues for Visual System.\n\n## Brief-resolution protocol\n- Treat every variable as a production decision. If a field is absent, request it before rendering; never silently substitute a generic product, statistic, brand claim, or identity.\n- Lock deliverable, audience, aspect ratio, focal subject, information density, and reference-preservation requirements before choosing style adjectives.\n- When exact copy, source assets, measurements, or legal claims are supplied, preserve them as controlled inputs rather than improvising replacements.\n\n## Core task\nCreate a teaching diagram that explains {{concept}} for {{learner_level}}. Show {{key_relationships}} with labeled connectors and use {{examples}} as concrete anchors. Apply {{visual_system}} consistently. The image should be understandable in one minute and useful for discussion after that.\n\n## Output contract\n- Produce exactly one finished educational-visual deliverable. Do not create a moodboard, multi-option presentation board, contact sheet, process diagram, mockup collage, or unexplained variants.\n- Establish a primary focal point, secondary information layer, and deliberate negative space before adding visual detail.\n- Keep all named objects, visual relationships, camera/perspective logic, and material behavior internally consistent.\n\n## Production structure\n- Make the reading path explicit: headline, 3–5 ordered modules, concise labels, and connectors whose direction and meaning are unambiguous. Do not substitute decorative illustration for information structure.\n\n## Quality gates\n- 先解释核心概念再补例子\n- 连线方向一致\n- 术语数量受控\n- Review at thumbnail size first, then inspect factual accuracy, legibility, geometry, material behavior, and any reference-preservation requirement at full size.\n\n## Non-negotiable constraints\n- Respect the requested model compatibility, but prioritize the brief over any model-specific ornament.\n- Use short, exact text only when the brief provides it; never invent a real brand, a trademark, unsupported statistics, or filler copy.\n- Check for duplicate subjects, impossible geometry, incoherent shadows, broken anatomy, unreadable micro-text, and accidental watermarks before finalizing.\n\n## Avoid\n- 不要把知识图做成装饰性海报\n- 不要省略关系的方向或条件"
+      "en": "## Role\nAct as a senior image art director and production designer. Convert the supplied brief into one controlled visual deliverable, not a loose inspiration board.\n\n## Required brief fields\n- `{{concept}}` (Concept): Provide a concrete value for Concept, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{learner_level}}` (Learner Level): Define the people, usage context, and priority for Learner Level so information density and tone can be chosen deliberately.\n- `{{key_relationships}}` (Key Relationships): Provide a concrete value for Key Relationships, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{examples}}` (Examples): Provide a concrete value for Examples, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{visual_system}}` (Visual System): Describe the medium, era or aesthetic direction, emotional intensity, detail density, and 1–2 visible cues for Visual System.\n\n## Brief-resolution protocol\n- Treat every variable as a production decision. If a field is absent, request it before rendering; never silently substitute a generic product, statistic, brand claim, or identity.\n- Lock deliverable, audience, aspect ratio, focal subject, information density, and reference-preservation requirements before choosing style adjectives.\n- When exact copy, source assets, measurements, or legal claims are supplied, preserve them as controlled inputs rather than improvising replacements.\n\n## Core task\nCreate a teaching diagram that explains {{concept}} for {{learner_level}}. Show {{key_relationships}} with labeled connectors and use {{examples}} as concrete anchors. Apply {{visual_system}} consistently. The image should be understandable in one minute and useful for discussion after that.\n\n## Output contract\n- Produce exactly one finished educational-visual deliverable. Do not create a moodboard, multi-option presentation board, contact sheet, process diagram, mockup collage, or unexplained variants.\n- Establish a primary focal point, secondary information layer, and deliberate negative space before adding visual detail.\n- Keep all named objects, visual relationships, camera/perspective logic, and material behavior internally consistent.\n\n## Production structure\n- Make the reading path explicit: headline, 3–5 ordered modules, concise labels, and connectors whose direction and meaning are unambiguous. Do not substitute decorative illustration for information structure.\n\n## Quality gates\n- Every required field is represented by a concrete, reviewable production decision.\n- The Educational Visual output has one clear focal hierarchy and remains readable at thumbnail size.\n- Supplied copy, facts, geometry, subject identity, materials, and spatial relationships remain internally consistent.\n- Review at thumbnail size first, then inspect factual accuracy, legibility, geometry, material behavior, and any reference-preservation requirement at full size.\n\n## Non-negotiable constraints\n- Respect the requested model compatibility, but prioritize the brief over any model-specific ornament.\n- Use short, exact text only when the brief provides it; never invent a real brand, a trademark, unsupported statistics, or filler copy.\n- Check for duplicate subjects, impossible geometry, incoherent shadows, broken anatomy, unreadable micro-text, and accidental watermarks before finalizing.\n\n## Avoid\n- Do not replace missing Text To Image inputs with invented brands, statistics, identities, or filler copy.\n- Do not add unrelated objects, competing layouts, unexplained variants, or decorative structure that weakens the requested outcome.\n- Do not trade factual accuracy, legibility, physical plausibility, or subject consistency for surface-level style effects."
     },
-    "checklist": [
-      "先解释核心概念再补例子",
-      "连线方向一致",
-      "术语数量受控"
-    ],
-    "pitfalls": [
-      "不要把知识图做成装饰性海报",
-      "不要省略关系的方向或条件"
-    ],
     "variable_labels": [
       {
         "id": "concept",
@@ -16584,6 +16813,29 @@ export const templates = [
         }
       }
     ],
+    "checklist": {
+      "zh": [
+        "先解释核心概念再补例子",
+        "连线方向一致",
+        "术语数量受控"
+      ],
+      "en": [
+        "Every required field is represented by a concrete, reviewable production decision.",
+        "The Educational Visual output has one clear focal hierarchy and remains readable at thumbnail size.",
+        "Supplied copy, facts, geometry, subject identity, materials, and spatial relationships remain internally consistent."
+      ]
+    },
+    "pitfalls": {
+      "zh": [
+        "不要把知识图做成装饰性海报",
+        "不要省略关系的方向或条件"
+      ],
+      "en": [
+        "Do not replace missing Text To Image inputs with invented brands, statistics, identities, or filler copy.",
+        "Do not add unrelated objects, competing layouts, unexplained variants, or decorative structure that weakens the requested outcome.",
+        "Do not trade factual accuracy, legibility, physical plausibility, or subject consistency for surface-level style effects."
+      ]
+    },
     "execution": {
       "zh": {
         "input_policy": "缺失的必填变量必须先向需求方确认；不得用虚构品牌、数据、人物身份或文字补齐。",
@@ -16661,17 +16913,8 @@ export const templates = [
     ],
     "prompt": {
       "zh": "## 角色\n你是一名资深图像艺术总监与制作设计师。请把需求转化为一个受控的最终视觉交付物，而不是松散的灵感板。\n\n## 模板目标\n数据看板界面：适合运营、增长和业务监控场景的可解释仪表盘模板。\n\n## 必填需求字段\n- `{{product}}`（产品）：请给出「产品」的具体对象、外形或功能、关键材质与不可改变的识别特征。\n- `{{primary_metric}}`（主要指标）：请列出「主要指标」中必须呈现的具体项目、数量范围和优先顺序；不得用虚构数据补全。\n- `{{date_range}}`（日期范围）：请提供「日期范围」的明确时间、周期或范围，并说明它如何影响场景、信息层级或输出格式。\n- `{{visual_style}}`（视觉风格）：请说明「视觉风格」的媒介、时代或审美方向、情绪强度与细节密度，并给出 1–2 个可见特征。\n- `{{accent_color}}`（强调颜色）：请给出「强调颜色」的 2–4 个明确色名、主辅比例和使用位置；不要只写“高级”或“有氛围”。\n\n## 需求解析协议\n- 每个变量都是生产决策。缺失字段必须先向需求方确认；不得静默替换为泛化商品、统计数据、品牌主张或人物身份。\n- 在选择风格词前，先锁定交付类型、受众、画幅比例、焦点主体、信息密度和参考图保留要求。\n- 如需求给出精确文案、源素材、尺寸或合规主张，将其作为受控输入保留，不得即兴改写。\n\n## 输出契约\n- 只生成一张完成的 ui-interface 成品；不要生成情绪板、多方案展示板、联系表、过程图、样机拼贴或没有解释的变体。\n- 在添加视觉细节前，先建立主焦点、次级信息层与有意识的留白。\n- 所有命名对象、视觉关系、镜头/透视逻辑和材质行为必须内部一致。\n\n## 制作结构\n- 按完整产品界面处理：建立明确栅格、一个主行动按钮、可理解的组件状态与可信的信息密度。仅在需求明确时选择桌面端 16:9 或移动端 9:16。\n\n## 质量门槛\n- 主指标优先级最高\n- 图表都有标题和单位\n- 颜色只承担一种明确语义\n- 先在缩略图尺度检查层级，再在完整尺寸检查事实准确性、文字可读性、几何、材质行为与参考图保留要求。\n\n## 不可违反的约束\n- 兼顾声明的模型兼容性，但始终以需求本身为最高优先级。\n- 仅在需求提供精确短文案时才渲染文字；绝不虚构真实品牌、商标、没有来源的数据或填充文案。\n- 输出前检查重复主体、不可能几何、冲突阴影、错误肢体、不可读微型文字与意外水印。\n\n## 避免\n- 不要为了炫酷堆叠小图表\n- 不要把关键数据只靠颜色区分",
-      "en": "## Role\nAct as a senior image art director and production designer. Convert the supplied brief into one controlled visual deliverable, not a loose inspiration board.\n\n## Required brief fields\n- `{{product}}` (Product): Provide the specific object, form or function, key materials, and non-negotiable identity features for Product.\n- `{{primary_metric}}` (Primary Metric): List the concrete items, quantity range, and priority order required for Primary Metric; do not fill gaps with fabricated data.\n- `{{date_range}}` (Date Range): Provide the exact time, duration, or range for Date Range and explain how it affects the scene, information hierarchy, or output format.\n- `{{visual_style}}` (Visual Style): Describe the medium, era or aesthetic direction, emotional intensity, detail density, and 1–2 visible cues for Visual Style.\n- `{{accent_color}}` (Accent Color): Specify 2–4 named colors, their primary/secondary balance, and where Accent Color appears; avoid vague terms such as “premium” or “atmospheric”.\n\n## Brief-resolution protocol\n- Treat every variable as a production decision. If a field is absent, request it before rendering; never silently substitute a generic product, statistic, brand claim, or identity.\n- Lock deliverable, audience, aspect ratio, focal subject, information density, and reference-preservation requirements before choosing style adjectives.\n- When exact copy, source assets, measurements, or legal claims are supplied, preserve them as controlled inputs rather than improvising replacements.\n\n## Core task\nCreate a polished analytics dashboard for {{product}}. Prioritize {{primary_metric}} for {{date_range}}, then show supporting trend, segment, and conversion modules. Use {{visual_style}} with {{accent_color}} highlights. Charts must have visible labels, restrained color use, generous spacing, and an obvious reading order.\n\n## Output contract\n- Produce exactly one finished ui-interface deliverable. Do not create a moodboard, multi-option presentation board, contact sheet, process diagram, mockup collage, or unexplained variants.\n- Establish a primary focal point, secondary information layer, and deliberate negative space before adding visual detail.\n- Keep all named objects, visual relationships, camera/perspective logic, and material behavior internally consistent.\n\n## Production structure\n- Use a coherent product screen with a deliberate grid, one primary action, clear component states, and a realistic content density. Select 16:9 for desktop or 9:16 for mobile only when the brief specifies that platform.\n\n## Quality gates\n- 主指标优先级最高\n- 图表都有标题和单位\n- 颜色只承担一种明确语义\n- Review at thumbnail size first, then inspect factual accuracy, legibility, geometry, material behavior, and any reference-preservation requirement at full size.\n\n## Non-negotiable constraints\n- Respect the requested model compatibility, but prioritize the brief over any model-specific ornament.\n- Use short, exact text only when the brief provides it; never invent a real brand, a trademark, unsupported statistics, or filler copy.\n- Check for duplicate subjects, impossible geometry, incoherent shadows, broken anatomy, unreadable micro-text, and accidental watermarks before finalizing.\n\n## Avoid\n- 不要为了炫酷堆叠小图表\n- 不要把关键数据只靠颜色区分"
+      "en": "## Role\nAct as a senior image art director and production designer. Convert the supplied brief into one controlled visual deliverable, not a loose inspiration board.\n\n## Required brief fields\n- `{{product}}` (Product): Provide the specific object, form or function, key materials, and non-negotiable identity features for Product.\n- `{{primary_metric}}` (Primary Metric): List the concrete items, quantity range, and priority order required for Primary Metric; do not fill gaps with fabricated data.\n- `{{date_range}}` (Date Range): Provide the exact time, duration, or range for Date Range and explain how it affects the scene, information hierarchy, or output format.\n- `{{visual_style}}` (Visual Style): Describe the medium, era or aesthetic direction, emotional intensity, detail density, and 1–2 visible cues for Visual Style.\n- `{{accent_color}}` (Accent Color): Specify 2–4 named colors, their primary/secondary balance, and where Accent Color appears; avoid vague terms such as “premium” or “atmospheric”.\n\n## Brief-resolution protocol\n- Treat every variable as a production decision. If a field is absent, request it before rendering; never silently substitute a generic product, statistic, brand claim, or identity.\n- Lock deliverable, audience, aspect ratio, focal subject, information density, and reference-preservation requirements before choosing style adjectives.\n- When exact copy, source assets, measurements, or legal claims are supplied, preserve them as controlled inputs rather than improvising replacements.\n\n## Core task\nCreate a polished analytics dashboard for {{product}}. Prioritize {{primary_metric}} for {{date_range}}, then show supporting trend, segment, and conversion modules. Use {{visual_style}} with {{accent_color}} highlights. Charts must have visible labels, restrained color use, generous spacing, and an obvious reading order.\n\n## Output contract\n- Produce exactly one finished ui-interface deliverable. Do not create a moodboard, multi-option presentation board, contact sheet, process diagram, mockup collage, or unexplained variants.\n- Establish a primary focal point, secondary information layer, and deliberate negative space before adding visual detail.\n- Keep all named objects, visual relationships, camera/perspective logic, and material behavior internally consistent.\n\n## Production structure\n- Use a coherent product screen with a deliberate grid, one primary action, clear component states, and a realistic content density. Select 16:9 for desktop or 9:16 for mobile only when the brief specifies that platform.\n\n## Quality gates\n- Every required field is represented by a concrete, reviewable production decision.\n- The UI Interface output has one clear focal hierarchy and remains readable at thumbnail size.\n- Supplied copy, facts, geometry, subject identity, materials, and spatial relationships remain internally consistent.\n- Review at thumbnail size first, then inspect factual accuracy, legibility, geometry, material behavior, and any reference-preservation requirement at full size.\n\n## Non-negotiable constraints\n- Respect the requested model compatibility, but prioritize the brief over any model-specific ornament.\n- Use short, exact text only when the brief provides it; never invent a real brand, a trademark, unsupported statistics, or filler copy.\n- Check for duplicate subjects, impossible geometry, incoherent shadows, broken anatomy, unreadable micro-text, and accidental watermarks before finalizing.\n\n## Avoid\n- Do not replace missing Text To Image inputs with invented brands, statistics, identities, or filler copy.\n- Do not add unrelated objects, competing layouts, unexplained variants, or decorative structure that weakens the requested outcome.\n- Do not trade factual accuracy, legibility, physical plausibility, or subject consistency for surface-level style effects."
     },
-    "checklist": [
-      "主指标优先级最高",
-      "图表都有标题和单位",
-      "颜色只承担一种明确语义"
-    ],
-    "pitfalls": [
-      "不要为了炫酷堆叠小图表",
-      "不要把关键数据只靠颜色区分"
-    ],
     "variable_labels": [
       {
         "id": "product",
@@ -16719,6 +16962,29 @@ export const templates = [
         }
       }
     ],
+    "checklist": {
+      "zh": [
+        "主指标优先级最高",
+        "图表都有标题和单位",
+        "颜色只承担一种明确语义"
+      ],
+      "en": [
+        "Every required field is represented by a concrete, reviewable production decision.",
+        "The UI Interface output has one clear focal hierarchy and remains readable at thumbnail size.",
+        "Supplied copy, facts, geometry, subject identity, materials, and spatial relationships remain internally consistent."
+      ]
+    },
+    "pitfalls": {
+      "zh": [
+        "不要为了炫酷堆叠小图表",
+        "不要把关键数据只靠颜色区分"
+      ],
+      "en": [
+        "Do not replace missing Text To Image inputs with invented brands, statistics, identities, or filler copy.",
+        "Do not add unrelated objects, competing layouts, unexplained variants, or decorative structure that weakens the requested outcome.",
+        "Do not trade factual accuracy, legibility, physical plausibility, or subject consistency for surface-level style effects."
+      ]
+    },
     "execution": {
       "zh": {
         "input_policy": "缺失的必填变量必须先向需求方确认；不得用虚构品牌、数据、人物身份或文字补齐。",
@@ -16796,17 +17062,8 @@ export const templates = [
     ],
     "prompt": {
       "zh": "## 角色\n你是一名资深图像艺术总监与制作设计师。请把需求转化为一个受控的最终视觉交付物，而不是松散的灵感板。\n\n## 模板目标\n杂志封面系统：用统一版式、主题图像和文字层级生成可延展的封面方向。\n\n## 必填需求字段\n- `{{publication}}`（出版物）：请填写「出版物」的具体内容，至少包含对象或取值范围、一个可见特征，以及它对构图、信息层级或生成结果的影响。\n- `{{issue_theme}}`（期号主题）：请填写「期号主题」的具体内容，至少包含对象或取值范围、一个可见特征，以及它对构图、信息层级或生成结果的影响。\n- `{{cover_subject}}`（封面主体）：请填写「封面主体」的具体内容，至少包含对象或取值范围、一个可见特征，以及它对构图、信息层级或生成结果的影响。\n- `{{mood}}`（氛围）：请说明「氛围」的媒介、时代或审美方向、情绪强度与细节密度，并给出 1–2 个可见特征。\n- `{{cover_lines}}`（封面文案）：请提供「封面文案」的准确文字；如不需要可读文字，请明确写“无文字”，不要让模型自行编写。\n\n## 需求解析协议\n- 每个变量都是生产决策。缺失字段必须先向需求方确认；不得静默替换为泛化商品、统计数据、品牌主张或人物身份。\n- 在选择风格词前，先锁定交付类型、受众、画幅比例、焦点主体、信息密度和参考图保留要求。\n- 如需求给出精确文案、源素材、尺寸或合规主张，将其作为受控输入保留，不得即兴改写。\n\n## 输出契约\n- 只生成一张完成的 poster-editorial 成品；不要生成情绪板、多方案展示板、联系表、过程图、样机拼贴或没有解释的变体。\n- 在添加视觉细节前，先建立主焦点、次级信息层与有意识的留白。\n- 所有命名对象、视觉关系、镜头/透视逻辑和材质行为必须内部一致。\n\n## 制作结构\n- 建立一个主视觉或标题区、一个次级信息区与有意识的留白；缩略图状态下也必须先读出层级。\n\n## 质量门槛\n- 刊头空间固定\n- 主封面语句最醒目\n- 人像或主体不遮挡关键信息\n- 先在缩略图尺度检查层级，再在完整尺寸检查事实准确性、文字可读性、几何、材质行为与参考图保留要求。\n\n## 不可违反的约束\n- 兼顾声明的模型兼容性，但始终以需求本身为最高优先级。\n- 仅在需求提供精确短文案时才渲染文字；绝不虚构真实品牌、商标、没有来源的数据或填充文案。\n- 输出前检查重复主体、不可能几何、冲突阴影、错误肢体、不可读微型文字与意外水印。\n\n## 避免\n- 不要使用小到不可读的卖点\n- 不要让每期封面结构完全失控",
-      "en": "## Role\nAct as a senior image art director and production designer. Convert the supplied brief into one controlled visual deliverable, not a loose inspiration board.\n\n## Required brief fields\n- `{{publication}}` (Publication): Provide a concrete value for Publication, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{issue_theme}}` (Issue Theme): Provide a concrete value for Issue Theme, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{cover_subject}}` (Cover Subject): Provide a concrete value for Cover Subject, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{mood}}` (Mood): Describe the medium, era or aesthetic direction, emotional intensity, detail density, and 1–2 visible cues for Mood.\n- `{{cover_lines}}` (Cover Lines): Provide the exact copy for Cover Lines; if readable copy is not needed, explicitly state “no text” rather than letting the model invent it.\n\n## Brief-resolution protocol\n- Treat every variable as a production decision. If a field is absent, request it before rendering; never silently substitute a generic product, statistic, brand claim, or identity.\n- Lock deliverable, audience, aspect ratio, focal subject, information density, and reference-preservation requirements before choosing style adjectives.\n- When exact copy, source assets, measurements, or legal claims are supplied, preserve them as controlled inputs rather than improvising replacements.\n\n## Core task\nCreate a premium magazine cover for {{publication}} about {{issue_theme}}. Feature {{cover_subject}} with a {{mood}} visual treatment. Establish a recognizable masthead zone, a dominant cover line, and 3 concise supporting {{cover_lines}}. Keep the system balanced, tactile, and suitable for a recurring publication series.\n\n## Output contract\n- Produce exactly one finished poster-editorial deliverable. Do not create a moodboard, multi-option presentation board, contact sheet, process diagram, mockup collage, or unexplained variants.\n- Establish a primary focal point, secondary information layer, and deliberate negative space before adding visual detail.\n- Keep all named objects, visual relationships, camera/perspective logic, and material behavior internally consistent.\n\n## Production structure\n- Establish one dominant visual or title zone, a secondary information zone, and intentional negative space. The composition must read at thumbnail size before adding detail.\n\n## Quality gates\n- 刊头空间固定\n- 主封面语句最醒目\n- 人像或主体不遮挡关键信息\n- Review at thumbnail size first, then inspect factual accuracy, legibility, geometry, material behavior, and any reference-preservation requirement at full size.\n\n## Non-negotiable constraints\n- Respect the requested model compatibility, but prioritize the brief over any model-specific ornament.\n- Use short, exact text only when the brief provides it; never invent a real brand, a trademark, unsupported statistics, or filler copy.\n- Check for duplicate subjects, impossible geometry, incoherent shadows, broken anatomy, unreadable micro-text, and accidental watermarks before finalizing.\n\n## Avoid\n- 不要使用小到不可读的卖点\n- 不要让每期封面结构完全失控"
+      "en": "## Role\nAct as a senior image art director and production designer. Convert the supplied brief into one controlled visual deliverable, not a loose inspiration board.\n\n## Required brief fields\n- `{{publication}}` (Publication): Provide a concrete value for Publication, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{issue_theme}}` (Issue Theme): Provide a concrete value for Issue Theme, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{cover_subject}}` (Cover Subject): Provide a concrete value for Cover Subject, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{mood}}` (Mood): Describe the medium, era or aesthetic direction, emotional intensity, detail density, and 1–2 visible cues for Mood.\n- `{{cover_lines}}` (Cover Lines): Provide the exact copy for Cover Lines; if readable copy is not needed, explicitly state “no text” rather than letting the model invent it.\n\n## Brief-resolution protocol\n- Treat every variable as a production decision. If a field is absent, request it before rendering; never silently substitute a generic product, statistic, brand claim, or identity.\n- Lock deliverable, audience, aspect ratio, focal subject, information density, and reference-preservation requirements before choosing style adjectives.\n- When exact copy, source assets, measurements, or legal claims are supplied, preserve them as controlled inputs rather than improvising replacements.\n\n## Core task\nCreate a premium magazine cover for {{publication}} about {{issue_theme}}. Feature {{cover_subject}} with a {{mood}} visual treatment. Establish a recognizable masthead zone, a dominant cover line, and 3 concise supporting {{cover_lines}}. Keep the system balanced, tactile, and suitable for a recurring publication series.\n\n## Output contract\n- Produce exactly one finished poster-editorial deliverable. Do not create a moodboard, multi-option presentation board, contact sheet, process diagram, mockup collage, or unexplained variants.\n- Establish a primary focal point, secondary information layer, and deliberate negative space before adding visual detail.\n- Keep all named objects, visual relationships, camera/perspective logic, and material behavior internally consistent.\n\n## Production structure\n- Establish one dominant visual or title zone, a secondary information zone, and intentional negative space. The composition must read at thumbnail size before adding detail.\n\n## Quality gates\n- Every required field is represented by a concrete, reviewable production decision.\n- The Poster Editorial output has one clear focal hierarchy and remains readable at thumbnail size.\n- Supplied copy, facts, geometry, subject identity, materials, and spatial relationships remain internally consistent.\n- Review at thumbnail size first, then inspect factual accuracy, legibility, geometry, material behavior, and any reference-preservation requirement at full size.\n\n## Non-negotiable constraints\n- Respect the requested model compatibility, but prioritize the brief over any model-specific ornament.\n- Use short, exact text only when the brief provides it; never invent a real brand, a trademark, unsupported statistics, or filler copy.\n- Check for duplicate subjects, impossible geometry, incoherent shadows, broken anatomy, unreadable micro-text, and accidental watermarks before finalizing.\n\n## Avoid\n- Do not replace missing Text To Image inputs with invented brands, statistics, identities, or filler copy.\n- Do not add unrelated objects, competing layouts, unexplained variants, or decorative structure that weakens the requested outcome.\n- Do not trade factual accuracy, legibility, physical plausibility, or subject consistency for surface-level style effects."
     },
-    "checklist": [
-      "刊头空间固定",
-      "主封面语句最醒目",
-      "人像或主体不遮挡关键信息"
-    ],
-    "pitfalls": [
-      "不要使用小到不可读的卖点",
-      "不要让每期封面结构完全失控"
-    ],
     "variable_labels": [
       {
         "id": "publication",
@@ -16854,6 +17111,29 @@ export const templates = [
         }
       }
     ],
+    "checklist": {
+      "zh": [
+        "刊头空间固定",
+        "主封面语句最醒目",
+        "人像或主体不遮挡关键信息"
+      ],
+      "en": [
+        "Every required field is represented by a concrete, reviewable production decision.",
+        "The Poster Editorial output has one clear focal hierarchy and remains readable at thumbnail size.",
+        "Supplied copy, facts, geometry, subject identity, materials, and spatial relationships remain internally consistent."
+      ]
+    },
+    "pitfalls": {
+      "zh": [
+        "不要使用小到不可读的卖点",
+        "不要让每期封面结构完全失控"
+      ],
+      "en": [
+        "Do not replace missing Text To Image inputs with invented brands, statistics, identities, or filler copy.",
+        "Do not add unrelated objects, competing layouts, unexplained variants, or decorative structure that weakens the requested outcome.",
+        "Do not trade factual accuracy, legibility, physical plausibility, or subject consistency for surface-level style effects."
+      ]
+    },
     "execution": {
       "zh": {
         "input_policy": "缺失的必填变量必须先向需求方确认；不得用虚构品牌、数据、人物身份或文字补齐。",
@@ -16930,18 +17210,9 @@ export const templates = [
       "palette"
     ],
     "prompt": {
-      "zh": "## 角色\n你是一名资深图像艺术总监与制作设计师。请把需求转化为一个受控的最终视觉交付物，而不是松散的灵感板。\n\n## 模板目标\n活动主视觉海报：为活动、展览与发布会建立强视觉锚点和排版秩序。\n\n## 必填需求字段\n- `{{event_name}}`（活动名称）：请提供「活动名称」的准确文字；如不需要可读文字，请明确写“无文字”，不要让模型自行编写。\n- `{{date_location}}`（日期地点）：请明确「日期地点」的地点、时间、空间尺度、关键环境元素及其与主体的关系。\n- `{{theme}}`（主题）：请填写「主题」的具体内容，至少包含对象或取值范围、一个可见特征，以及它对构图、信息层级或生成结果的影响。\n- `{{visual_metaphor}}`（视觉视觉隐喻）：请说明「视觉视觉隐喻」的媒介、时代或审美方向、情绪强度与细节密度，并给出 1–2 个可见特征。\n- `{{palette}}`（色板）：请给出「色板」的 2–4 个明确色名、主辅比例和使用位置；不要只写“高级”或“有氛围”。\n\n## 需求解析协议\n- 每个变量都是生产决策。缺失字段必须先向需求方确认；不得静默替换为泛化商品、统计数据、品牌主张或人物身份。\n- 在选择风格词前，先锁定交付类型、受众、画幅比例、焦点主体、信息密度和参考图保留要求。\n- 如需求给出精确文案、源素材、尺寸或合规主张，将其作为受控输入保留，不得即兴改写。\n\n## 输出契约\n- 只生成一张完成的 poster-editorial 成品；不要生成情绪板、多方案展示板、联系表、过程图、样机拼贴或没有解释的变体。\n- 在添加视觉细节前，先建立主焦点、次级信息层与有意识的留白。\n- 所有命名对象、视觉关系、镜头/透视逻辑和材质行为必须内部一致。\n\n## 制作结构\n- 建立一个主视觉或标题区、一个次级信息区与有意识的留白；缩略图状态下也必须先读出层级。\n\n## 质量门槛\n- 标题有预留区域\n- 日期地点处在稳定信息区\n- 主体轮廓在缩略图中仍可辨识\n- 先在缩略图尺度检查层级，再在完整尺寸检查事实准确性、文字可读性、几何、材质行为与参考图保留要求。\n\n## 不可违反的约束\n- 兼顾声明的模型兼容性，但始终以需求本身为最高优先级。\n- 仅在需求提供精确短文案时才渲染文字；绝不虚构真实品牌、商标、没有来源的数据或填充文案。\n- 输出前检查重复主体、不可能几何、冲突阴影、错误肢体、不可读微型文字与意外水印。\n\n## 避免\n- 不要在主体与标题之间制造竞争\n- 不要使用过多字体风格",
-      "en": "## Role\nAct as a senior image art director and production designer. Convert the supplied brief into one controlled visual deliverable, not a loose inspiration board.\n\n## Required brief fields\n- `{{event_name}}` (Event Name): Provide the exact copy for Event Name; if readable copy is not needed, explicitly state “no text” rather than letting the model invent it.\n- `{{date_location}}` (Date Location): Specify the place, time, scale, key environmental elements, and their relationship to the subject for Date Location.\n- `{{theme}}` (Theme): Provide a concrete value for Theme, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{visual_metaphor}}` (Visual Metaphor): Describe the medium, era or aesthetic direction, emotional intensity, detail density, and 1–2 visible cues for Visual Metaphor.\n- `{{palette}}` (Palette): Specify 2–4 named colors, their primary/secondary balance, and where Palette appears; avoid vague terms such as “premium” or “atmospheric”.\n\n## Brief-resolution protocol\n- Treat every variable as a production decision. If a field is absent, request it before rendering; never silently substitute a generic product, statistic, brand claim, or identity.\n- Lock deliverable, audience, aspect ratio, focal subject, information density, and reference-preservation requirements before choosing style adjectives.\n- When exact copy, source assets, measurements, or legal claims are supplied, preserve them as controlled inputs rather than improvising replacements.\n\n## Core task\nArt-direct a vertical campaign poster for {{event_name}}. The theme is {{theme}}, expressed through {{visual_metaphor}}. Use {{palette}}, one dominant focal element, an intentional empty area for type, and a disciplined grid for {{date_location}}. The composition should feel editorial, memorable, and print-ready.\n\n## Output contract\n- Produce exactly one finished poster-editorial deliverable. Do not create a moodboard, multi-option presentation board, contact sheet, process diagram, mockup collage, or unexplained variants.\n- Establish a primary focal point, secondary information layer, and deliberate negative space before adding visual detail.\n- Keep all named objects, visual relationships, camera/perspective logic, and material behavior internally consistent.\n\n## Production structure\n- Establish one dominant visual or title zone, a secondary information zone, and intentional negative space. The composition must read at thumbnail size before adding detail.\n\n## Quality gates\n- 标题有预留区域\n- 日期地点处在稳定信息区\n- 主体轮廓在缩略图中仍可辨识\n- Review at thumbnail size first, then inspect factual accuracy, legibility, geometry, material behavior, and any reference-preservation requirement at full size.\n\n## Non-negotiable constraints\n- Respect the requested model compatibility, but prioritize the brief over any model-specific ornament.\n- Use short, exact text only when the brief provides it; never invent a real brand, a trademark, unsupported statistics, or filler copy.\n- Check for duplicate subjects, impossible geometry, incoherent shadows, broken anatomy, unreadable micro-text, and accidental watermarks before finalizing.\n\n## Avoid\n- 不要在主体与标题之间制造竞争\n- 不要使用过多字体风格"
+      "zh": "## 角色\n你是一名资深图像艺术总监与制作设计师。请把需求转化为一个受控的最终视觉交付物，而不是松散的灵感板。\n\n## 模板目标\n活动主视觉海报：为活动、展览与发布会建立强视觉锚点和排版秩序。\n\n## 必填需求字段\n- `{{event_name}}`（活动名称）：请提供「活动名称」的准确文字；如不需要可读文字，请明确写“无文字”，不要让模型自行编写。\n- `{{date_location}}`（日期地点）：请明确「日期地点」的地点、时间、空间尺度、关键环境元素及其与主体的关系。\n- `{{theme}}`（主题）：请填写「主题」的具体内容，至少包含对象或取值范围、一个可见特征，以及它对构图、信息层级或生成结果的影响。\n- `{{visual_metaphor}}`（视觉隐喻）：请说明「视觉隐喻」的媒介、时代或审美方向、情绪强度与细节密度，并给出 1–2 个可见特征。\n- `{{palette}}`（色板）：请给出「色板」的 2–4 个明确色名、主辅比例和使用位置；不要只写“高级”或“有氛围”。\n\n## 需求解析协议\n- 每个变量都是生产决策。缺失字段必须先向需求方确认；不得静默替换为泛化商品、统计数据、品牌主张或人物身份。\n- 在选择风格词前，先锁定交付类型、受众、画幅比例、焦点主体、信息密度和参考图保留要求。\n- 如需求给出精确文案、源素材、尺寸或合规主张，将其作为受控输入保留，不得即兴改写。\n\n## 输出契约\n- 只生成一张完成的 poster-editorial 成品；不要生成情绪板、多方案展示板、联系表、过程图、样机拼贴或没有解释的变体。\n- 在添加视觉细节前，先建立主焦点、次级信息层与有意识的留白。\n- 所有命名对象、视觉关系、镜头/透视逻辑和材质行为必须内部一致。\n\n## 制作结构\n- 建立一个主视觉或标题区、一个次级信息区与有意识的留白；缩略图状态下也必须先读出层级。\n\n## 质量门槛\n- 标题有预留区域\n- 日期地点处在稳定信息区\n- 主体轮廓在缩略图中仍可辨识\n- 先在缩略图尺度检查层级，再在完整尺寸检查事实准确性、文字可读性、几何、材质行为与参考图保留要求。\n\n## 不可违反的约束\n- 兼顾声明的模型兼容性，但始终以需求本身为最高优先级。\n- 仅在需求提供精确短文案时才渲染文字；绝不虚构真实品牌、商标、没有来源的数据或填充文案。\n- 输出前检查重复主体、不可能几何、冲突阴影、错误肢体、不可读微型文字与意外水印。\n\n## 避免\n- 不要在主体与标题之间制造竞争\n- 不要使用过多字体风格",
+      "en": "## Role\nAct as a senior image art director and production designer. Convert the supplied brief into one controlled visual deliverable, not a loose inspiration board.\n\n## Required brief fields\n- `{{event_name}}` (Event Name): Provide the exact copy for Event Name; if readable copy is not needed, explicitly state “no text” rather than letting the model invent it.\n- `{{date_location}}` (Date Location): Specify the place, time, scale, key environmental elements, and their relationship to the subject for Date Location.\n- `{{theme}}` (Theme): Provide a concrete value for Theme, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{visual_metaphor}}` (Visual Metaphor): Describe the medium, era or aesthetic direction, emotional intensity, detail density, and 1–2 visible cues for Visual Metaphor.\n- `{{palette}}` (Palette): Specify 2–4 named colors, their primary/secondary balance, and where Palette appears; avoid vague terms such as “premium” or “atmospheric”.\n\n## Brief-resolution protocol\n- Treat every variable as a production decision. If a field is absent, request it before rendering; never silently substitute a generic product, statistic, brand claim, or identity.\n- Lock deliverable, audience, aspect ratio, focal subject, information density, and reference-preservation requirements before choosing style adjectives.\n- When exact copy, source assets, measurements, or legal claims are supplied, preserve them as controlled inputs rather than improvising replacements.\n\n## Core task\nArt-direct a vertical campaign poster for {{event_name}}. The theme is {{theme}}, expressed through {{visual_metaphor}}. Use {{palette}}, one dominant focal element, an intentional empty area for type, and a disciplined grid for {{date_location}}. The composition should feel editorial, memorable, and print-ready.\n\n## Output contract\n- Produce exactly one finished poster-editorial deliverable. Do not create a moodboard, multi-option presentation board, contact sheet, process diagram, mockup collage, or unexplained variants.\n- Establish a primary focal point, secondary information layer, and deliberate negative space before adding visual detail.\n- Keep all named objects, visual relationships, camera/perspective logic, and material behavior internally consistent.\n\n## Production structure\n- Establish one dominant visual or title zone, a secondary information zone, and intentional negative space. The composition must read at thumbnail size before adding detail.\n\n## Quality gates\n- Every required field is represented by a concrete, reviewable production decision.\n- The Poster Editorial output has one clear focal hierarchy and remains readable at thumbnail size.\n- Supplied copy, facts, geometry, subject identity, materials, and spatial relationships remain internally consistent.\n- Review at thumbnail size first, then inspect factual accuracy, legibility, geometry, material behavior, and any reference-preservation requirement at full size.\n\n## Non-negotiable constraints\n- Respect the requested model compatibility, but prioritize the brief over any model-specific ornament.\n- Use short, exact text only when the brief provides it; never invent a real brand, a trademark, unsupported statistics, or filler copy.\n- Check for duplicate subjects, impossible geometry, incoherent shadows, broken anatomy, unreadable micro-text, and accidental watermarks before finalizing.\n\n## Avoid\n- Do not replace missing Text To Image inputs with invented brands, statistics, identities, or filler copy.\n- Do not add unrelated objects, competing layouts, unexplained variants, or decorative structure that weakens the requested outcome.\n- Do not trade factual accuracy, legibility, physical plausibility, or subject consistency for surface-level style effects."
     },
-    "checklist": [
-      "标题有预留区域",
-      "日期地点处在稳定信息区",
-      "主体轮廓在缩略图中仍可辨识"
-    ],
-    "pitfalls": [
-      "不要在主体与标题之间制造竞争",
-      "不要使用过多字体风格"
-    ],
     "variable_labels": [
       {
         "id": "event_name",
@@ -16972,10 +17243,10 @@ export const templates = [
       },
       {
         "id": "visual_metaphor",
-        "zh": "视觉视觉隐喻",
+        "zh": "视觉隐喻",
         "en": "Visual Metaphor",
         "description": {
-          "zh": "请说明「视觉视觉隐喻」的媒介、时代或审美方向、情绪强度与细节密度，并给出 1–2 个可见特征。",
+          "zh": "请说明「视觉隐喻」的媒介、时代或审美方向、情绪强度与细节密度，并给出 1–2 个可见特征。",
           "en": "Describe the medium, era or aesthetic direction, emotional intensity, detail density, and 1–2 visible cues for Visual Metaphor."
         }
       },
@@ -16989,6 +17260,29 @@ export const templates = [
         }
       }
     ],
+    "checklist": {
+      "zh": [
+        "标题有预留区域",
+        "日期地点处在稳定信息区",
+        "主体轮廓在缩略图中仍可辨识"
+      ],
+      "en": [
+        "Every required field is represented by a concrete, reviewable production decision.",
+        "The Poster Editorial output has one clear focal hierarchy and remains readable at thumbnail size.",
+        "Supplied copy, facts, geometry, subject identity, materials, and spatial relationships remain internally consistent."
+      ]
+    },
+    "pitfalls": {
+      "zh": [
+        "不要在主体与标题之间制造竞争",
+        "不要使用过多字体风格"
+      ],
+      "en": [
+        "Do not replace missing Text To Image inputs with invented brands, statistics, identities, or filler copy.",
+        "Do not add unrelated objects, competing layouts, unexplained variants, or decorative structure that weakens the requested outcome.",
+        "Do not trade factual accuracy, legibility, physical plausibility, or subject consistency for surface-level style effects."
+      ]
+    },
     "execution": {
       "zh": {
         "input_policy": "缺失的必填变量必须先向需求方确认；不得用虚构品牌、数据、人物身份或文字补齐。",
@@ -17066,17 +17360,8 @@ export const templates = [
     ],
     "prompt": {
       "zh": "## 角色\n你是一名资深图像艺术总监与制作设计师。请把需求转化为一个受控的最终视觉交付物，而不是松散的灵感板。\n\n## 模板目标\n电商详情页模块：用卖点、对比和使用情境搭建完整商品详情页。\n\n## 必填需求字段\n- `{{product}}`（产品）：请给出「产品」的具体对象、外形或功能、关键材质与不可改变的识别特征。\n- `{{customer_problem}}`（客户问题）：请说明「客户问题」对应的人群、使用情境和关注重点，使内容密度与表达方式可被准确判断。\n- `{{top_features}}`（核心功能）：请填写「核心功能」的具体内容，至少包含对象或取值范围、一个可见特征，以及它对构图、信息层级或生成结果的影响。\n- `{{proof_point}}`（证据要点）：请填写「证据要点」的具体内容，至少包含对象或取值范围、一个可见特征，以及它对构图、信息层级或生成结果的影响。\n- `{{visual_style}}`（视觉风格）：请说明「视觉风格」的媒介、时代或审美方向、情绪强度与细节密度，并给出 1–2 个可见特征。\n\n## 需求解析协议\n- 每个变量都是生产决策。缺失字段必须先向需求方确认；不得静默替换为泛化商品、统计数据、品牌主张或人物身份。\n- 在选择风格词前，先锁定交付类型、受众、画幅比例、焦点主体、信息密度和参考图保留要求。\n- 如需求给出精确文案、源素材、尺寸或合规主张，将其作为受控输入保留，不得即兴改写。\n\n## 输出契约\n- 只生成一张完成的 product-commerce 成品；不要生成情绪板、多方案展示板、联系表、过程图、样机拼贴或没有解释的变体。\n- 在添加视觉细节前，先建立主焦点、次级信息层与有意识的留白。\n- 所有命名对象、视觉关系、镜头/透视逻辑和材质行为必须内部一致。\n\n## 制作结构\n- 保持商品几何、材质和尺度可信；商品必须是唯一焦点，用可控布光、接触阴影和文案留白替代无关道具。\n\n## 质量门槛\n- 每一屏只有一个说服任务\n- 参数表信息可快速比对\n- 卖点图与文字一一对应\n- 先在缩略图尺度检查层级，再在完整尺寸检查事实准确性、文字可读性、几何、材质行为与参考图保留要求。\n\n## 不可违反的约束\n- 兼顾声明的模型兼容性，但始终以需求本身为最高优先级。\n- 仅在需求提供精确短文案时才渲染文字；绝不虚构真实品牌、商标、没有来源的数据或填充文案。\n- 输出前检查重复主体、不可能几何、冲突阴影、错误肢体、不可读微型文字与意外水印。\n\n## 避免\n- 不要重复表达同一个卖点\n- 不要用夸张视觉替代真实产品信息",
-      "en": "## Role\nAct as a senior image art director and production designer. Convert the supplied brief into one controlled visual deliverable, not a loose inspiration board.\n\n## Required brief fields\n- `{{product}}` (Product): Provide the specific object, form or function, key materials, and non-negotiable identity features for Product.\n- `{{customer_problem}}` (Customer Problem): Define the people, usage context, and priority for Customer Problem so information density and tone can be chosen deliberately.\n- `{{top_features}}` (Top Features): Provide a concrete value for Top Features, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{proof_point}}` (Proof Point): Provide a concrete value for Proof Point, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{visual_style}}` (Visual Style): Describe the medium, era or aesthetic direction, emotional intensity, detail density, and 1–2 visible cues for Visual Style.\n\n## Brief-resolution protocol\n- Treat every variable as a production decision. If a field is absent, request it before rendering; never silently substitute a generic product, statistic, brand claim, or identity.\n- Lock deliverable, audience, aspect ratio, focal subject, information density, and reference-preservation requirements before choosing style adjectives.\n- When exact copy, source assets, measurements, or legal claims are supplied, preserve them as controlled inputs rather than improvising replacements.\n\n## Core task\nDesign a long-form e-commerce product detail page for {{product}}. Start from {{customer_problem}}, then use modules for {{top_features}}, an evidence block for {{proof_point}}, and an in-context usage scene. Use {{visual_style}}. Make product images, comparison rows, headings, and CTA areas easy to scan on mobile.\n\n## Output contract\n- Produce exactly one finished product-commerce deliverable. Do not create a moodboard, multi-option presentation board, contact sheet, process diagram, mockup collage, or unexplained variants.\n- Establish a primary focal point, secondary information layer, and deliberate negative space before adding visual detail.\n- Keep all named objects, visual relationships, camera/perspective logic, and material behavior internally consistent.\n\n## Production structure\n- Preserve product geometry, material, and believable scale. Make the product the unambiguous hero; support it with controlled lighting, contact shadow, and copy-safe space rather than unrelated props.\n\n## Quality gates\n- 每一屏只有一个说服任务\n- 参数表信息可快速比对\n- 卖点图与文字一一对应\n- Review at thumbnail size first, then inspect factual accuracy, legibility, geometry, material behavior, and any reference-preservation requirement at full size.\n\n## Non-negotiable constraints\n- Respect the requested model compatibility, but prioritize the brief over any model-specific ornament.\n- Use short, exact text only when the brief provides it; never invent a real brand, a trademark, unsupported statistics, or filler copy.\n- Check for duplicate subjects, impossible geometry, incoherent shadows, broken anatomy, unreadable micro-text, and accidental watermarks before finalizing.\n\n## Avoid\n- 不要重复表达同一个卖点\n- 不要用夸张视觉替代真实产品信息"
+      "en": "## Role\nAct as a senior image art director and production designer. Convert the supplied brief into one controlled visual deliverable, not a loose inspiration board.\n\n## Required brief fields\n- `{{product}}` (Product): Provide the specific object, form or function, key materials, and non-negotiable identity features for Product.\n- `{{customer_problem}}` (Customer Problem): Define the people, usage context, and priority for Customer Problem so information density and tone can be chosen deliberately.\n- `{{top_features}}` (Top Features): Provide a concrete value for Top Features, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{proof_point}}` (Proof Point): Provide a concrete value for Proof Point, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{visual_style}}` (Visual Style): Describe the medium, era or aesthetic direction, emotional intensity, detail density, and 1–2 visible cues for Visual Style.\n\n## Brief-resolution protocol\n- Treat every variable as a production decision. If a field is absent, request it before rendering; never silently substitute a generic product, statistic, brand claim, or identity.\n- Lock deliverable, audience, aspect ratio, focal subject, information density, and reference-preservation requirements before choosing style adjectives.\n- When exact copy, source assets, measurements, or legal claims are supplied, preserve them as controlled inputs rather than improvising replacements.\n\n## Core task\nDesign a long-form e-commerce product detail page for {{product}}. Start from {{customer_problem}}, then use modules for {{top_features}}, an evidence block for {{proof_point}}, and an in-context usage scene. Use {{visual_style}}. Make product images, comparison rows, headings, and CTA areas easy to scan on mobile.\n\n## Output contract\n- Produce exactly one finished product-commerce deliverable. Do not create a moodboard, multi-option presentation board, contact sheet, process diagram, mockup collage, or unexplained variants.\n- Establish a primary focal point, secondary information layer, and deliberate negative space before adding visual detail.\n- Keep all named objects, visual relationships, camera/perspective logic, and material behavior internally consistent.\n\n## Production structure\n- Preserve product geometry, material, and believable scale. Make the product the unambiguous hero; support it with controlled lighting, contact shadow, and copy-safe space rather than unrelated props.\n\n## Quality gates\n- Every required field is represented by a concrete, reviewable production decision.\n- The Product Commerce output has one clear focal hierarchy and remains readable at thumbnail size.\n- Supplied copy, facts, geometry, subject identity, materials, and spatial relationships remain internally consistent.\n- Review at thumbnail size first, then inspect factual accuracy, legibility, geometry, material behavior, and any reference-preservation requirement at full size.\n\n## Non-negotiable constraints\n- Respect the requested model compatibility, but prioritize the brief over any model-specific ornament.\n- Use short, exact text only when the brief provides it; never invent a real brand, a trademark, unsupported statistics, or filler copy.\n- Check for duplicate subjects, impossible geometry, incoherent shadows, broken anatomy, unreadable micro-text, and accidental watermarks before finalizing.\n\n## Avoid\n- Do not replace missing Text To Image inputs with invented brands, statistics, identities, or filler copy.\n- Do not add unrelated objects, competing layouts, unexplained variants, or decorative structure that weakens the requested outcome.\n- Do not trade factual accuracy, legibility, physical plausibility, or subject consistency for surface-level style effects."
     },
-    "checklist": [
-      "每一屏只有一个说服任务",
-      "参数表信息可快速比对",
-      "卖点图与文字一一对应"
-    ],
-    "pitfalls": [
-      "不要重复表达同一个卖点",
-      "不要用夸张视觉替代真实产品信息"
-    ],
     "variable_labels": [
       {
         "id": "product",
@@ -17124,6 +17409,29 @@ export const templates = [
         }
       }
     ],
+    "checklist": {
+      "zh": [
+        "每一屏只有一个说服任务",
+        "参数表信息可快速比对",
+        "卖点图与文字一一对应"
+      ],
+      "en": [
+        "Every required field is represented by a concrete, reviewable production decision.",
+        "The Product Commerce output has one clear focal hierarchy and remains readable at thumbnail size.",
+        "Supplied copy, facts, geometry, subject identity, materials, and spatial relationships remain internally consistent."
+      ]
+    },
+    "pitfalls": {
+      "zh": [
+        "不要重复表达同一个卖点",
+        "不要用夸张视觉替代真实产品信息"
+      ],
+      "en": [
+        "Do not replace missing Text To Image inputs with invented brands, statistics, identities, or filler copy.",
+        "Do not add unrelated objects, competing layouts, unexplained variants, or decorative structure that weakens the requested outcome.",
+        "Do not trade factual accuracy, legibility, physical plausibility, or subject consistency for surface-level style effects."
+      ]
+    },
     "execution": {
       "zh": {
         "input_policy": "缺失的必填变量必须先向需求方确认；不得用虚构品牌、数据、人物身份或文字补齐。",
@@ -17202,17 +17510,8 @@ export const templates = [
     ],
     "prompt": {
       "zh": "## 角色\n你是一名资深图像艺术总监与制作设计师。请把需求转化为一个受控的最终视觉交付物，而不是松散的灵感板。\n\n## 模板目标\n社媒轮播内容：为社交平台设计强首屏、连续叙事和结尾行动引导。\n\n## 必填需求字段\n- `{{topic}}`（主题）：请填写「主题」的具体内容，至少包含对象或取值范围、一个可见特征，以及它对构图、信息层级或生成结果的影响。\n- `{{audience}}`（受众）：请说明「受众」对应的人群、使用情境和关注重点，使内容密度与表达方式可被准确判断。\n- `{{hook}}`（钩子）：请写明「钩子」发生了什么、谁在行动、动作结果或情绪转折是什么，确保画面有单一可读节点。\n- `{{key_points}}`（关键要点）：请列出「关键要点」中必须呈现的具体项目、数量范围和优先顺序；不得用虚构数据补全。\n- `{{call_to_action}}`（行动行动）：请写明「行动行动」发生了什么、谁在行动、动作结果或情绪转折是什么，确保画面有单一可读节点。\n\n## 需求解析协议\n- 每个变量都是生产决策。缺失字段必须先向需求方确认；不得静默替换为泛化商品、统计数据、品牌主张或人物身份。\n- 在选择风格词前，先锁定交付类型、受众、画幅比例、焦点主体、信息密度和参考图保留要求。\n- 如需求给出精确文案、源素材、尺寸或合规主张，将其作为受控输入保留，不得即兴改写。\n\n## 输出契约\n- 只生成一张完成的 poster-editorial 成品；不要生成情绪板、多方案展示板、联系表、过程图、样机拼贴或没有解释的变体。\n- 在添加视觉细节前，先建立主焦点、次级信息层与有意识的留白。\n- 所有命名对象、视觉关系、镜头/透视逻辑和材质行为必须内部一致。\n\n## 制作结构\n- 建立一个主视觉或标题区、一个次级信息区与有意识的留白；缩略图状态下也必须先读出层级。\n- 系列工作流先锁定主体比例、色彩角色、镜头语言与版式语法，再变化场景内容；每张图都必须属于同一视觉系统。\n\n## 质量门槛\n- 第一页在缩略图中可读\n- 每页只表达一个观点\n- 尾页有明确行动\n- 先在缩略图尺度检查层级，再在完整尺寸检查事实准确性、文字可读性、几何、材质行为与参考图保留要求。\n\n## 不可违反的约束\n- 兼顾声明的模型兼容性，但始终以需求本身为最高优先级。\n- 仅在需求提供精确短文案时才渲染文字；绝不虚构真实品牌、商标、没有来源的数据或填充文案。\n- 输出前检查重复主体、不可能几何、冲突阴影、错误肢体、不可读微型文字与意外水印。\n\n## 避免\n- 不要把文章截图直接塞进轮播\n- 不要让每页换一种视觉语言",
-      "en": "## Role\nAct as a senior image art director and production designer. Convert the supplied brief into one controlled visual deliverable, not a loose inspiration board.\n\n## Required brief fields\n- `{{topic}}` (Topic): Provide a concrete value for Topic, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{audience}}` (Audience): Define the people, usage context, and priority for Audience so information density and tone can be chosen deliberately.\n- `{{hook}}` (Hook): State what happens in Hook, who acts, and the resulting action or emotional turn so the image has one readable beat.\n- `{{key_points}}` (Key Points): List the concrete items, quantity range, and priority order required for Key Points; do not fill gaps with fabricated data.\n- `{{call_to_action}}` (Call To Action): State what happens in Call To Action, who acts, and the resulting action or emotional turn so the image has one readable beat.\n\n## Brief-resolution protocol\n- Treat every variable as a production decision. If a field is absent, request it before rendering; never silently substitute a generic product, statistic, brand claim, or identity.\n- Lock deliverable, audience, aspect ratio, focal subject, information density, and reference-preservation requirements before choosing style adjectives.\n- When exact copy, source assets, measurements, or legal claims are supplied, preserve them as controlled inputs rather than improvising replacements.\n\n## Core task\nDesign an 8-slide social carousel about {{topic}} for {{audience}}. Open with {{hook}}, then turn {{key_points}} into one clear idea per slide and close with {{call_to_action}}. Use a repeatable layout system, large legible type, and visual continuity across the sequence.\n\n## Output contract\n- Produce exactly one finished poster-editorial deliverable. Do not create a moodboard, multi-option presentation board, contact sheet, process diagram, mockup collage, or unexplained variants.\n- Establish a primary focal point, secondary information layer, and deliberate negative space before adding visual detail.\n- Keep all named objects, visual relationships, camera/perspective logic, and material behavior internally consistent.\n\n## Production structure\n- Establish one dominant visual or title zone, a secondary information zone, and intentional negative space. The composition must read at thumbnail size before adding detail.\n- For a series, lock the subject proportions, palette roles, lens language, and layout grammar before varying scene content. Every variation must remain recognizably in the same system.\n\n## Quality gates\n- 第一页在缩略图中可读\n- 每页只表达一个观点\n- 尾页有明确行动\n- Review at thumbnail size first, then inspect factual accuracy, legibility, geometry, material behavior, and any reference-preservation requirement at full size.\n\n## Non-negotiable constraints\n- Respect the requested model compatibility, but prioritize the brief over any model-specific ornament.\n- Use short, exact text only when the brief provides it; never invent a real brand, a trademark, unsupported statistics, or filler copy.\n- Check for duplicate subjects, impossible geometry, incoherent shadows, broken anatomy, unreadable micro-text, and accidental watermarks before finalizing.\n\n## Avoid\n- 不要把文章截图直接塞进轮播\n- 不要让每页换一种视觉语言"
+      "en": "## Role\nAct as a senior image art director and production designer. Convert the supplied brief into one controlled visual deliverable, not a loose inspiration board.\n\n## Required brief fields\n- `{{topic}}` (Topic): Provide a concrete value for Topic, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{audience}}` (Audience): Define the people, usage context, and priority for Audience so information density and tone can be chosen deliberately.\n- `{{hook}}` (Hook): State what happens in Hook, who acts, and the resulting action or emotional turn so the image has one readable beat.\n- `{{key_points}}` (Key Points): List the concrete items, quantity range, and priority order required for Key Points; do not fill gaps with fabricated data.\n- `{{call_to_action}}` (Call To Action): State what happens in Call To Action, who acts, and the resulting action or emotional turn so the image has one readable beat.\n\n## Brief-resolution protocol\n- Treat every variable as a production decision. If a field is absent, request it before rendering; never silently substitute a generic product, statistic, brand claim, or identity.\n- Lock deliverable, audience, aspect ratio, focal subject, information density, and reference-preservation requirements before choosing style adjectives.\n- When exact copy, source assets, measurements, or legal claims are supplied, preserve them as controlled inputs rather than improvising replacements.\n\n## Core task\nDesign an 8-slide social carousel about {{topic}} for {{audience}}. Open with {{hook}}, then turn {{key_points}} into one clear idea per slide and close with {{call_to_action}}. Use a repeatable layout system, large legible type, and visual continuity across the sequence.\n\n## Output contract\n- Produce exactly one finished poster-editorial deliverable. Do not create a moodboard, multi-option presentation board, contact sheet, process diagram, mockup collage, or unexplained variants.\n- Establish a primary focal point, secondary information layer, and deliberate negative space before adding visual detail.\n- Keep all named objects, visual relationships, camera/perspective logic, and material behavior internally consistent.\n\n## Production structure\n- Establish one dominant visual or title zone, a secondary information zone, and intentional negative space. The composition must read at thumbnail size before adding detail.\n- For a series, lock the subject proportions, palette roles, lens language, and layout grammar before varying scene content. Every variation must remain recognizably in the same system.\n\n## Quality gates\n- Every required field is represented by a concrete, reviewable production decision.\n- The Poster Editorial output has one clear focal hierarchy and remains readable at thumbnail size.\n- Supplied copy, facts, geometry, subject identity, materials, and spatial relationships remain internally consistent.\n- Review at thumbnail size first, then inspect factual accuracy, legibility, geometry, material behavior, and any reference-preservation requirement at full size.\n\n## Non-negotiable constraints\n- Respect the requested model compatibility, but prioritize the brief over any model-specific ornament.\n- Use short, exact text only when the brief provides it; never invent a real brand, a trademark, unsupported statistics, or filler copy.\n- Check for duplicate subjects, impossible geometry, incoherent shadows, broken anatomy, unreadable micro-text, and accidental watermarks before finalizing.\n\n## Avoid\n- Do not replace missing Text To Image / Series Consistency inputs with invented brands, statistics, identities, or filler copy.\n- Do not add unrelated objects, competing layouts, unexplained variants, or decorative structure that weakens the requested outcome.\n- Do not trade factual accuracy, legibility, physical plausibility, or subject consistency for surface-level style effects."
     },
-    "checklist": [
-      "第一页在缩略图中可读",
-      "每页只表达一个观点",
-      "尾页有明确行动"
-    ],
-    "pitfalls": [
-      "不要把文章截图直接塞进轮播",
-      "不要让每页换一种视觉语言"
-    ],
     "variable_labels": [
       {
         "id": "topic",
@@ -17260,6 +17559,29 @@ export const templates = [
         }
       }
     ],
+    "checklist": {
+      "zh": [
+        "第一页在缩略图中可读",
+        "每页只表达一个观点",
+        "尾页有明确行动"
+      ],
+      "en": [
+        "Every required field is represented by a concrete, reviewable production decision.",
+        "The Poster Editorial output has one clear focal hierarchy and remains readable at thumbnail size.",
+        "Supplied copy, facts, geometry, subject identity, materials, and spatial relationships remain internally consistent."
+      ]
+    },
+    "pitfalls": {
+      "zh": [
+        "不要把文章截图直接塞进轮播",
+        "不要让每页换一种视觉语言"
+      ],
+      "en": [
+        "Do not replace missing Text To Image / Series Consistency inputs with invented brands, statistics, identities, or filler copy.",
+        "Do not add unrelated objects, competing layouts, unexplained variants, or decorative structure that weakens the requested outcome.",
+        "Do not trade factual accuracy, legibility, physical plausibility, or subject consistency for surface-level style effects."
+      ]
+    },
     "execution": {
       "zh": {
         "input_policy": "缺失的必填变量必须先向需求方确认；不得用虚构品牌、数据、人物身份或文字补齐。",
@@ -17338,17 +17660,8 @@ export const templates = [
     ],
     "prompt": {
       "zh": "## 角色\n你是一名资深图像艺术总监与制作设计师。请把需求转化为一个受控的最终视觉交付物，而不是松散的灵感板。\n\n## 模板目标\n视觉方向对比板：让团队在同一主题下快速比较不同的艺术指导方向。\n\n## 必填需求字段\n- `{{subject}}`（主体）：请填写「主体」的具体内容，至少包含对象或取值范围、一个可见特征，以及它对构图、信息层级或生成结果的影响。\n- `{{directions}}`（方向）：请填写「方向」的具体内容，至少包含对象或取值范围、一个可见特征，以及它对构图、信息层级或生成结果的影响。\n- `{{evaluation_criteria}}`（评估标准）：请列出「评估标准」中必须呈现的具体项目、数量范围和优先顺序；不得用虚构数据补全。\n- `{{format}}`（格式）：请填写「格式」的具体内容，至少包含对象或取值范围、一个可见特征，以及它对构图、信息层级或生成结果的影响。\n- `{{brand_constraints}}`（品牌约束）：请填写「品牌约束」的具体内容，至少包含对象或取值范围、一个可见特征，以及它对构图、信息层级或生成结果的影响。\n\n## 需求解析协议\n- 每个变量都是生产决策。缺失字段必须先向需求方确认；不得静默替换为泛化商品、统计数据、品牌主张或人物身份。\n- 在选择风格词前，先锁定交付类型、受众、画幅比例、焦点主体、信息密度和参考图保留要求。\n- 如需求给出精确文案、源素材、尺寸或合规主张，将其作为受控输入保留，不得即兴改写。\n\n## 输出契约\n- 只生成一张完成的 illustration-art 成品；不要生成情绪板、多方案展示板、联系表、过程图、样机拼贴或没有解释的变体。\n- 在添加视觉细节前，先建立主焦点、次级信息层与有意识的留白。\n- 所有命名对象、视觉关系、镜头/透视逻辑和材质行为必须内部一致。\n\n## 制作结构\n- 让媒介特征体现在笔触、纹理、深度和边缘处理上；使用克制色板与单一焦点，不做无方向的风格拼贴。\n- 系列工作流先锁定主体比例、色彩角色、镜头语言与版式语法，再变化场景内容；每张图都必须属于同一视觉系统。\n\n## 质量门槛\n- 所有方向共享同一评价基线\n- 每个方向有简短标签\n- 版面方便横向对比\n- 先在缩略图尺度检查层级，再在完整尺寸检查事实准确性、文字可读性、几何、材质行为与参考图保留要求。\n\n## 不可违反的约束\n- 兼顾声明的模型兼容性，但始终以需求本身为最高优先级。\n- 仅在需求提供精确短文案时才渲染文字；绝不虚构真实品牌、商标、没有来源的数据或填充文案。\n- 输出前检查重复主体、不可能几何、冲突阴影、错误肢体、不可读微型文字与意外水印。\n\n## 避免\n- 不要让每个方案更换主体或构图\n- 不要只比较颜色而忽略材质和情绪",
-      "en": "## Role\nAct as a senior image art director and production designer. Convert the supplied brief into one controlled visual deliverable, not a loose inspiration board.\n\n## Required brief fields\n- `{{subject}}` (Subject): Provide a concrete value for Subject, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{directions}}` (Directions): Provide a concrete value for Directions, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{evaluation_criteria}}` (Evaluation Criteria): List the concrete items, quantity range, and priority order required for Evaluation Criteria; do not fill gaps with fabricated data.\n- `{{format}}` (Format): Provide a concrete value for Format, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{brand_constraints}}` (Brand Constraints): Provide a concrete value for Brand Constraints, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n\n## Brief-resolution protocol\n- Treat every variable as a production decision. If a field is absent, request it before rendering; never silently substitute a generic product, statistic, brand claim, or identity.\n- Lock deliverable, audience, aspect ratio, focal subject, information density, and reference-preservation requirements before choosing style adjectives.\n- When exact copy, source assets, measurements, or legal claims are supplied, preserve them as controlled inputs rather than improvising replacements.\n\n## Core task\nCreate a visual benchmark board for {{subject}}. Compare {{directions}} in a {{format}} layout while respecting {{brand_constraints}}. Keep subject, crop, and information density consistent so the team can judge each direction against {{evaluation_criteria}} rather than incidental differences.\n\n## Output contract\n- Produce exactly one finished illustration-art deliverable. Do not create a moodboard, multi-option presentation board, contact sheet, process diagram, mockup collage, or unexplained variants.\n- Establish a primary focal point, secondary information layer, and deliberate negative space before adding visual detail.\n- Keep all named objects, visual relationships, camera/perspective logic, and material behavior internally consistent.\n\n## Production structure\n- Make the chosen medium visible in mark-making, texture, depth, and edge treatment. Use a restrained palette and a single focal hierarchy rather than an undirected style collage.\n- For a series, lock the subject proportions, palette roles, lens language, and layout grammar before varying scene content. Every variation must remain recognizably in the same system.\n\n## Quality gates\n- 所有方向共享同一评价基线\n- 每个方向有简短标签\n- 版面方便横向对比\n- Review at thumbnail size first, then inspect factual accuracy, legibility, geometry, material behavior, and any reference-preservation requirement at full size.\n\n## Non-negotiable constraints\n- Respect the requested model compatibility, but prioritize the brief over any model-specific ornament.\n- Use short, exact text only when the brief provides it; never invent a real brand, a trademark, unsupported statistics, or filler copy.\n- Check for duplicate subjects, impossible geometry, incoherent shadows, broken anatomy, unreadable micro-text, and accidental watermarks before finalizing.\n\n## Avoid\n- 不要让每个方案更换主体或构图\n- 不要只比较颜色而忽略材质和情绪"
+      "en": "## Role\nAct as a senior image art director and production designer. Convert the supplied brief into one controlled visual deliverable, not a loose inspiration board.\n\n## Required brief fields\n- `{{subject}}` (Subject): Provide a concrete value for Subject, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{directions}}` (Directions): Provide a concrete value for Directions, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{evaluation_criteria}}` (Evaluation Criteria): List the concrete items, quantity range, and priority order required for Evaluation Criteria; do not fill gaps with fabricated data.\n- `{{format}}` (Format): Provide a concrete value for Format, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{brand_constraints}}` (Brand Constraints): Provide a concrete value for Brand Constraints, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n\n## Brief-resolution protocol\n- Treat every variable as a production decision. If a field is absent, request it before rendering; never silently substitute a generic product, statistic, brand claim, or identity.\n- Lock deliverable, audience, aspect ratio, focal subject, information density, and reference-preservation requirements before choosing style adjectives.\n- When exact copy, source assets, measurements, or legal claims are supplied, preserve them as controlled inputs rather than improvising replacements.\n\n## Core task\nCreate a visual benchmark board for {{subject}}. Compare {{directions}} in a {{format}} layout while respecting {{brand_constraints}}. Keep subject, crop, and information density consistent so the team can judge each direction against {{evaluation_criteria}} rather than incidental differences.\n\n## Output contract\n- Produce exactly one finished illustration-art deliverable. Do not create a moodboard, multi-option presentation board, contact sheet, process diagram, mockup collage, or unexplained variants.\n- Establish a primary focal point, secondary information layer, and deliberate negative space before adding visual detail.\n- Keep all named objects, visual relationships, camera/perspective logic, and material behavior internally consistent.\n\n## Production structure\n- Make the chosen medium visible in mark-making, texture, depth, and edge treatment. Use a restrained palette and a single focal hierarchy rather than an undirected style collage.\n- For a series, lock the subject proportions, palette roles, lens language, and layout grammar before varying scene content. Every variation must remain recognizably in the same system.\n\n## Quality gates\n- Every required field is represented by a concrete, reviewable production decision.\n- The Illustration Art output has one clear focal hierarchy and remains readable at thumbnail size.\n- Supplied copy, facts, geometry, subject identity, materials, and spatial relationships remain internally consistent.\n- Review at thumbnail size first, then inspect factual accuracy, legibility, geometry, material behavior, and any reference-preservation requirement at full size.\n\n## Non-negotiable constraints\n- Respect the requested model compatibility, but prioritize the brief over any model-specific ornament.\n- Use short, exact text only when the brief provides it; never invent a real brand, a trademark, unsupported statistics, or filler copy.\n- Check for duplicate subjects, impossible geometry, incoherent shadows, broken anatomy, unreadable micro-text, and accidental watermarks before finalizing.\n\n## Avoid\n- Do not replace missing Text To Image / Series Consistency inputs with invented brands, statistics, identities, or filler copy.\n- Do not add unrelated objects, competing layouts, unexplained variants, or decorative structure that weakens the requested outcome.\n- Do not trade factual accuracy, legibility, physical plausibility, or subject consistency for surface-level style effects."
     },
-    "checklist": [
-      "所有方向共享同一评价基线",
-      "每个方向有简短标签",
-      "版面方便横向对比"
-    ],
-    "pitfalls": [
-      "不要让每个方案更换主体或构图",
-      "不要只比较颜色而忽略材质和情绪"
-    ],
     "variable_labels": [
       {
         "id": "subject",
@@ -17396,6 +17709,29 @@ export const templates = [
         }
       }
     ],
+    "checklist": {
+      "zh": [
+        "所有方向共享同一评价基线",
+        "每个方向有简短标签",
+        "版面方便横向对比"
+      ],
+      "en": [
+        "Every required field is represented by a concrete, reviewable production decision.",
+        "The Illustration Art output has one clear focal hierarchy and remains readable at thumbnail size.",
+        "Supplied copy, facts, geometry, subject identity, materials, and spatial relationships remain internally consistent."
+      ]
+    },
+    "pitfalls": {
+      "zh": [
+        "不要让每个方案更换主体或构图",
+        "不要只比较颜色而忽略材质和情绪"
+      ],
+      "en": [
+        "Do not replace missing Text To Image / Series Consistency inputs with invented brands, statistics, identities, or filler copy.",
+        "Do not add unrelated objects, competing layouts, unexplained variants, or decorative structure that weakens the requested outcome.",
+        "Do not trade factual accuracy, legibility, physical plausibility, or subject consistency for surface-level style effects."
+      ]
+    },
     "execution": {
       "zh": {
         "input_policy": "缺失的必填变量必须先向需求方确认；不得用虚构品牌、数据、人物身份或文字补齐。",
@@ -17474,17 +17810,8 @@ export const templates = [
     ],
     "prompt": {
       "zh": "## 角色\n你是一名资深图像艺术总监与制作设计师。请把需求转化为一个受控的最终视觉交付物，而不是松散的灵感板。\n\n## 模板目标\n移动端关键任务流：将一个高频移动端任务拆成有状态、有反馈且可用性明确的连续界面。\n\n## 必填需求字段\n- `{{product}}`（产品）：请给出「产品」的具体对象、外形或功能、关键材质与不可改变的识别特征。\n- `{{user_role}}`（用户角色）：请说明「用户角色」对应的人群、使用情境和关注重点，使内容密度与表达方式可被准确判断。\n- `{{primary_task}}`（主要任务）：请填写「主要任务」的具体内容，至少包含对象或取值范围、一个可见特征，以及它对构图、信息层级或生成结果的影响。\n- `{{task_steps}}`（任务步骤）：请列出「任务步骤」中必须呈现的具体项目、数量范围和优先顺序；不得用虚构数据补全。\n- `{{visual_direction}}`（视觉方向）：请说明「视觉方向」的媒介、时代或审美方向、情绪强度与细节密度，并给出 1–2 个可见特征。\n\n## 需求解析协议\n- 每个变量都是生产决策。缺失字段必须先向需求方确认；不得静默替换为泛化商品、统计数据、品牌主张或人物身份。\n- 在选择风格词前，先锁定交付类型、受众、画幅比例、焦点主体、信息密度和参考图保留要求。\n- 如需求给出精确文案、源素材、尺寸或合规主张，将其作为受控输入保留，不得即兴改写。\n\n## 输出契约\n- 只生成一张完成的 ui-interface 成品；不要生成情绪板、多方案展示板、联系表、过程图、样机拼贴或没有解释的变体。\n- 在添加视觉细节前，先建立主焦点、次级信息层与有意识的留白。\n- 所有命名对象、视觉关系、镜头/透视逻辑和材质行为必须内部一致。\n\n## 制作结构\n- 按完整产品界面处理：建立明确栅格、一个主行动按钮、可理解的组件状态与可信的信息密度。仅在需求明确时选择桌面端 16:9 或移动端 9:16。\n- 系列工作流先锁定主体比例、色彩角色、镜头语言与版式语法，再变化场景内容；每张图都必须属于同一视觉系统。\n\n## 质量门槛\n- 四个界面共享同一导航和组件规则\n- 每一步都有明确的用户目标和下一步\n- 成功状态能回答任务是否完成\n- 先在缩略图尺度检查层级，再在完整尺寸检查事实准确性、文字可读性、几何、材质行为与参考图保留要求。\n\n## 不可违反的约束\n- 兼顾声明的模型兼容性，但始终以需求本身为最高优先级。\n- 仅在需求提供精确短文案时才渲染文字；绝不虚构真实品牌、商标、没有来源的数据或填充文案。\n- 输出前检查重复主体、不可能几何、冲突阴影、错误肢体、不可读微型文字与意外水印。\n\n## 避免\n- 不要把每屏设计成不同产品\n- 不要用装饰性卡片掩盖任务顺序",
-      "en": "## Role\nAct as a senior image art director and production designer. Convert the supplied brief into one controlled visual deliverable, not a loose inspiration board.\n\n## Required brief fields\n- `{{product}}` (Product): Provide the specific object, form or function, key materials, and non-negotiable identity features for Product.\n- `{{user_role}}` (User Role): Define the people, usage context, and priority for User Role so information density and tone can be chosen deliberately.\n- `{{primary_task}}` (Primary Task): Provide a concrete value for Primary Task, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{task_steps}}` (Task Steps): List the concrete items, quantity range, and priority order required for Task Steps; do not fill gaps with fabricated data.\n- `{{visual_direction}}` (Visual Direction): Describe the medium, era or aesthetic direction, emotional intensity, detail density, and 1–2 visible cues for Visual Direction.\n\n## Brief-resolution protocol\n- Treat every variable as a production decision. If a field is absent, request it before rendering; never silently substitute a generic product, statistic, brand claim, or identity.\n- Lock deliverable, audience, aspect ratio, focal subject, information density, and reference-preservation requirements before choosing style adjectives.\n- When exact copy, source assets, measurements, or legal claims are supplied, preserve them as controlled inputs rather than improvising replacements.\n\n## Core task\nDesign a production-ready mobile task flow for {{product}} used by {{user_role}} to complete {{primary_task}}. Create a 4-screen sequence for {{task_steps}}: entry state, focused input or choice, confirmation or review, and successful completion. Keep the same navigation model, component system, content density, and visual language across all screens. Use {{visual_direction}} only after the interaction order is clear. Make the primary action obvious, include useful empty or error-state cues where relevant, and use short exact labels rather than invented marketing copy. Deliver one vertical, coherent flow board rather than unrelated app mockups.\n\n## Output contract\n- Produce exactly one finished ui-interface deliverable. Do not create a moodboard, multi-option presentation board, contact sheet, process diagram, mockup collage, or unexplained variants.\n- Establish a primary focal point, secondary information layer, and deliberate negative space before adding visual detail.\n- Keep all named objects, visual relationships, camera/perspective logic, and material behavior internally consistent.\n\n## Production structure\n- Use a coherent product screen with a deliberate grid, one primary action, clear component states, and a realistic content density. Select 16:9 for desktop or 9:16 for mobile only when the brief specifies that platform.\n- For a series, lock the subject proportions, palette roles, lens language, and layout grammar before varying scene content. Every variation must remain recognizably in the same system.\n\n## Quality gates\n- 四个界面共享同一导航和组件规则\n- 每一步都有明确的用户目标和下一步\n- 成功状态能回答任务是否完成\n- Review at thumbnail size first, then inspect factual accuracy, legibility, geometry, material behavior, and any reference-preservation requirement at full size.\n\n## Non-negotiable constraints\n- Respect the requested model compatibility, but prioritize the brief over any model-specific ornament.\n- Use short, exact text only when the brief provides it; never invent a real brand, a trademark, unsupported statistics, or filler copy.\n- Check for duplicate subjects, impossible geometry, incoherent shadows, broken anatomy, unreadable micro-text, and accidental watermarks before finalizing.\n\n## Avoid\n- 不要把每屏设计成不同产品\n- 不要用装饰性卡片掩盖任务顺序"
+      "en": "## Role\nAct as a senior image art director and production designer. Convert the supplied brief into one controlled visual deliverable, not a loose inspiration board.\n\n## Required brief fields\n- `{{product}}` (Product): Provide the specific object, form or function, key materials, and non-negotiable identity features for Product.\n- `{{user_role}}` (User Role): Define the people, usage context, and priority for User Role so information density and tone can be chosen deliberately.\n- `{{primary_task}}` (Primary Task): Provide a concrete value for Primary Task, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{task_steps}}` (Task Steps): List the concrete items, quantity range, and priority order required for Task Steps; do not fill gaps with fabricated data.\n- `{{visual_direction}}` (Visual Direction): Describe the medium, era or aesthetic direction, emotional intensity, detail density, and 1–2 visible cues for Visual Direction.\n\n## Brief-resolution protocol\n- Treat every variable as a production decision. If a field is absent, request it before rendering; never silently substitute a generic product, statistic, brand claim, or identity.\n- Lock deliverable, audience, aspect ratio, focal subject, information density, and reference-preservation requirements before choosing style adjectives.\n- When exact copy, source assets, measurements, or legal claims are supplied, preserve them as controlled inputs rather than improvising replacements.\n\n## Core task\nDesign a production-ready mobile task flow for {{product}} used by {{user_role}} to complete {{primary_task}}. Create a 4-screen sequence for {{task_steps}}: entry state, focused input or choice, confirmation or review, and successful completion. Keep the same navigation model, component system, content density, and visual language across all screens. Use {{visual_direction}} only after the interaction order is clear. Make the primary action obvious, include useful empty or error-state cues where relevant, and use short exact labels rather than invented marketing copy. Deliver one vertical, coherent flow board rather than unrelated app mockups.\n\n## Output contract\n- Produce exactly one finished ui-interface deliverable. Do not create a moodboard, multi-option presentation board, contact sheet, process diagram, mockup collage, or unexplained variants.\n- Establish a primary focal point, secondary information layer, and deliberate negative space before adding visual detail.\n- Keep all named objects, visual relationships, camera/perspective logic, and material behavior internally consistent.\n\n## Production structure\n- Use a coherent product screen with a deliberate grid, one primary action, clear component states, and a realistic content density. Select 16:9 for desktop or 9:16 for mobile only when the brief specifies that platform.\n- For a series, lock the subject proportions, palette roles, lens language, and layout grammar before varying scene content. Every variation must remain recognizably in the same system.\n\n## Quality gates\n- Every required field is represented by a concrete, reviewable production decision.\n- The UI Interface output has one clear focal hierarchy and remains readable at thumbnail size.\n- Supplied copy, facts, geometry, subject identity, materials, and spatial relationships remain internally consistent.\n- Review at thumbnail size first, then inspect factual accuracy, legibility, geometry, material behavior, and any reference-preservation requirement at full size.\n\n## Non-negotiable constraints\n- Respect the requested model compatibility, but prioritize the brief over any model-specific ornament.\n- Use short, exact text only when the brief provides it; never invent a real brand, a trademark, unsupported statistics, or filler copy.\n- Check for duplicate subjects, impossible geometry, incoherent shadows, broken anatomy, unreadable micro-text, and accidental watermarks before finalizing.\n\n## Avoid\n- Do not replace missing Text To Image / Series Consistency inputs with invented brands, statistics, identities, or filler copy.\n- Do not add unrelated objects, competing layouts, unexplained variants, or decorative structure that weakens the requested outcome.\n- Do not trade factual accuracy, legibility, physical plausibility, or subject consistency for surface-level style effects."
     },
-    "checklist": [
-      "四个界面共享同一导航和组件规则",
-      "每一步都有明确的用户目标和下一步",
-      "成功状态能回答任务是否完成"
-    ],
-    "pitfalls": [
-      "不要把每屏设计成不同产品",
-      "不要用装饰性卡片掩盖任务顺序"
-    ],
     "variable_labels": [
       {
         "id": "product",
@@ -17532,6 +17859,29 @@ export const templates = [
         }
       }
     ],
+    "checklist": {
+      "zh": [
+        "四个界面共享同一导航和组件规则",
+        "每一步都有明确的用户目标和下一步",
+        "成功状态能回答任务是否完成"
+      ],
+      "en": [
+        "Every required field is represented by a concrete, reviewable production decision.",
+        "The UI Interface output has one clear focal hierarchy and remains readable at thumbnail size.",
+        "Supplied copy, facts, geometry, subject identity, materials, and spatial relationships remain internally consistent."
+      ]
+    },
+    "pitfalls": {
+      "zh": [
+        "不要把每屏设计成不同产品",
+        "不要用装饰性卡片掩盖任务顺序"
+      ],
+      "en": [
+        "Do not replace missing Text To Image / Series Consistency inputs with invented brands, statistics, identities, or filler copy.",
+        "Do not add unrelated objects, competing layouts, unexplained variants, or decorative structure that weakens the requested outcome.",
+        "Do not trade factual accuracy, legibility, physical plausibility, or subject consistency for surface-level style effects."
+      ]
+    },
     "execution": {
       "zh": {
         "input_policy": "缺失的必填变量必须先向需求方确认；不得用虚构品牌、数据、人物身份或文字补齐。",
@@ -17610,17 +17960,8 @@ export const templates = [
     ],
     "prompt": {
       "zh": "## 角色\n你是一名资深图像艺术总监与制作设计师。请把需求转化为一个受控的最终视觉交付物，而不是松散的灵感板。\n\n## 模板目标\n空间材质与动线体验板：在同一空间方案中同时验证动线、关键节点、材料交界和昼夜光线。\n\n## 必填需求字段\n- `{{space_type}}`（空间类型）：请明确「空间类型」的地点、时间、空间尺度、关键环境元素及其与主体的关系。\n- `{{users}}`（用户群体）：请填写「用户群体」的具体内容，至少包含对象或取值范围、一个可见特征，以及它对构图、信息层级或生成结果的影响。\n- `{{design_concept}}`（设计概念）：请填写「设计概念」的具体内容，至少包含对象或取值范围、一个可见特征，以及它对构图、信息层级或生成结果的影响。\n- `{{materials}}`（材质）：请填写「材质」的具体内容，至少包含对象或取值范围、一个可见特征，以及它对构图、信息层级或生成结果的影响。\n- `{{time_condition}}`（时间条件）：请提供「时间条件」的明确时间、周期或范围，并说明它如何影响场景、信息层级或输出格式。\n\n## 需求解析协议\n- 每个变量都是生产决策。缺失字段必须先向需求方确认；不得静默替换为泛化商品、统计数据、品牌主张或人物身份。\n- 在选择风格词前，先锁定交付类型、受众、画幅比例、焦点主体、信息密度和参考图保留要求。\n- 如需求给出精确文案、源素材、尺寸或合规主张，将其作为受控输入保留，不得即兴改写。\n\n## 输出契约\n- 只生成一张完成的 architecture-space 成品；不要生成情绪板、多方案展示板、联系表、过程图、样机拼贴或没有解释的变体。\n- 在添加视觉细节前，先建立主焦点、次级信息层与有意识的留白。\n- 所有命名对象、视觉关系、镜头/透视逻辑和材质行为必须内部一致。\n\n## 制作结构\n- 透视、动线、光向、家具尺度和材质交界必须可信；加入必要的人尺度线索，但不要把空间做成拼贴式生活方式图。\n- 系列工作流先锁定主体比例、色彩角色、镜头语言与版式语法，再变化场景内容；每张图都必须属于同一视觉系统。\n\n## 质量门槛\n- 主视图能读出入口和使用动线\n- 材料节点具有真实厚度和连接逻辑\n- 不同光线条件仍保持空间一致\n- 先在缩略图尺度检查层级，再在完整尺寸检查事实准确性、文字可读性、几何、材质行为与参考图保留要求。\n\n## 不可违反的约束\n- 兼顾声明的模型兼容性，但始终以需求本身为最高优先级。\n- 仅在需求提供精确短文案时才渲染文字；绝不虚构真实品牌、商标、没有来源的数据或填充文案。\n- 输出前检查重复主体、不可能几何、冲突阴影、错误肢体、不可读微型文字与意外水印。\n\n## 避免\n- 不要混用互相冲突的建筑语言\n- 不要用超广角畸变掩盖狭小空间",
-      "en": "## Role\nAct as a senior image art director and production designer. Convert the supplied brief into one controlled visual deliverable, not a loose inspiration board.\n\n## Required brief fields\n- `{{space_type}}` (Space Type): Specify the place, time, scale, key environmental elements, and their relationship to the subject for Space Type.\n- `{{users}}` (Users): Provide a concrete value for Users, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{design_concept}}` (Design Concept): Provide a concrete value for Design Concept, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{materials}}` (Materials): Provide a concrete value for Materials, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{time_condition}}` (Time Condition): Provide the exact time, duration, or range for Time Condition and explain how it affects the scene, information hierarchy, or output format.\n\n## Brief-resolution protocol\n- Treat every variable as a production decision. If a field is absent, request it before rendering; never silently substitute a generic product, statistic, brand claim, or identity.\n- Lock deliverable, audience, aspect ratio, focal subject, information density, and reference-preservation requirements before choosing style adjectives.\n- When exact copy, source assets, measurements, or legal claims are supplied, preserve them as controlled inputs rather than improvising replacements.\n\n## Core task\nCreate an architectural experience board for a {{space_type}} used by {{users}}, guided by {{design_concept}}. Show one primary eye-level view that makes the circulation path legible, two tightly cropped material junctions using {{materials}}, and a small lighting comparison for {{time_condition}}. Keep camera height, geometry, furniture scale, and material palette consistent across the board. Explain use through visible thresholds, seating, storage, or working zones rather than decorative props. Use concise annotations only where they clarify material, light, or circulation decisions; never hide impossible structure behind atmospheric styling.\n\n## Output contract\n- Produce exactly one finished architecture-space deliverable. Do not create a moodboard, multi-option presentation board, contact sheet, process diagram, mockup collage, or unexplained variants.\n- Establish a primary focal point, secondary information layer, and deliberate negative space before adding visual detail.\n- Keep all named objects, visual relationships, camera/perspective logic, and material behavior internally consistent.\n\n## Production structure\n- Keep perspective, circulation, light direction, furniture scale, and material transitions physically believable. Include human-scale cues without turning the space into a lifestyle collage.\n- For a series, lock the subject proportions, palette roles, lens language, and layout grammar before varying scene content. Every variation must remain recognizably in the same system.\n\n## Quality gates\n- 主视图能读出入口和使用动线\n- 材料节点具有真实厚度和连接逻辑\n- 不同光线条件仍保持空间一致\n- Review at thumbnail size first, then inspect factual accuracy, legibility, geometry, material behavior, and any reference-preservation requirement at full size.\n\n## Non-negotiable constraints\n- Respect the requested model compatibility, but prioritize the brief over any model-specific ornament.\n- Use short, exact text only when the brief provides it; never invent a real brand, a trademark, unsupported statistics, or filler copy.\n- Check for duplicate subjects, impossible geometry, incoherent shadows, broken anatomy, unreadable micro-text, and accidental watermarks before finalizing.\n\n## Avoid\n- 不要混用互相冲突的建筑语言\n- 不要用超广角畸变掩盖狭小空间"
+      "en": "## Role\nAct as a senior image art director and production designer. Convert the supplied brief into one controlled visual deliverable, not a loose inspiration board.\n\n## Required brief fields\n- `{{space_type}}` (Space Type): Specify the place, time, scale, key environmental elements, and their relationship to the subject for Space Type.\n- `{{users}}` (Users): Provide a concrete value for Users, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{design_concept}}` (Design Concept): Provide a concrete value for Design Concept, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{materials}}` (Materials): Provide a concrete value for Materials, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{time_condition}}` (Time Condition): Provide the exact time, duration, or range for Time Condition and explain how it affects the scene, information hierarchy, or output format.\n\n## Brief-resolution protocol\n- Treat every variable as a production decision. If a field is absent, request it before rendering; never silently substitute a generic product, statistic, brand claim, or identity.\n- Lock deliverable, audience, aspect ratio, focal subject, information density, and reference-preservation requirements before choosing style adjectives.\n- When exact copy, source assets, measurements, or legal claims are supplied, preserve them as controlled inputs rather than improvising replacements.\n\n## Core task\nCreate an architectural experience board for a {{space_type}} used by {{users}}, guided by {{design_concept}}. Show one primary eye-level view that makes the circulation path legible, two tightly cropped material junctions using {{materials}}, and a small lighting comparison for {{time_condition}}. Keep camera height, geometry, furniture scale, and material palette consistent across the board. Explain use through visible thresholds, seating, storage, or working zones rather than decorative props. Use concise annotations only where they clarify material, light, or circulation decisions; never hide impossible structure behind atmospheric styling.\n\n## Output contract\n- Produce exactly one finished architecture-space deliverable. Do not create a moodboard, multi-option presentation board, contact sheet, process diagram, mockup collage, or unexplained variants.\n- Establish a primary focal point, secondary information layer, and deliberate negative space before adding visual detail.\n- Keep all named objects, visual relationships, camera/perspective logic, and material behavior internally consistent.\n\n## Production structure\n- Keep perspective, circulation, light direction, furniture scale, and material transitions physically believable. Include human-scale cues without turning the space into a lifestyle collage.\n- For a series, lock the subject proportions, palette roles, lens language, and layout grammar before varying scene content. Every variation must remain recognizably in the same system.\n\n## Quality gates\n- Every required field is represented by a concrete, reviewable production decision.\n- The Architecture Space output has one clear focal hierarchy and remains readable at thumbnail size.\n- Supplied copy, facts, geometry, subject identity, materials, and spatial relationships remain internally consistent.\n- Review at thumbnail size first, then inspect factual accuracy, legibility, geometry, material behavior, and any reference-preservation requirement at full size.\n\n## Non-negotiable constraints\n- Respect the requested model compatibility, but prioritize the brief over any model-specific ornament.\n- Use short, exact text only when the brief provides it; never invent a real brand, a trademark, unsupported statistics, or filler copy.\n- Check for duplicate subjects, impossible geometry, incoherent shadows, broken anatomy, unreadable micro-text, and accidental watermarks before finalizing.\n\n## Avoid\n- Do not replace missing Text To Image / Series Consistency inputs with invented brands, statistics, identities, or filler copy.\n- Do not add unrelated objects, competing layouts, unexplained variants, or decorative structure that weakens the requested outcome.\n- Do not trade factual accuracy, legibility, physical plausibility, or subject consistency for surface-level style effects."
     },
-    "checklist": [
-      "主视图能读出入口和使用动线",
-      "材料节点具有真实厚度和连接逻辑",
-      "不同光线条件仍保持空间一致"
-    ],
-    "pitfalls": [
-      "不要混用互相冲突的建筑语言",
-      "不要用超广角畸变掩盖狭小空间"
-    ],
     "variable_labels": [
       {
         "id": "space_type",
@@ -17668,6 +18009,29 @@ export const templates = [
         }
       }
     ],
+    "checklist": {
+      "zh": [
+        "主视图能读出入口和使用动线",
+        "材料节点具有真实厚度和连接逻辑",
+        "不同光线条件仍保持空间一致"
+      ],
+      "en": [
+        "Every required field is represented by a concrete, reviewable production decision.",
+        "The Architecture Space output has one clear focal hierarchy and remains readable at thumbnail size.",
+        "Supplied copy, facts, geometry, subject identity, materials, and spatial relationships remain internally consistent."
+      ]
+    },
+    "pitfalls": {
+      "zh": [
+        "不要混用互相冲突的建筑语言",
+        "不要用超广角畸变掩盖狭小空间"
+      ],
+      "en": [
+        "Do not replace missing Text To Image / Series Consistency inputs with invented brands, statistics, identities, or filler copy.",
+        "Do not add unrelated objects, competing layouts, unexplained variants, or decorative structure that weakens the requested outcome.",
+        "Do not trade factual accuracy, legibility, physical plausibility, or subject consistency for surface-level style effects."
+      ]
+    },
     "execution": {
       "zh": {
         "input_policy": "缺失的必填变量必须先向需求方确认；不得用虚构品牌、数据、人物身份或文字补齐。",
@@ -17746,17 +18110,8 @@ export const templates = [
     ],
     "prompt": {
       "zh": "## 角色\n你是一名资深图像艺术总监与制作设计师。请把需求转化为一个受控的最终视觉交付物，而不是松散的灵感板。\n\n## 模板目标\n编辑人像摄影：用镜头、布光和人物状态建立可控的肖像方向。\n\n## 必填需求字段\n- `{{subject}}`（主体）：请填写「主体」的具体内容，至少包含对象或取值范围、一个可见特征，以及它对构图、信息层级或生成结果的影响。\n- `{{story}}`（故事）：请写明「故事」发生了什么、谁在行动、动作结果或情绪转折是什么，确保画面有单一可读节点。\n- `{{wardrobe}}`（服装）：请定义「服装」的身份、外观识别点、服装或姿态，以及必须在系列中保持不变的锚点。\n- `{{lens}}`（镜头）：请填写「镜头」的具体内容，至少包含对象或取值范围、一个可见特征，以及它对构图、信息层级或生成结果的影响。\n- `{{lighting}}`（布光）：请填写「布光」的具体内容，至少包含对象或取值范围、一个可见特征，以及它对构图、信息层级或生成结果的影响。\n\n## 需求解析协议\n- 每个变量都是生产决策。缺失字段必须先向需求方确认；不得静默替换为泛化商品、统计数据、品牌主张或人物身份。\n- 在选择风格词前，先锁定交付类型、受众、画幅比例、焦点主体、信息密度和参考图保留要求。\n- 如需求给出精确文案、源素材、尺寸或合规主张，将其作为受控输入保留，不得即兴改写。\n\n## 输出契约\n- 只生成一张完成的 portrait-character 成品；不要生成情绪板、多方案展示板、联系表、过程图、样机拼贴或没有解释的变体。\n- 在添加视觉细节前，先建立主焦点、次级信息层与有意识的留白。\n- 所有命名对象、视觉关系、镜头/透视逻辑和材质行为必须内部一致。\n\n## 制作结构\n- 保持人体、手部、服装逻辑与角色识别特征一致；姿势、表情、镜头和背景都必须服务同一身份。\n- 编辑工作流只改动指定区域或属性；保留未改动主体、透视、机位、光向、阴影、纹理和颗粒，不能引入无关对象。\n\n## 质量门槛\n- 人物身份与表情统一\n- 手部和服装细节自然\n- 光线有明确方向\n- 先在缩略图尺度检查层级，再在完整尺寸检查事实准确性、文字可读性、几何、材质行为与参考图保留要求。\n\n## 不可违反的约束\n- 兼顾声明的模型兼容性，但始终以需求本身为最高优先级。\n- 仅在需求提供精确短文案时才渲染文字；绝不虚构真实品牌、商标、没有来源的数据或填充文案。\n- 输出前检查重复主体、不可能几何、冲突阴影、错误肢体、不可读微型文字与意外水印。\n\n## 避免\n- 不要过度磨皮\n- 不要使用冲突的镜头和景深描述",
-      "en": "## Role\nAct as a senior image art director and production designer. Convert the supplied brief into one controlled visual deliverable, not a loose inspiration board.\n\n## Required brief fields\n- `{{subject}}` (Subject): Provide a concrete value for Subject, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{story}}` (Story): State what happens in Story, who acts, and the resulting action or emotional turn so the image has one readable beat.\n- `{{wardrobe}}` (Wardrobe): Define the identity, appearance anchors, wardrobe or pose, and the details that must remain stable across the series for Wardrobe.\n- `{{lens}}` (Lens): Provide a concrete value for Lens, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{lighting}}` (Lighting): Provide a concrete value for Lighting, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n\n## Brief-resolution protocol\n- Treat every variable as a production decision. If a field is absent, request it before rendering; never silently substitute a generic product, statistic, brand claim, or identity.\n- Lock deliverable, audience, aspect ratio, focal subject, information density, and reference-preservation requirements before choosing style adjectives.\n- When exact copy, source assets, measurements, or legal claims are supplied, preserve them as controlled inputs rather than improvising replacements.\n\n## Core task\nCreate an editorial portrait of {{subject}} that communicates {{story}}. Direct the {{wardrobe}}, use a {{lens}} perspective and {{lighting}}. Preserve natural anatomy, skin texture, intentional pose, and a background that supports rather than competes with the person.\n\n## Output contract\n- Produce exactly one finished portrait-character deliverable. Do not create a moodboard, multi-option presentation board, contact sheet, process diagram, mockup collage, or unexplained variants.\n- Establish a primary focal point, secondary information layer, and deliberate negative space before adding visual detail.\n- Keep all named objects, visual relationships, camera/perspective logic, and material behavior internally consistent.\n\n## Production structure\n- Keep anatomy, hands, wardrobe logic, and character-defining features consistent. Direct pose, expression, lens perspective, and background so they all support one identity.\n- For edit workflows, change only the requested region or attribute. Preserve untouched subjects, perspective, camera angle, lighting direction, shadows, texture, and grain. Do not introduce unrelated objects.\n\n## Quality gates\n- 人物身份与表情统一\n- 手部和服装细节自然\n- 光线有明确方向\n- Review at thumbnail size first, then inspect factual accuracy, legibility, geometry, material behavior, and any reference-preservation requirement at full size.\n\n## Non-negotiable constraints\n- Respect the requested model compatibility, but prioritize the brief over any model-specific ornament.\n- Use short, exact text only when the brief provides it; never invent a real brand, a trademark, unsupported statistics, or filler copy.\n- Check for duplicate subjects, impossible geometry, incoherent shadows, broken anatomy, unreadable micro-text, and accidental watermarks before finalizing.\n\n## Avoid\n- 不要过度磨皮\n- 不要使用冲突的镜头和景深描述"
+      "en": "## Role\nAct as a senior image art director and production designer. Convert the supplied brief into one controlled visual deliverable, not a loose inspiration board.\n\n## Required brief fields\n- `{{subject}}` (Subject): Provide a concrete value for Subject, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{story}}` (Story): State what happens in Story, who acts, and the resulting action or emotional turn so the image has one readable beat.\n- `{{wardrobe}}` (Wardrobe): Define the identity, appearance anchors, wardrobe or pose, and the details that must remain stable across the series for Wardrobe.\n- `{{lens}}` (Lens): Provide a concrete value for Lens, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{lighting}}` (Lighting): Provide a concrete value for Lighting, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n\n## Brief-resolution protocol\n- Treat every variable as a production decision. If a field is absent, request it before rendering; never silently substitute a generic product, statistic, brand claim, or identity.\n- Lock deliverable, audience, aspect ratio, focal subject, information density, and reference-preservation requirements before choosing style adjectives.\n- When exact copy, source assets, measurements, or legal claims are supplied, preserve them as controlled inputs rather than improvising replacements.\n\n## Core task\nCreate an editorial portrait of {{subject}} that communicates {{story}}. Direct the {{wardrobe}}, use a {{lens}} perspective and {{lighting}}. Preserve natural anatomy, skin texture, intentional pose, and a background that supports rather than competes with the person.\n\n## Output contract\n- Produce exactly one finished portrait-character deliverable. Do not create a moodboard, multi-option presentation board, contact sheet, process diagram, mockup collage, or unexplained variants.\n- Establish a primary focal point, secondary information layer, and deliberate negative space before adding visual detail.\n- Keep all named objects, visual relationships, camera/perspective logic, and material behavior internally consistent.\n\n## Production structure\n- Keep anatomy, hands, wardrobe logic, and character-defining features consistent. Direct pose, expression, lens perspective, and background so they all support one identity.\n- For edit workflows, change only the requested region or attribute. Preserve untouched subjects, perspective, camera angle, lighting direction, shadows, texture, and grain. Do not introduce unrelated objects.\n\n## Quality gates\n- Every required field is represented by a concrete, reviewable production decision.\n- The Portrait Character output has one clear focal hierarchy and remains readable at thumbnail size.\n- Supplied copy, facts, geometry, subject identity, materials, and spatial relationships remain internally consistent.\n- Review at thumbnail size first, then inspect factual accuracy, legibility, geometry, material behavior, and any reference-preservation requirement at full size.\n\n## Non-negotiable constraints\n- Respect the requested model compatibility, but prioritize the brief over any model-specific ornament.\n- Use short, exact text only when the brief provides it; never invent a real brand, a trademark, unsupported statistics, or filler copy.\n- Check for duplicate subjects, impossible geometry, incoherent shadows, broken anatomy, unreadable micro-text, and accidental watermarks before finalizing.\n\n## Avoid\n- Do not replace missing Text To Image / Image To Image inputs with invented brands, statistics, identities, or filler copy.\n- Do not add unrelated objects, competing layouts, unexplained variants, or decorative structure that weakens the requested outcome.\n- Do not trade factual accuracy, legibility, physical plausibility, or subject consistency for surface-level style effects."
     },
-    "checklist": [
-      "人物身份与表情统一",
-      "手部和服装细节自然",
-      "光线有明确方向"
-    ],
-    "pitfalls": [
-      "不要过度磨皮",
-      "不要使用冲突的镜头和景深描述"
-    ],
     "variable_labels": [
       {
         "id": "subject",
@@ -17804,6 +18159,29 @@ export const templates = [
         }
       }
     ],
+    "checklist": {
+      "zh": [
+        "人物身份与表情统一",
+        "手部和服装细节自然",
+        "光线有明确方向"
+      ],
+      "en": [
+        "Every required field is represented by a concrete, reviewable production decision.",
+        "The Portrait Character output has one clear focal hierarchy and remains readable at thumbnail size.",
+        "Supplied copy, facts, geometry, subject identity, materials, and spatial relationships remain internally consistent."
+      ]
+    },
+    "pitfalls": {
+      "zh": [
+        "不要过度磨皮",
+        "不要使用冲突的镜头和景深描述"
+      ],
+      "en": [
+        "Do not replace missing Text To Image / Image To Image inputs with invented brands, statistics, identities, or filler copy.",
+        "Do not add unrelated objects, competing layouts, unexplained variants, or decorative structure that weakens the requested outcome.",
+        "Do not trade factual accuracy, legibility, physical plausibility, or subject consistency for surface-level style effects."
+      ]
+    },
     "execution": {
       "zh": {
         "input_policy": "缺失的必填变量必须先向需求方确认；不得用虚构品牌、数据、人物身份或文字补齐。",
@@ -17882,17 +18260,8 @@ export const templates = [
     ],
     "prompt": {
       "zh": "## 角色\n你是一名资深图像艺术总监与制作设计师。请把需求转化为一个受控的最终视觉交付物，而不是松散的灵感板。\n\n## 模板目标\n角色设定三视图：为游戏、动画和品牌角色建立可复用的一致性设定。\n\n## 必填需求字段\n- `{{character_name}}`（角色名称）：请提供「角色名称」的准确文字；如不需要可读文字，请明确写“无文字”，不要让模型自行编写。\n- `{{role}}`（角色）：请填写「角色」的具体内容，至少包含对象或取值范围、一个可见特征，以及它对构图、信息层级或生成结果的影响。\n- `{{silhouette}}`（轮廓）：请填写「轮廓」的具体内容，至少包含对象或取值范围、一个可见特征，以及它对构图、信息层级或生成结果的影响。\n- `{{costume}}`（服装）：请定义「服装」的身份、外观识别点、服装或姿态，以及必须在系列中保持不变的锚点。\n- `{{personality}}`（个性）：请填写「个性」的具体内容，至少包含对象或取值范围、一个可见特征，以及它对构图、信息层级或生成结果的影响。\n\n## 需求解析协议\n- 每个变量都是生产决策。缺失字段必须先向需求方确认；不得静默替换为泛化商品、统计数据、品牌主张或人物身份。\n- 在选择风格词前，先锁定交付类型、受众、画幅比例、焦点主体、信息密度和参考图保留要求。\n- 如需求给出精确文案、源素材、尺寸或合规主张，将其作为受控输入保留，不得即兴改写。\n\n## 输出契约\n- 只生成一张完成的 portrait-character 成品；不要生成情绪板、多方案展示板、联系表、过程图、样机拼贴或没有解释的变体。\n- 在添加视觉细节前，先建立主焦点、次级信息层与有意识的留白。\n- 所有命名对象、视觉关系、镜头/透视逻辑和材质行为必须内部一致。\n\n## 制作结构\n- 保持人体、手部、服装逻辑与角色识别特征一致；姿势、表情、镜头和背景都必须服务同一身份。\n- 系列工作流先锁定主体比例、色彩角色、镜头语言与版式语法，再变化场景内容；每张图都必须属于同一视觉系统。\n\n## 质量门槛\n- 三视图比例一致\n- 关键配饰每个角度可追踪\n- 注释服务制作而非装饰\n- 先在缩略图尺度检查层级，再在完整尺寸检查事实准确性、文字可读性、几何、材质行为与参考图保留要求。\n\n## 不可违反的约束\n- 兼顾声明的模型兼容性，但始终以需求本身为最高优先级。\n- 仅在需求提供精确短文案时才渲染文字；绝不虚构真实品牌、商标、没有来源的数据或填充文案。\n- 输出前检查重复主体、不可能几何、冲突阴影、错误肢体、不可读微型文字与意外水印。\n\n## 避免\n- 不要让三视图服饰互相矛盾\n- 不要把角色性格只写成抽象形容词",
-      "en": "## Role\nAct as a senior image art director and production designer. Convert the supplied brief into one controlled visual deliverable, not a loose inspiration board.\n\n## Required brief fields\n- `{{character_name}}` (Character Name): Provide the exact copy for Character Name; if readable copy is not needed, explicitly state “no text” rather than letting the model invent it.\n- `{{role}}` (Role): Provide a concrete value for Role, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{silhouette}}` (Silhouette): Provide a concrete value for Silhouette, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{costume}}` (Costume): Define the identity, appearance anchors, wardrobe or pose, and the details that must remain stable across the series for Costume.\n- `{{personality}}` (Personality): Provide a concrete value for Personality, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n\n## Brief-resolution protocol\n- Treat every variable as a production decision. If a field is absent, request it before rendering; never silently substitute a generic product, statistic, brand claim, or identity.\n- Lock deliverable, audience, aspect ratio, focal subject, information density, and reference-preservation requirements before choosing style adjectives.\n- When exact copy, source assets, measurements, or legal claims are supplied, preserve them as controlled inputs rather than improvising replacements.\n\n## Core task\nDesign a production-ready character sheet for {{character_name}}, a {{role}}. Define a memorable {{silhouette}}, {{costume}}, and {{personality}}. Show front, side, and back views, a facial-expression strip, material callouts, and a concise prop set on a clean annotation grid.\n\n## Output contract\n- Produce exactly one finished portrait-character deliverable. Do not create a moodboard, multi-option presentation board, contact sheet, process diagram, mockup collage, or unexplained variants.\n- Establish a primary focal point, secondary information layer, and deliberate negative space before adding visual detail.\n- Keep all named objects, visual relationships, camera/perspective logic, and material behavior internally consistent.\n\n## Production structure\n- Keep anatomy, hands, wardrobe logic, and character-defining features consistent. Direct pose, expression, lens perspective, and background so they all support one identity.\n- For a series, lock the subject proportions, palette roles, lens language, and layout grammar before varying scene content. Every variation must remain recognizably in the same system.\n\n## Quality gates\n- 三视图比例一致\n- 关键配饰每个角度可追踪\n- 注释服务制作而非装饰\n- Review at thumbnail size first, then inspect factual accuracy, legibility, geometry, material behavior, and any reference-preservation requirement at full size.\n\n## Non-negotiable constraints\n- Respect the requested model compatibility, but prioritize the brief over any model-specific ornament.\n- Use short, exact text only when the brief provides it; never invent a real brand, a trademark, unsupported statistics, or filler copy.\n- Check for duplicate subjects, impossible geometry, incoherent shadows, broken anatomy, unreadable micro-text, and accidental watermarks before finalizing.\n\n## Avoid\n- 不要让三视图服饰互相矛盾\n- 不要把角色性格只写成抽象形容词"
+      "en": "## Role\nAct as a senior image art director and production designer. Convert the supplied brief into one controlled visual deliverable, not a loose inspiration board.\n\n## Required brief fields\n- `{{character_name}}` (Character Name): Provide the exact copy for Character Name; if readable copy is not needed, explicitly state “no text” rather than letting the model invent it.\n- `{{role}}` (Role): Provide a concrete value for Role, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{silhouette}}` (Silhouette): Provide a concrete value for Silhouette, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{costume}}` (Costume): Define the identity, appearance anchors, wardrobe or pose, and the details that must remain stable across the series for Costume.\n- `{{personality}}` (Personality): Provide a concrete value for Personality, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n\n## Brief-resolution protocol\n- Treat every variable as a production decision. If a field is absent, request it before rendering; never silently substitute a generic product, statistic, brand claim, or identity.\n- Lock deliverable, audience, aspect ratio, focal subject, information density, and reference-preservation requirements before choosing style adjectives.\n- When exact copy, source assets, measurements, or legal claims are supplied, preserve them as controlled inputs rather than improvising replacements.\n\n## Core task\nDesign a production-ready character sheet for {{character_name}}, a {{role}}. Define a memorable {{silhouette}}, {{costume}}, and {{personality}}. Show front, side, and back views, a facial-expression strip, material callouts, and a concise prop set on a clean annotation grid.\n\n## Output contract\n- Produce exactly one finished portrait-character deliverable. Do not create a moodboard, multi-option presentation board, contact sheet, process diagram, mockup collage, or unexplained variants.\n- Establish a primary focal point, secondary information layer, and deliberate negative space before adding visual detail.\n- Keep all named objects, visual relationships, camera/perspective logic, and material behavior internally consistent.\n\n## Production structure\n- Keep anatomy, hands, wardrobe logic, and character-defining features consistent. Direct pose, expression, lens perspective, and background so they all support one identity.\n- For a series, lock the subject proportions, palette roles, lens language, and layout grammar before varying scene content. Every variation must remain recognizably in the same system.\n\n## Quality gates\n- Every required field is represented by a concrete, reviewable production decision.\n- The Portrait Character output has one clear focal hierarchy and remains readable at thumbnail size.\n- Supplied copy, facts, geometry, subject identity, materials, and spatial relationships remain internally consistent.\n- Review at thumbnail size first, then inspect factual accuracy, legibility, geometry, material behavior, and any reference-preservation requirement at full size.\n\n## Non-negotiable constraints\n- Respect the requested model compatibility, but prioritize the brief over any model-specific ornament.\n- Use short, exact text only when the brief provides it; never invent a real brand, a trademark, unsupported statistics, or filler copy.\n- Check for duplicate subjects, impossible geometry, incoherent shadows, broken anatomy, unreadable micro-text, and accidental watermarks before finalizing.\n\n## Avoid\n- Do not replace missing Text To Image / Series Consistency inputs with invented brands, statistics, identities, or filler copy.\n- Do not add unrelated objects, competing layouts, unexplained variants, or decorative structure that weakens the requested outcome.\n- Do not trade factual accuracy, legibility, physical plausibility, or subject consistency for surface-level style effects."
     },
-    "checklist": [
-      "三视图比例一致",
-      "关键配饰每个角度可追踪",
-      "注释服务制作而非装饰"
-    ],
-    "pitfalls": [
-      "不要让三视图服饰互相矛盾",
-      "不要把角色性格只写成抽象形容词"
-    ],
     "variable_labels": [
       {
         "id": "character_name",
@@ -17940,6 +18309,29 @@ export const templates = [
         }
       }
     ],
+    "checklist": {
+      "zh": [
+        "三视图比例一致",
+        "关键配饰每个角度可追踪",
+        "注释服务制作而非装饰"
+      ],
+      "en": [
+        "Every required field is represented by a concrete, reviewable production decision.",
+        "The Portrait Character output has one clear focal hierarchy and remains readable at thumbnail size.",
+        "Supplied copy, facts, geometry, subject identity, materials, and spatial relationships remain internally consistent."
+      ]
+    },
+    "pitfalls": {
+      "zh": [
+        "不要让三视图服饰互相矛盾",
+        "不要把角色性格只写成抽象形容词"
+      ],
+      "en": [
+        "Do not replace missing Text To Image / Series Consistency inputs with invented brands, statistics, identities, or filler copy.",
+        "Do not add unrelated objects, competing layouts, unexplained variants, or decorative structure that weakens the requested outcome.",
+        "Do not trade factual accuracy, legibility, physical plausibility, or subject consistency for surface-level style effects."
+      ]
+    },
     "execution": {
       "zh": {
         "input_policy": "缺失的必填变量必须先向需求方确认；不得用虚构品牌、数据、人物身份或文字补齐。",
@@ -18016,18 +18408,9 @@ export const templates = [
       "visual_metaphor"
     ],
     "prompt": {
-      "zh": "## 角色\n你是一名资深图像艺术总监与制作设计师。请把需求转化为一个受控的最终视觉交付物，而不是松散的灵感板。\n\n## 模板目标\n说明型信息图：将复杂主题拆解为可扫描的步骤、模块与关系图。\n\n## 必填需求字段\n- `{{topic}}`（主题）：请填写「主题」的具体内容，至少包含对象或取值范围、一个可见特征，以及它对构图、信息层级或生成结果的影响。\n- `{{audience}}`（受众）：请说明「受众」对应的人群、使用情境和关注重点，使内容密度与表达方式可被准确判断。\n- `{{key_steps}}`（关键步骤）：请列出「关键步骤」中必须呈现的具体项目、数量范围和优先顺序；不得用虚构数据补全。\n- `{{data_points}}`（数据要点）：请列出「数据要点」中必须呈现的具体项目、数量范围和优先顺序；不得用虚构数据补全。\n- `{{visual_metaphor}}`（视觉视觉隐喻）：请说明「视觉视觉隐喻」的媒介、时代或审美方向、情绪强度与细节密度，并给出 1–2 个可见特征。\n\n## 需求解析协议\n- 每个变量都是生产决策。缺失字段必须先向需求方确认；不得静默替换为泛化商品、统计数据、品牌主张或人物身份。\n- 在选择风格词前，先锁定交付类型、受众、画幅比例、焦点主体、信息密度和参考图保留要求。\n- 如需求给出精确文案、源素材、尺寸或合规主张，将其作为受控输入保留，不得即兴改写。\n\n## 输出契约\n- 只生成一张完成的 infographic 成品；不要生成情绪板、多方案展示板、联系表、过程图、样机拼贴或没有解释的变体。\n- 在添加视觉细节前，先建立主焦点、次级信息层与有意识的留白。\n- 所有命名对象、视觉关系、镜头/透视逻辑和材质行为必须内部一致。\n\n## 制作结构\n- 明确阅读路径：标题、3–5 个有顺序的模块、短标签与含义清晰的连接线。不能用装饰插画替代信息结构。\n\n## 质量门槛\n- 信息先后顺序明确\n- 图例和箭头含义一致\n- 单屏可以读完核心结论\n- 先在缩略图尺度检查层级，再在完整尺寸检查事实准确性、文字可读性、几何、材质行为与参考图保留要求。\n\n## 不可违反的约束\n- 兼顾声明的模型兼容性，但始终以需求本身为最高优先级。\n- 仅在需求提供精确短文案时才渲染文字；绝不虚构真实品牌、商标、没有来源的数据或填充文案。\n- 输出前检查重复主体、不可能几何、冲突阴影、错误肢体、不可读微型文字与意外水印。\n\n## 避免\n- 不要塞入无法验证的数据\n- 不要让插画替代信息结构",
-      "en": "## Role\nAct as a senior image art director and production designer. Convert the supplied brief into one controlled visual deliverable, not a loose inspiration board.\n\n## Required brief fields\n- `{{topic}}` (Topic): Provide a concrete value for Topic, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{audience}}` (Audience): Define the people, usage context, and priority for Audience so information density and tone can be chosen deliberately.\n- `{{key_steps}}` (Key Steps): List the concrete items, quantity range, and priority order required for Key Steps; do not fill gaps with fabricated data.\n- `{{data_points}}` (Data Points): List the concrete items, quantity range, and priority order required for Data Points; do not fill gaps with fabricated data.\n- `{{visual_metaphor}}` (Visual Metaphor): Describe the medium, era or aesthetic direction, emotional intensity, detail density, and 1–2 visible cues for Visual Metaphor.\n\n## Brief-resolution protocol\n- Treat every variable as a production decision. If a field is absent, request it before rendering; never silently substitute a generic product, statistic, brand claim, or identity.\n- Lock deliverable, audience, aspect ratio, focal subject, information density, and reference-preservation requirements before choosing style adjectives.\n- When exact copy, source assets, measurements, or legal claims are supplied, preserve them as controlled inputs rather than improvising replacements.\n\n## Core task\nCreate a vertical educational infographic about {{topic}} for {{audience}}. Explain {{key_steps}} through a {{visual_metaphor}}. Include only the essential {{data_points}}, short labels, directional connectors, and strong section hierarchy. Use a restrained editorial palette and leave ample whitespace.\n\n## Output contract\n- Produce exactly one finished infographic deliverable. Do not create a moodboard, multi-option presentation board, contact sheet, process diagram, mockup collage, or unexplained variants.\n- Establish a primary focal point, secondary information layer, and deliberate negative space before adding visual detail.\n- Keep all named objects, visual relationships, camera/perspective logic, and material behavior internally consistent.\n\n## Production structure\n- Make the reading path explicit: headline, 3–5 ordered modules, concise labels, and connectors whose direction and meaning are unambiguous. Do not substitute decorative illustration for information structure.\n\n## Quality gates\n- 信息先后顺序明确\n- 图例和箭头含义一致\n- 单屏可以读完核心结论\n- Review at thumbnail size first, then inspect factual accuracy, legibility, geometry, material behavior, and any reference-preservation requirement at full size.\n\n## Non-negotiable constraints\n- Respect the requested model compatibility, but prioritize the brief over any model-specific ornament.\n- Use short, exact text only when the brief provides it; never invent a real brand, a trademark, unsupported statistics, or filler copy.\n- Check for duplicate subjects, impossible geometry, incoherent shadows, broken anatomy, unreadable micro-text, and accidental watermarks before finalizing.\n\n## Avoid\n- 不要塞入无法验证的数据\n- 不要让插画替代信息结构"
+      "zh": "## 角色\n你是一名资深图像艺术总监与制作设计师。请把需求转化为一个受控的最终视觉交付物，而不是松散的灵感板。\n\n## 模板目标\n说明型信息图：将复杂主题拆解为可扫描的步骤、模块与关系图。\n\n## 必填需求字段\n- `{{topic}}`（主题）：请填写「主题」的具体内容，至少包含对象或取值范围、一个可见特征，以及它对构图、信息层级或生成结果的影响。\n- `{{audience}}`（受众）：请说明「受众」对应的人群、使用情境和关注重点，使内容密度与表达方式可被准确判断。\n- `{{key_steps}}`（关键步骤）：请列出「关键步骤」中必须呈现的具体项目、数量范围和优先顺序；不得用虚构数据补全。\n- `{{data_points}}`（数据要点）：请列出「数据要点」中必须呈现的具体项目、数量范围和优先顺序；不得用虚构数据补全。\n- `{{visual_metaphor}}`（视觉隐喻）：请说明「视觉隐喻」的媒介、时代或审美方向、情绪强度与细节密度，并给出 1–2 个可见特征。\n\n## 需求解析协议\n- 每个变量都是生产决策。缺失字段必须先向需求方确认；不得静默替换为泛化商品、统计数据、品牌主张或人物身份。\n- 在选择风格词前，先锁定交付类型、受众、画幅比例、焦点主体、信息密度和参考图保留要求。\n- 如需求给出精确文案、源素材、尺寸或合规主张，将其作为受控输入保留，不得即兴改写。\n\n## 输出契约\n- 只生成一张完成的 infographic 成品；不要生成情绪板、多方案展示板、联系表、过程图、样机拼贴或没有解释的变体。\n- 在添加视觉细节前，先建立主焦点、次级信息层与有意识的留白。\n- 所有命名对象、视觉关系、镜头/透视逻辑和材质行为必须内部一致。\n\n## 制作结构\n- 明确阅读路径：标题、3–5 个有顺序的模块、短标签与含义清晰的连接线。不能用装饰插画替代信息结构。\n\n## 质量门槛\n- 信息先后顺序明确\n- 图例和箭头含义一致\n- 单屏可以读完核心结论\n- 先在缩略图尺度检查层级，再在完整尺寸检查事实准确性、文字可读性、几何、材质行为与参考图保留要求。\n\n## 不可违反的约束\n- 兼顾声明的模型兼容性，但始终以需求本身为最高优先级。\n- 仅在需求提供精确短文案时才渲染文字；绝不虚构真实品牌、商标、没有来源的数据或填充文案。\n- 输出前检查重复主体、不可能几何、冲突阴影、错误肢体、不可读微型文字与意外水印。\n\n## 避免\n- 不要塞入无法验证的数据\n- 不要让插画替代信息结构",
+      "en": "## Role\nAct as a senior image art director and production designer. Convert the supplied brief into one controlled visual deliverable, not a loose inspiration board.\n\n## Required brief fields\n- `{{topic}}` (Topic): Provide a concrete value for Topic, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{audience}}` (Audience): Define the people, usage context, and priority for Audience so information density and tone can be chosen deliberately.\n- `{{key_steps}}` (Key Steps): List the concrete items, quantity range, and priority order required for Key Steps; do not fill gaps with fabricated data.\n- `{{data_points}}` (Data Points): List the concrete items, quantity range, and priority order required for Data Points; do not fill gaps with fabricated data.\n- `{{visual_metaphor}}` (Visual Metaphor): Describe the medium, era or aesthetic direction, emotional intensity, detail density, and 1–2 visible cues for Visual Metaphor.\n\n## Brief-resolution protocol\n- Treat every variable as a production decision. If a field is absent, request it before rendering; never silently substitute a generic product, statistic, brand claim, or identity.\n- Lock deliverable, audience, aspect ratio, focal subject, information density, and reference-preservation requirements before choosing style adjectives.\n- When exact copy, source assets, measurements, or legal claims are supplied, preserve them as controlled inputs rather than improvising replacements.\n\n## Core task\nCreate a vertical educational infographic about {{topic}} for {{audience}}. Explain {{key_steps}} through a {{visual_metaphor}}. Include only the essential {{data_points}}, short labels, directional connectors, and strong section hierarchy. Use a restrained editorial palette and leave ample whitespace.\n\n## Output contract\n- Produce exactly one finished infographic deliverable. Do not create a moodboard, multi-option presentation board, contact sheet, process diagram, mockup collage, or unexplained variants.\n- Establish a primary focal point, secondary information layer, and deliberate negative space before adding visual detail.\n- Keep all named objects, visual relationships, camera/perspective logic, and material behavior internally consistent.\n\n## Production structure\n- Make the reading path explicit: headline, 3–5 ordered modules, concise labels, and connectors whose direction and meaning are unambiguous. Do not substitute decorative illustration for information structure.\n\n## Quality gates\n- Every required field is represented by a concrete, reviewable production decision.\n- The Infographic output has one clear focal hierarchy and remains readable at thumbnail size.\n- Supplied copy, facts, geometry, subject identity, materials, and spatial relationships remain internally consistent.\n- Review at thumbnail size first, then inspect factual accuracy, legibility, geometry, material behavior, and any reference-preservation requirement at full size.\n\n## Non-negotiable constraints\n- Respect the requested model compatibility, but prioritize the brief over any model-specific ornament.\n- Use short, exact text only when the brief provides it; never invent a real brand, a trademark, unsupported statistics, or filler copy.\n- Check for duplicate subjects, impossible geometry, incoherent shadows, broken anatomy, unreadable micro-text, and accidental watermarks before finalizing.\n\n## Avoid\n- Do not replace missing Text To Image inputs with invented brands, statistics, identities, or filler copy.\n- Do not add unrelated objects, competing layouts, unexplained variants, or decorative structure that weakens the requested outcome.\n- Do not trade factual accuracy, legibility, physical plausibility, or subject consistency for surface-level style effects."
     },
-    "checklist": [
-      "信息先后顺序明确",
-      "图例和箭头含义一致",
-      "单屏可以读完核心结论"
-    ],
-    "pitfalls": [
-      "不要塞入无法验证的数据",
-      "不要让插画替代信息结构"
-    ],
     "variable_labels": [
       {
         "id": "topic",
@@ -18067,14 +18450,37 @@ export const templates = [
       },
       {
         "id": "visual_metaphor",
-        "zh": "视觉视觉隐喻",
+        "zh": "视觉隐喻",
         "en": "Visual Metaphor",
         "description": {
-          "zh": "请说明「视觉视觉隐喻」的媒介、时代或审美方向、情绪强度与细节密度，并给出 1–2 个可见特征。",
+          "zh": "请说明「视觉隐喻」的媒介、时代或审美方向、情绪强度与细节密度，并给出 1–2 个可见特征。",
           "en": "Describe the medium, era or aesthetic direction, emotional intensity, detail density, and 1–2 visible cues for Visual Metaphor."
         }
       }
     ],
+    "checklist": {
+      "zh": [
+        "信息先后顺序明确",
+        "图例和箭头含义一致",
+        "单屏可以读完核心结论"
+      ],
+      "en": [
+        "Every required field is represented by a concrete, reviewable production decision.",
+        "The Infographic output has one clear focal hierarchy and remains readable at thumbnail size.",
+        "Supplied copy, facts, geometry, subject identity, materials, and spatial relationships remain internally consistent."
+      ]
+    },
+    "pitfalls": {
+      "zh": [
+        "不要塞入无法验证的数据",
+        "不要让插画替代信息结构"
+      ],
+      "en": [
+        "Do not replace missing Text To Image inputs with invented brands, statistics, identities, or filler copy.",
+        "Do not add unrelated objects, competing layouts, unexplained variants, or decorative structure that weakens the requested outcome.",
+        "Do not trade factual accuracy, legibility, physical plausibility, or subject consistency for surface-level style effects."
+      ]
+    },
     "execution": {
       "zh": {
         "input_policy": "缺失的必填变量必须先向需求方确认；不得用虚构品牌、数据、人物身份或文字补齐。",
@@ -18152,17 +18558,8 @@ export const templates = [
     ],
     "prompt": {
       "zh": "## 角色\n你是一名资深图像艺术总监与制作设计师。请把需求转化为一个受控的最终视觉交付物，而不是松散的灵感板。\n\n## 模板目标\n运营数据表工作台：面向高密度业务操作场景，平衡表格扫描、批量动作和异常处理。\n\n## 必填需求字段\n- `{{product}}`（产品）：请给出「产品」的具体对象、外形或功能、关键材质与不可改变的识别特征。\n- `{{user_role}}`（用户角色）：请说明「用户角色」对应的人群、使用情境和关注重点，使内容密度与表达方式可被准确判断。\n- `{{primary_decision}}`（主要决策）：请填写「主要决策」的具体内容，至少包含对象或取值范围、一个可见特征，以及它对构图、信息层级或生成结果的影响。\n- `{{key_columns}}`（关键列）：请列出「关键列」中必须呈现的具体项目、数量范围和优先顺序；不得用虚构数据补全。\n- `{{action}}`（行动）：请写明「行动」发生了什么、谁在行动、动作结果或情绪转折是什么，确保画面有单一可读节点。\n\n## 需求解析协议\n- 每个变量都是生产决策。缺失字段必须先向需求方确认；不得静默替换为泛化商品、统计数据、品牌主张或人物身份。\n- 在选择风格词前，先锁定交付类型、受众、画幅比例、焦点主体、信息密度和参考图保留要求。\n- 如需求给出精确文案、源素材、尺寸或合规主张，将其作为受控输入保留，不得即兴改写。\n\n## 输出契约\n- 只生成一张完成的 ui-interface 成品；不要生成情绪板、多方案展示板、联系表、过程图、样机拼贴或没有解释的变体。\n- 在添加视觉细节前，先建立主焦点、次级信息层与有意识的留白。\n- 所有命名对象、视觉关系、镜头/透视逻辑和材质行为必须内部一致。\n\n## 制作结构\n- 按完整产品界面处理：建立明确栅格、一个主行动按钮、可理解的组件状态与可信的信息密度。仅在需求明确时选择桌面端 16:9 或移动端 9:16。\n\n## 质量门槛\n- 表格列能直接支持主要决策\n- 状态颜色与文字双重表达\n- 批量操作具备选择和确认线索\n- 先在缩略图尺度检查层级，再在完整尺寸检查事实准确性、文字可读性、几何、材质行为与参考图保留要求。\n\n## 不可违反的约束\n- 兼顾声明的模型兼容性，但始终以需求本身为最高优先级。\n- 仅在需求提供精确短文案时才渲染文字；绝不虚构真实品牌、商标、没有来源的数据或填充文案。\n- 输出前检查重复主体、不可能几何、冲突阴影、错误肢体、不可读微型文字与意外水印。\n\n## 避免\n- 不要把仪表盘小组件塞进每个表格空隙\n- 不要让颜色成为唯一状态说明",
-      "en": "## Role\nAct as a senior image art director and production designer. Convert the supplied brief into one controlled visual deliverable, not a loose inspiration board.\n\n## Required brief fields\n- `{{product}}` (Product): Provide the specific object, form or function, key materials, and non-negotiable identity features for Product.\n- `{{user_role}}` (User Role): Define the people, usage context, and priority for User Role so information density and tone can be chosen deliberately.\n- `{{primary_decision}}` (Primary Decision): Provide a concrete value for Primary Decision, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{key_columns}}` (Key Columns): List the concrete items, quantity range, and priority order required for Key Columns; do not fill gaps with fabricated data.\n- `{{action}}` (Action): State what happens in Action, who acts, and the resulting action or emotional turn so the image has one readable beat.\n\n## Brief-resolution protocol\n- Treat every variable as a production decision. If a field is absent, request it before rendering; never silently substitute a generic product, statistic, brand claim, or identity.\n- Lock deliverable, audience, aspect ratio, focal subject, information density, and reference-preservation requirements before choosing style adjectives.\n- When exact copy, source assets, measurements, or legal claims are supplied, preserve them as controlled inputs rather than improvising replacements.\n\n## Core task\nDesign a desktop operations workspace for {{product}} where {{user_role}} makes {{primary_decision}} using a structured data table. Define {{key_columns}} as a readable column system with sorting, filtering, status semantics, row selection, and a safe bulk {{action}}. Add a compact summary strip above the table and a contextual detail panel only when it helps the decision. Use a 12-column desktop grid, deliberate density, visible units, and color only for stable status meaning. Keep labels short, avoid fabricated metrics, and make the primary decision possible without opening every row.\n\n## Output contract\n- Produce exactly one finished ui-interface deliverable. Do not create a moodboard, multi-option presentation board, contact sheet, process diagram, mockup collage, or unexplained variants.\n- Establish a primary focal point, secondary information layer, and deliberate negative space before adding visual detail.\n- Keep all named objects, visual relationships, camera/perspective logic, and material behavior internally consistent.\n\n## Production structure\n- Use a coherent product screen with a deliberate grid, one primary action, clear component states, and a realistic content density. Select 16:9 for desktop or 9:16 for mobile only when the brief specifies that platform.\n\n## Quality gates\n- 表格列能直接支持主要决策\n- 状态颜色与文字双重表达\n- 批量操作具备选择和确认线索\n- Review at thumbnail size first, then inspect factual accuracy, legibility, geometry, material behavior, and any reference-preservation requirement at full size.\n\n## Non-negotiable constraints\n- Respect the requested model compatibility, but prioritize the brief over any model-specific ornament.\n- Use short, exact text only when the brief provides it; never invent a real brand, a trademark, unsupported statistics, or filler copy.\n- Check for duplicate subjects, impossible geometry, incoherent shadows, broken anatomy, unreadable micro-text, and accidental watermarks before finalizing.\n\n## Avoid\n- 不要把仪表盘小组件塞进每个表格空隙\n- 不要让颜色成为唯一状态说明"
+      "en": "## Role\nAct as a senior image art director and production designer. Convert the supplied brief into one controlled visual deliverable, not a loose inspiration board.\n\n## Required brief fields\n- `{{product}}` (Product): Provide the specific object, form or function, key materials, and non-negotiable identity features for Product.\n- `{{user_role}}` (User Role): Define the people, usage context, and priority for User Role so information density and tone can be chosen deliberately.\n- `{{primary_decision}}` (Primary Decision): Provide a concrete value for Primary Decision, including the object or range, one visible characteristic, and its effect on composition, information hierarchy, or the generated result.\n- `{{key_columns}}` (Key Columns): List the concrete items, quantity range, and priority order required for Key Columns; do not fill gaps with fabricated data.\n- `{{action}}` (Action): State what happens in Action, who acts, and the resulting action or emotional turn so the image has one readable beat.\n\n## Brief-resolution protocol\n- Treat every variable as a production decision. If a field is absent, request it before rendering; never silently substitute a generic product, statistic, brand claim, or identity.\n- Lock deliverable, audience, aspect ratio, focal subject, information density, and reference-preservation requirements before choosing style adjectives.\n- When exact copy, source assets, measurements, or legal claims are supplied, preserve them as controlled inputs rather than improvising replacements.\n\n## Core task\nDesign a desktop operations workspace for {{product}} where {{user_role}} makes {{primary_decision}} using a structured data table. Define {{key_columns}} as a readable column system with sorting, filtering, status semantics, row selection, and a safe bulk {{action}}. Add a compact summary strip above the table and a contextual detail panel only when it helps the decision. Use a 12-column desktop grid, deliberate density, visible units, and color only for stable status meaning. Keep labels short, avoid fabricated metrics, and make the primary decision possible without opening every row.\n\n## Output contract\n- Produce exactly one finished ui-interface deliverable. Do not create a moodboard, multi-option presentation board, contact sheet, process diagram, mockup collage, or unexplained variants.\n- Establish a primary focal point, secondary information layer, and deliberate negative space before adding visual detail.\n- Keep all named objects, visual relationships, camera/perspective logic, and material behavior internally consistent.\n\n## Production structure\n- Use a coherent product screen with a deliberate grid, one primary action, clear component states, and a realistic content density. Select 16:9 for desktop or 9:16 for mobile only when the brief specifies that platform.\n\n## Quality gates\n- Every required field is represented by a concrete, reviewable production decision.\n- The UI Interface output has one clear focal hierarchy and remains readable at thumbnail size.\n- Supplied copy, facts, geometry, subject identity, materials, and spatial relationships remain internally consistent.\n- Review at thumbnail size first, then inspect factual accuracy, legibility, geometry, material behavior, and any reference-preservation requirement at full size.\n\n## Non-negotiable constraints\n- Respect the requested model compatibility, but prioritize the brief over any model-specific ornament.\n- Use short, exact text only when the brief provides it; never invent a real brand, a trademark, unsupported statistics, or filler copy.\n- Check for duplicate subjects, impossible geometry, incoherent shadows, broken anatomy, unreadable micro-text, and accidental watermarks before finalizing.\n\n## Avoid\n- Do not replace missing Text To Image inputs with invented brands, statistics, identities, or filler copy.\n- Do not add unrelated objects, competing layouts, unexplained variants, or decorative structure that weakens the requested outcome.\n- Do not trade factual accuracy, legibility, physical plausibility, or subject consistency for surface-level style effects."
     },
-    "checklist": [
-      "表格列能直接支持主要决策",
-      "状态颜色与文字双重表达",
-      "批量操作具备选择和确认线索"
-    ],
-    "pitfalls": [
-      "不要把仪表盘小组件塞进每个表格空隙",
-      "不要让颜色成为唯一状态说明"
-    ],
     "variable_labels": [
       {
         "id": "product",
@@ -18210,6 +18607,29 @@ export const templates = [
         }
       }
     ],
+    "checklist": {
+      "zh": [
+        "表格列能直接支持主要决策",
+        "状态颜色与文字双重表达",
+        "批量操作具备选择和确认线索"
+      ],
+      "en": [
+        "Every required field is represented by a concrete, reviewable production decision.",
+        "The UI Interface output has one clear focal hierarchy and remains readable at thumbnail size.",
+        "Supplied copy, facts, geometry, subject identity, materials, and spatial relationships remain internally consistent."
+      ]
+    },
+    "pitfalls": {
+      "zh": [
+        "不要把仪表盘小组件塞进每个表格空隙",
+        "不要让颜色成为唯一状态说明"
+      ],
+      "en": [
+        "Do not replace missing Text To Image inputs with invented brands, statistics, identities, or filler copy.",
+        "Do not add unrelated objects, competing layouts, unexplained variants, or decorative structure that weakens the requested outcome.",
+        "Do not trade factual accuracy, legibility, physical plausibility, or subject consistency for surface-level style effects."
+      ]
+    },
     "execution": {
       "zh": {
         "input_policy": "缺失的必填变量必须先向需求方确认；不得用虚构品牌、数据、人物身份或文字补齐。",

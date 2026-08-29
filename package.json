@@ -15,7 +15,9 @@
     "test": "vitest run",
     "test:watch": "vitest",
     "validate": "vitest run",
-    "generate:catalog": "tsx scripts/generate-catalog.ts",
+    "generate:data": "tsx scripts/generate-catalog.ts",
+    "generate:docs": "tsx scripts/generate-docs.ts",
+    "generate:catalog": "npm run generate:data && npm run generate:docs",
     "dev": "npm run generate:catalog && vite --config vite.config.ts",
     "build": "npm run generate:catalog && vite build --config vite.config.ts",
     "preview": "vite preview --config vite.config.ts"

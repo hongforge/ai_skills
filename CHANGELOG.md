@@ -7,6 +7,7 @@ This file records significant user-visible changes to the project.
 ### Added
 
 - GitHub issue forms, pull request checks, automated validation, dependency updates, support guidance, and governance documentation.
+- A Chinese-first GitHub homepage, bilingual visual case galleries, bilingual industrial-template manuals, and automated GitHub Pages deployment.
 
 ## [0.1.0] - 2026-08-26
 
